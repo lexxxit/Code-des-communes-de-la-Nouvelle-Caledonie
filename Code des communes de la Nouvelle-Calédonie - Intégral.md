@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-07-01
 
 # Partie législative
 
@@ -13519,7 +13519,10 @@ A cet effet :
 
 4° Il peut faire assermenter certains agents nommés par lui et agréés par le haut-commissaire ;
 
-5° Il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses.
+5° Il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses ;
+
+6° Il prend les décisions pour lesquelles il a reçu délégation en vertu des dispositions du c de l'article L. 2221-5-1 du
+code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -13527,9 +13530,13 @@ A cet effet :
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2004-628 du 28 juin 2004 - art. 6 (V) JORF 1er juillet 2004
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2221-5-1 (V)
 
 
 ###### Article R323-23
@@ -13814,31 +13821,6 @@ Certaines dépenses fixées par le règlement intérieur peuvent être réglées
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-###### Article R323-37
-
-Les fonds de la régie sont déposés au Trésor.
-
-Cependant la régie peut se faire ouvrir des comptes de dépôt à un centre de chèques postaux et à la Caisse des dépôts et
-consignations.
-
-L'ouverture d'un compte de dépôt dans tout autre établissement de crédit est subordonnée à l'autorisation du trésorier-payeur
-général.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2004-628 du 28 juin 2004 - art. 6 (V) JORF 1er juillet 2004
 
 
 ##### Paragraphe 3 : Budget
