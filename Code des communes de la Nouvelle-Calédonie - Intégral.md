@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -10916,23 +10916,23 @@ proposition du ministre dont relève les agents intéressés et signés par le m
 ministre chargé du budget et du ministre chargé de la fonction publique.
 
 Toutefois, lorsqu'il n'a pas été statué par arrêté interministériel de caractère général et que le montant des indemnités
-n'excède pas 365 000 F CFP (20 063 FF) par an, l'attribution de l'indemnité peut faire l'objet d'un arrêté individuel du
-haut-commissaire pris sur proposition du chef de service de l'intéressé. L'arrêté individuel est pris par le ministre chargé
-de la fonction publique, le ministre chargé de la Nouvelle-Calédonie et le ministre chargé du budget lorsque le montant des
-indemnités excède 365 000 F CFP (20 063 FF) par an. En aucun cas il ne pourra excéder 900 000 F CFP (49 472 FF).
+n'excède pas 3058,58 euros par an, l'attribution de l'indemnité peut faire l'objet d'un arrêté individuel du haut-commissaire
+pris sur proposition du chef de service de l'intéressé. L'arrêté individuel est pris par le ministre chargé de la fonction
+publique, le ministre chargé de la Nouvelle-Calédonie et le ministre chargé du budget lorsque le montant des indemnités
+excède 3 058,58 euros par an. En aucun cas il ne pourra excéder 7 541,96 euros.
 
 Les montants mentionnés au présent article évoluent dans les mêmes conditions que la valeur annuelle du traitement afférent à
 l'indice 100 majoré de la fonction publique de l'Etat.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2001-183 du 22 février 2001 - art. 4 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
 ###### Article R221-2
@@ -14452,9 +14452,9 @@ après avis du conseil d'exploitation.
 
 Les fonctions d'agent comptable de la régie sont remplies par le comptable de la commune.
 
-Toutefois, lorsque les recettes annuelles d'exploitation excèdent 9 000 000 F CFP (494 722 FF), ces fonctions peuvent être
-confiées à un comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du
-trésorier-payeur général.
+Toutefois, lorsque les recettes annuelles d'exploitation excèdent 75 419,89 euros, ces fonctions peuvent être confiées à un
+comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du trésorier-payeur
+général.
 
 L'agent qui remplit les fonctions de comptable spécial est nommé par le haut-commissaire sur proposition du maire.
 
@@ -14469,13 +14469,13 @@ comptable de la commune.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2001-183 du 22 février 2001 - art. 4 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
 ###### Article R323-72
@@ -15144,22 +15144,22 @@ des sociétés anonymes.
 
 ###### Article R324-3
 
-Dans toute commune ou établissement ayant plus de 9 000 000 F CFP (494 722 FF) de recettes de fonctionnement, les comptes
-mentionnés à l'article R. 324-2 sont en outre examinés par une commission de contrôle dont la composition est fixée par une
-délibération du conseil municipal ou du conseil de l'établissement.
+Dans toute commune ou établissement ayant plus de 75 419,89 euros de recettes de fonctionnement, les comptes mentionnés à
+l'article R. 324-2 sont en outre examinés par une commission de contrôle dont la composition est fixée par une délibération
+du conseil municipal ou du conseil de l'établissement.
 
 Le haut-commissaire est représenté à cette commission par un ou plusieurs fonctionnaires qualifiés par leur compétence
 technique.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2001-183 du 22 février 2001 - art. 4 (V)
+
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 	**Cite**:
 
@@ -15230,17 +15230,17 @@ même partielle, le concessionnaire est soumis en ce qui concerne les mesures de
 Afin de favoriser la création ou l'extension d'activités économiques, les communes et leurs groupements peuvent, seuls ou
 conjointement, accorder des rabais sur le prix de vente ou de location des terrains et des bâtiments qu'ils cèdent ou louent
 aux entreprises, dans la limite de 25 % de la valeur vénale de ces terrains ou bâtiments ou des loyers correspondant à cette
-valeur, évaluée aux conditions du marché ; ces rabais sont plafonnés à 20 000 000 F CFP (1 099 382 FF).
+valeur, évaluée aux conditions du marché ; ces rabais sont plafonnés à 167 599,72 euros.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2001-183 du 22 février 2001 - art. 4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 	**Cité par**:
 
