@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-03-10
 
 # Partie législative
 
@@ -1916,6 +1916,40 @@ produisent, l'article L. 122-5 est applicable.
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L122-5 (V)
+
+
+###### Article L122-7-1
+
+Conformément aux dispositions du deuxième alinéa de l'article 40 du code de procédure pénale, le maire est tenu de signaler
+sans délai au procureur de la République les crimes ou les délits dont il acquiert la connaissance dans l'exercice de ses
+fonctions.
+
+Le maire est avisé des suites données à son signalement conformément aux dispositions de l'article 40-2 du même code.
+
+Le procureur de la République peut porter à la connaissance du maire ou du président de l'établissement public de coopération
+intercommunale toutes les mesures ou décisions de justice, civiles ou pénales, dont la communication paraît nécessaire à la
+mise en oeuvre d'actions de prévention, de suivi et de soutien, engagées ou coordonnées par l'autorité municipale ou
+intercommunale.
+
+Les dispositions des articles 226-13 et 226-14 du code pénal s'appliquent aux destinataires de cette information, sous
+réserve de l'exercice de la mission mentionnée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 222 () JORF 10 mars 2004
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+	  - CODE DE PROCEDURE PENALE - art. 40 (M)
+	  - CODE DE PROCEDURE PENALE - art. 40-2 (AbD)
 
 
 ###### Article L122-8
