@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2005-04-01
 
 # Partie législative
 
@@ -11567,7 +11567,7 @@ résulte du recensement précité.
 
 ###### Article R234-4
 
-Le montant de la quote-part de la dotation d'aménagement prévue aux quatrième et cinquième alinéas de l'article L. 2334-13 du
+Le montant de la quote-part de la dotation d'aménagement prévue aux troisième et quatrième alinéas de l'article L. 2334-13 du
 code général des collectivités territoriales est réparti entre les communes de la Nouvelle-Calédonie, à raison de :
 
 35 % proportionnellement à la population de chaque commune ;
@@ -11586,9 +11586,9 @@ revenu des valeurs mobilières et les droits d'enregistrement.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2005-298 du 31 mars 2005 - art. 13 () JORF 1er avril 2005
 
 	**Cité par**:
 
