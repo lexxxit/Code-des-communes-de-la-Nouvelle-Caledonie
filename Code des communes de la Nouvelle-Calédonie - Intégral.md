@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2003-04-12
+Version Consolidée au 2003-06-08
 
 # Partie législative
 
@@ -8677,17 +8677,112 @@ biens mentionnés à l'article R. 112-19 lui est dévolue si elle est érigée e
 
 #### Chapitre IV : Population des communes
 
-###### Article D114-1
+###### Article R114-1
 
-Le chiffre de la population qui sert de base à l'assiette de l'impôt et à l'application des lois d'organisation municipale
-est celui qui résulte de l'addition, au chiffre de la population municipale totale, du chiffre de la population comptée à
-part.
+I. - Les personnes prises en compte dans les catégories de population définies ci-dessous sont les personnes résidant dans
+les logements d'une commune, celles résidant dans les communautés telles que définies aux V et VI du présent article, les
+personnes sans abri et les personnes résidant habituellement dans des habitations mobiles.
+
+II. - Les catégories de population sont :
+
+1. La population municipale ;
+
+2. La population comptée à part ;
+
+3. La population totale, qui est la somme des deux précédentes.
+
+III. - La population municipale, mentionnée au 1 du II du présent article, d'une commune comprend :
+
+1. Les personnes ayant leur résidence habituelle sur le territoire de la commune. La résidence habituelle, au sens du présent
+article, d'une personne ayant plusieurs résidences en Nouvelle-Calédonie est :
+
+a) Pour une personne mineure résidant ailleurs du fait de ses études, la résidence de sa famille ;
+
+b) Pour une personne résidant dans une communauté appartenant aux catégories 1 à 3 définies au VI du présent article, la
+communauté ;
+
+c) Pour une personne majeure résidant dans une communauté appartenant à la catégorie 4 définie au VI du présent article, la
+communauté ;
+
+d) Pour une personne majeure résidant du fait de ses études hors de la résidence familiale et hors communauté, son logement ;
+
+e) Pour un conjoint ou concubin résidant pour des raisons professionnelles hors de la résidence familiale et hors communauté,
+sa résidence familiale ;
+
+f) Pour une personne qui ne se trouve dans aucune des situations décrites ci-dessus, la résidence dans laquelle elle réside
+le plus longtemps.
+
+2. Les personnes mineures dont la famille réside sur le territoire de la commune, qui résident ailleurs en France du fait de
+leurs études et qui ne relèvent pas des dispositions de l'alinéa 1 ;
+
+3. Les personnes détenues dans les établissements pénitentiaires dont le siège est situé sur le territoire de la commune ;
+
+4. Les personnes sans abri recensées sur le territoire de la commune ;
+
+5. Les personnes résidant habituellement dans des habitations mobiles, recensées sur le territoire de la commune.
+
+IV. - La population comptée à part, mentionnée au 2 du II du présent article, d'une commune comprend :
+
+1. Les personnes se trouvant dans la situation décrite au a du 1 du III qui résident du fait de leurs études sur le
+territoire de la commune et qui ont leur résidence habituelle située dans une autre commune ;
+
+2. Les personnes se trouvant dans la situation décrite au b du 1 du III dont la résidence familiale est située sur le
+territoire de la commune et qui ont leur résidence habituelle située dans une autre commune ;
+
+3. Les personnes majeures âgées de moins de vingt-cinq ans qui se trouvent dans la situation décrite au c du 1 du III dont la
+résidence familiale se trouve sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre
+commune ;
+
+4. Les personnes majeures âgées de moins de vingt-cinq ans qui se trouvent dans la situation décrite au d du 1 du III dont la
+résidence de la famille se trouve sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre
+commune ;
+
+5. Les personnes sans domicile fixe rattachées, au sens de la loi du 3 janvier 1969 susvisée, à la commune et non recensées
+sur le territoire de la commune ;
+
+6. Les personnes majeures âgées de moins de vingt-cinq ans dont la famille réside sur le territoire de la commune, qui
+résident ailleurs en France du fait de leurs études et qui ne relèvent pas des alinéas précédents.
+
+De plus, les personnes se considérant comme appartenant à une tribu sont comptées au titre de la population comptée à part de
+la commune où est située la tribu si elles résident habituellement dans une autre commune et sont, par suite, recensées dans
+cette dernière.
+
+V. - Une communauté est un ensemble de locaux d'habitation relevant d'une même autorité gestionnaire et dont les habitants
+partagent à titre habituel un mode de vie commun. La population de la communauté comprend les personnes qui résident dans la
+communauté, à l'exception de celles résidant dans des logements de fonction.
+
+VI. - Les catégories de communautés sont :
+
+1. Les services de moyen ou de long séjour des établissements publics ou privés de santé, les établissements sociaux de moyen
+et long séjour, les maisons de retraite, les foyers et résidences sociales ou assimilés ;
+
+2. Les communautés religieuses ;
+
+3. Les casernes, quartiers, bases, camps militaires ou assimilés ;
+
+4. Les établissements hébergeant des élèves ou des étudiants, y compris les établissements militaires d'enseignement ;
+
+5. Les établissements pénitentiaires ;
+
+6. Les établissements sociaux de court séjour ;
+
+7. Les autres communautés.
+
+VII. - La population totale d'un ensemble de communes est la somme des populations totales des communes qui le constituent.
+
+La population municipale d'un ensemble de communes est la somme des populations municipales des communes qui le constituent.
+
+La population d'une fraction de commune est la population municipale calculée pour cette fraction de commune.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des communes applicable en Nouvelle-Calédonie R114-1
+	  - Code des communes applicable en Nouvelle-Calédonie D114-1
+
+	**Cite**:
+
+	  - Loi n°69-3 1969-01-03
 
 	**Codifié par**:
 
@@ -8695,20 +8790,20 @@ part.
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2003-485 du 5 juin 2003 - art. 13 () JORF 8 juin 2003
 
 
-###### Article D114-2
+###### Article R114-2
 
-Le chiffre de la population municipale totale, telle qu'elle résulte du dernier recensement général de la population, reste
-le chiffre de population auquel il convient de se référer en matière électorale, notamment dans les cas prévus par les
-articles R. 121-2 et R. 121-5
+Le chiffre de la population qui sert de base à l'assiette de l'impôt et, le cas échéant, à l'application des dispositions du
+présent code est celui de la population totale, obtenu par addition au chiffre de la population municipale de celui de la
+population comptée à part.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des communes applicable en Nouvelle-Calédonie R114-2
+	  - Code des communes applicable en Nouvelle-Calédonie D114-2
 
 	**Codifié par**:
 
@@ -8716,40 +8811,57 @@ articles R. 121-2 et R. 121-5
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2003-485 du 5 juin 2003 - art. 13 () JORF 8 juin 2003
 
-	**Cité par**:
+
+###### Article R114-3
+
+Le chiffre de population auquel il convient de se référer en matière électorale, notamment dans les cas prévus par l'article
+R. 121-2 est le dernier chiffre de population municipale authentifié avant l'élection.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des communes applicable en Nouvelle-Calédonie D114-3
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Décret n°2003-485 du 5 juin 2003 - art. 13 () JORF 8 juin 2003
+
+	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. R121-2 (M)
 
-	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. R121-5 (V)
+###### Article R114-4
 
+Lorsque, par suite de l'exécution d'un programme de construction, l'évolution constatée de la population d'une commune en
+Nouvelle-Calédonie répond à la formule suivante :
 
-###### Article D114-3
-
-Lorsque, par suite de l'exécution d'un programme de construction, l'évolution constatée de la population d'une commune répond
-à la formule suivante :
-
-B + C > 20 % de A,
+B + C supérieur ou = à 15 % de A
 
 dans laquelle :
 
-A = population légale selon le dernier recensement ;
+A = population totale selon le dernier recensement ;
 
 B = chiffre de la population provenant d'une autre commune et occupant des logements neufs dans la commune considérée ;
 
-C = quatre fois le nombre des logements en chantier,
+C = quatre fois le nombre de logements en chantier, c'est-à-dire situés dans un immeuble dont les fondations ont commencé à
+être coulées,
 
-les chiffres officiels de sa population peuvent être rectifiés par arrêté du ministre chargé de la Nouvelle-Calédonie pris
-sur la proposition du ministre de l'économie et des finances, la nouvelle population légale de la commune devenant A + B.
+les chiffres de sa population peuvent être rectifiés par arrêté du ministre de l'intérieur et du ministre de l'outre-mer pris
+sur la proposition du ministre chargé de l'économie, sa nouvelle population totale devenant A + B.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des communes applicable en Nouvelle-Calédonie R114-3
+	  - Code des communes applicable en Nouvelle-Calédonie D114-4
 
 	**Codifié par**:
 
@@ -8757,33 +8869,31 @@ sur la proposition du ministre de l'économie et des finances, la nouvelle popul
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2003-485 du 5 juin 2003 - art. 13 () JORF 8 juin 2003
 
 	**Cité par**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-4 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-5 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. R234-2 (V)
+	  - Décret n°2009-784 du 23 juin 2009 - art. 5 (V)
+	  - Décret n°2014-569 du 2 juin 2014 - art. 4 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. R114-5 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. R114-6 (V)
 
 
-###### Article D114-4
+###### Article R114-5
 
-Lorsque, par suite de la mise en chantier d'un ou plusieurs programmes de construction, la population d'une commune a subi
-une variation répondant à la formule énoncée à l'article D. 114-3, un arrêté du ministre chargé de la Nouvelle-Calédonie,
-pris sur proposition du ministre de l'économie et des finances, peut décider qu'il est ajouté à la population légale une
-population fictive correspondant à quatre fois le nombre de logements en chantier (chiffre C de l'article D. 114-3) pour le
-calcul des subventions de l'Etat aux communes et pour toute répartition de fonds commun.
-
-Le chiffre de la population ainsi défini (A + B + C) est utilisé pour le calcul de la valeur du centime démographique.
-
-Est considéré comme logement en chantier, au sens du premier alinéa du présent article, le logement situé dans un immeuble
-dont les fondations ont commencé à être coulées.
+Lorsque, par suite de la mise en chantier d'un ou plusieurs programmes de construction, la population d'une commune en
+Nouvelle-Calédonie a subi une variation répondant à la formule énoncée à l'article R. 114-4, un arrêté conjoint du ministre
+de l'intérieur et du ministre de l'outre-mer, pris sur la proposition du ministre chargé de l'économie, peut décider qu'il
+est ajouté à la population totale de cette commune une population fictive correspondant à quatre fois le nombre de logements
+en chantier, c'est-à-dire situés dans un immeuble dont les fondations ont commencé à être coulées (chiffre C de l'article R.
+114-4) pour le calcul des dotations et subventions de l'Etat aux collectivités locales et pour toute répartition de fonds
+commun.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des communes applicable en Nouvelle-Calédonie R114-4
+	  - Code des communes applicable en Nouvelle-Calédonie D114-5
 
 	**Codifié par**:
 
@@ -8791,65 +8901,16 @@ dont les fondations ont commencé à être coulées.
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2003-485 du 5 juin 2003 - art. 13 () JORF 8 juin 2003
+
+	**Cité par**:
+
+	  - Décret n°2014-569 du 2 juin 2014 - art. 4 (V)
+	  - Arrêté du 30 septembre 2014 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-3 (Ab)
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-5 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. R234-3 (V)
-
-
-###### Article D114-5
-
-Il est procédé simultanément aux opérations de recensement complémentaire et d'attribution de population fictive prévues aux
-articles D. 114-3 et D. 114-4.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code des communes applicable en Nouvelle-Calédonie R114-5
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-3 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-4 (Ab)
-
-
-###### Article D114-6
-
-Les majorations de population fictive sont attribuées uniformément pour deux ans, avec recensement obligatoire à l'expiration
-de ce délai et sans qu'à cette date puisse être laissé à la commune le bénéfice d'une population fictive résiduelle.
-
-En outre, il ne peut être procédé pour une même commune à l'exécution d'un nouveau recensement complémentaire après
-l'attribution d'une nouvelle population fictive dans l'année qui suit la première attribution et qui précède celle de son
-recensement complémentaire obligatoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R234-3 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. R114-4 (V)
 
 
 ### TITRE II : ORGANES DE LA COMMUNE
@@ -8876,8 +8937,9 @@ tableau.
 
 ###### Article R121-2
 
-Conformément à l'article D. 114-2, le chiffre de la population à retenir pour l'application des dispositions du premier
-alinéa de l'article L. 121-2 est celui de la population municipale totale tel qu'il résulte du dernier recensement.
+Par dérogation à l'article R. 114-2 du code des communes applicable en Nouvelle-Calédonie, en Polynésie française et à
+Mayotte, lorsqu'il est procédé à une élection complémentaire dans une commune de moins de 3 500 habitants, le chiffre de la
+population à retenir est le chiffre de population authentifié avant le dernier renouvellement intégral du conseil municipal.
 
 **Liens relatifs à cet article**
 
@@ -8885,17 +8947,17 @@ alinéa de l'article L. 121-2 est celui de la population municipale totale tel q
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2003-485 du 5 juin 2003 - art. 16 (V) JORF 8 juin 2003
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. D114-2 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-2 (V)
+	  - CODE DES COMMUNES. - art. R114-2 (Ab)
 
 	**Cité par**:
 
+	  - Code des communes de la Nouvelle-Calédonie - art. D114-2 (Ab)
 	  - Code des communes de la Nouvelle-Calédonie - art. R114-3 (V)
 
 
