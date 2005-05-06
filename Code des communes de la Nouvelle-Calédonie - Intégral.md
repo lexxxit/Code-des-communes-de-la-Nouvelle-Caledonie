@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2005-04-01
+Version Consolidée au 2005-05-07
 
 # Partie législative
 
@@ -933,6 +933,36 @@ le cas contraire.
 	  - Code des communes de la Nouvelle-Calédonie - art. L166-5 (V)
 
 
+###### Article L121-20-3
+
+Dans les communes de 50 000 habitants et plus, le conseil municipal, lorsqu'un sixième de ses membres le demande, délibère de
+la création d'une mission d'information et d'évaluation, chargée de recueillir des éléments d'information sur une question
+d'intérêt communal ou de procéder à l'évaluation d'un service public communal. Un même conseiller municipal ne peut
+s'associer à une telle demande plus d'une fois par an.
+
+Aucune mission ne peut être créée à partir du 1er janvier de l'année civile qui précède l'année du renouvellement général des
+conseils municipaux.
+
+Le règlement intérieur fixe les règles de présentation et d'examen de la demande de constitution de la mission, ses modalités
+de fonctionnement, les modalités de sa composition dans le respect du principe de la représentation proportionnelle, la durée
+de la mission, qui ne peut excéder six mois à compter de la date de la délibération qui l'a créée, ainsi que les conditions
+dans lesquelles elle remet son rapport aux membres du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 2 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L163-14-1 (V)
+
+
 ##### Section 3 : Dispositions applicables aux membres des conseils municipaux
 
 ###### Article L121-21
@@ -1110,7 +1140,9 @@ outre.
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 5 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat
+##### Section 5 : Garanties accordées aux membres des conseils municipaux
+
+##### Sous-section 1 : Garanties accordées dans l'exercice du mandat
 
 ###### Article L121-28
 
@@ -1134,9 +1166,9 @@ L'employeur n'est pas tenu de payer comme temps de travail le temps passé par l
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -1154,12 +1186,18 @@ L'employeur n'est pas tenu de payer comme temps de travail le temps passé par l
 
 ###### Article L121-29
 
-Les pertes de revenu subies, du fait de l'assistance aux séances et réunions prévues à l'article L. 121-28, par les élus qui
-ne bénéficient pas d'indemnités de fonctions, peuvent être compensées par la commune ou par l'organisme auprès duquel ils la
-représentent.
+Les pertes de revenu subies par les conseillers municipaux qui exercent une activité professionnelle salariée ou non salariée
+et qui ne bénéficient pas d'indemnités de fonction peuvent être compensées par la commune ou par l'organisme auprès duquel
+ils la représentent, lorsque celles-ci résultent :
 
-Cette compensation est limitée à vingt-quatre heures par élu et par an ; chaque heure ne peut être rémunérée à un montant
-supérieur à une fois et demie la valeur horaire du salaire minimum.
+- de leur participation aux séances et réunions mentionnées à l'article L. 121-28 ;
+
+- de l'exercice de leur droit à un crédit d'heures lorsqu'ils ont la qualité de salarié ou, lorsqu'ils exercent une activité
+professionnelle non salariée, du temps qu'ils consacrent à l'administration de cette commune ou de cet organisme et à la
+préparation des réunions.
+
+Cette compensation est limitée à soixante-douze heures par élu et par an. Chaque heure ne peut être rémunérée à un montant
+supérieur à une fois et demie la valeur horaire du salaire minimum garanti.
 
 **Liens relatifs à cet article**
 
@@ -1167,9 +1205,10 @@ supérieur à une fois et demie la valeur horaire du salaire minimum.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 4 () JORF 7 mai 2005
 
 	**Cite**:
 
@@ -1187,22 +1226,30 @@ maires, les adjoints et, dans les villes de 3 500 habitants au moins, les consei
 d'heures leur permettant de disposer du temps nécessaire à l'administration de la commune ou de l'organisme auprès duquel ils
 la représentent et à la préparation des réunions des instances où ils siègent.
 
-II. - Ce crédit d'heures, forfaitaire et trimestriel, est égal :
+II. - Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail.
 
-1° A l'équivalent de trois fois la durée hebdomadaire légale du travail pour les maires des villes d'au moins 10 000
+Il est égal :
+
+1° A l'équivalent de quatre fois la durée hebdomadaire légale du travail pour les maires des communes d'au moins 10 000
 habitants et les adjoints au maire des communes d'au moins 30 000 habitants ;
 
-2° A l'équivalent d'une fois et demie la durée hebdomadaire légale du travail pour les maires des communes de moins de 10 000
-habitants et les adjoints au maire des communes de 10 000 à 29 999 habitants ;
+2° A l'équivalent de trois fois la durée hebdomadaire légale du travail pour les maires des communes de moins de 10 000
+habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ;
 
-3° A l'équivalent de 60 % de la durée hebdomadaire légale du travail pour les conseillers municipaux des villes de 100 000
-habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ;
+3° A l'équivalent d'une fois et demie la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de
+100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ;
 
-4° A l'équivalent de 40 % de la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999
-habitants, de 30 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 15 % pour les conseillers
+4° A l'équivalent d'une fois la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999
+habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les conseillers
 municipaux des communes de 3 500 à 9 999 habitants.
 
 Les heures non utilisées pendant un trimestre ne sont pas reportables.
+
+Lorsqu'un adjoint ou un conseiller supplée le maire dans les conditions fixées par l'article L. 122-13, il bénéficie, pendant
+la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article.
+
+Les conseillers municipaux qui bénéficient d'une délégation de fonction du maire ont droit au crédit d'heures prévu pour les
+adjoints au 1° ou au 2°.
 
 III. - En cas de travail à temps partiel, ce crédit d'heures est réduit proportionnellement à la réduction du temps de
 travail prévue pour l'emploi considéré.
@@ -1216,13 +1263,14 @@ prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
 
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-13 (V)
 
 	**Cité par**:
 
@@ -1249,9 +1297,9 @@ tels que les travaux d'électrification.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
 
 	**Cite**:
 
@@ -1280,9 +1328,9 @@ durée légale du travail pour une année civile.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
 
 	**Cite**:
 
@@ -1310,14 +1358,36 @@ municipal.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
 
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-31 (M)
 	  - Code des communes de la Nouvelle-Calédonie L121-30 à L121-32, L121-31
+
+
+##### Sous-section 2 : Garanties accordées à l'issue du mandat
+
+###### Article L121-33-1
+
+A l'issue de son mandat, tout maire ou, dans les communes de 20 000 habitants au moins, tout adjoint qui, pour l'exercice de
+son mandat, a cessé son activité professionnelle salariée, a droit sur sa demande à une formation professionnelle.
+
+Lorsque l'intéressé demande à bénéficier du congé de formation prévu par la législation et la réglementation applicable en
+Nouvelle-Calédonie, le temps passé au titre du mandat local est assimilé aux durées d'activité exigées pour l'accès à ces
+congés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 6 () JORF 7 mai 2005
 
 
 ##### Section 6 : Garanties accordées aux membres des conseils municipaux dans leur activité professionnelle
@@ -1357,15 +1427,19 @@ de dommages et intérêts au profit de l'élu.
 
 La réintégration ou le reclassement dans l'emploi est de droit.
 
+Il est interdit à tout employeur de prendre en considération les absences mentionnées au premier alinéa pour arrêter ses
+décisions en ce qui concerne l'embauche, la formation professionnelle, l'avancement, la rémunération et l'octroi d'avantages
+sociaux.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 7 () JORF 7 mai 2005
 
 	**Cite**:
 
@@ -1408,28 +1482,31 @@ Les fonctionnaires sont placés, sur leur demande, en position de détachement.
 
 Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions.
 
+Dans les trois mois suivant son renouvellement, le conseil municipal délibère sur l'exercice du droit à la formation de ses
+membres. Il détermine les orientations et les crédits ouverts à ce titre.
+
+Un tableau récapitulant les actions de formation des élus financées par la commune est annexé au compte administratif. Il
+donne lieu à un débat annuel sur la formation des membres du conseil municipal.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 8 () JORF 7 mai 2005
 
 
 ###### Article L121-38
 
-Les frais de formation de l'élu constituent une dépense obligatoire pour la commune.
+Indépendamment des autorisations d'absence et du crédit d'heures prévus aux articles L. 121-28, L. 121-30 et L. 121-31, les
+membres du conseil municipal qui ont la qualité de salarié ont droit à un congé de formation. Ce congé est fixé à dix-huit
+jours par élu pour la durée du mandat et quel que soit le nombre de mandats qu'il détient. Ce congé est renouvelable en cas
+de réélection.
 
-Les frais de déplacement, de séjour et, le cas échéant, d'enseignement donnent droit à remboursement.
-
-Les pertes de revenu de l'élu sont également supportées par la commune dans la limite de six jours par élu pour la durée d'un
-mandat et d'une fois et demie la valeur horaire du salaire minimum de croissance.
-
-Le montant des dépenses de formation ne peut excéder 20 % du total des crédits ouverts au titre des indemnités de fonction
-susceptibles d'être allouées aux élus de la commune.
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1437,9 +1514,15 @@ susceptibles d'être allouées aux élus de la commune.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 9 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-30 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-31 (M)
 
 	**Cité par**:
 
@@ -1449,11 +1532,16 @@ susceptibles d'être allouées aux élus de la commune.
 
 ###### Article L121-38-1
 
-Indépendamment des autorisations d'absence et du crédit d'heures prévus aux articles L. 121-28, L. 121-30 et L. 121-31, les
-membres du conseil municipal qui ont la qualité de salariés ont droit à un congé de formation. La durée de ce congé est fixée
-à six jours par élu quel que soit le nombre de mandats qu'il détient. Il est renouvelable en cas de réélection.
+Les frais de déplacement, de séjour et d'enseignement donnent droit à remboursement.
 
-Les modalités d'exercice de ce droit sont fixées par décret en Conseil d'Etat.
+Les pertes de revenu subies par l'élu du fait de l'exercice de son droit à la formation prévu par la présente section sont
+compensées par la commune dans la limite de dix-huit jours par élu pour la durée du mandat et d'une fois et demie la valeur
+horaire du salaire minimum garanti par heure.
+
+Le montant des dépenses de formation ne peut excéder 20 % du montant total des indemnités de fonction qui peuvent être
+allouées aux élus de la commune.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1461,15 +1549,9 @@ Les modalités d'exercice de ce droit sont fixées par décret en Conseil d'Etat
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-30 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-31 (M)
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 10 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -1503,13 +1585,16 @@ ainsi que leur coût prévisionnel.
 ###### Article L121-39-1
 
 I. - Les actes pris par les autorités communales sont exécutoires de plein droit dès qu'il a été procédé à leur publication
-ou à leur notification aux intéressés, ainsi qu'à leur transmission au haut-commissaire ou à son représentant dans la
-province.
+ou affichage ou à leur notification aux intéressés, ainsi qu'à leur transmission au haut-commissaire ou à son représentant
+dans la province.
 
 Le maire certifie, sous sa responsabilité, le caractère exécutoire de ces actes.
 
 La preuve de la réception des actes par le haut-commissaire peut être apportée par tout moyen. L'accusé de réception, qui est
 immédiatement délivré, peut être utilisé à cet effet, mais n'est pas une condition du caractère exécutoire des actes.
+
+La publication ou l'affichage de ces actes peut également être organisée, à titre complémentaire mais non exclusif, sur
+support numérique.
 
 II. - Sont soumis aux dispositions du I les actes suivants :
 
@@ -1537,7 +1622,7 @@ de la commune ;
 locales pour le compte d'une commune ou d'un établissement public de coopération intercommunale.
 
 III. - Les actes pris au nom de la commune, autres que ceux qui sont mentionnés au II, sont exécutoires de plein droit dès
-qu'il a été procédé à leur publication ou à leur notification aux intéressés.
+qu'il a été procédé à leur publication ou affichage ou à leur notification aux intéressés.
 
 IV. - Les actes pris par les autorités communales au nom de l'Etat ainsi que les actes relevant du droit privé ne sont pas
 soumis aux dispositions du présent titre et demeurent régis par les dispositions qui leur sont propres.
@@ -1562,9 +1647,9 @@ commune.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 11 () JORF 7 mai 2005
 
 	**Cite**:
 
@@ -2050,8 +2135,8 @@ L. 46-1, LO 151 et LO 151-1 du code électoral sont définitives à compter de l
 ###### Article L122-11
 
 Le maire est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité, déléguer par arrêté
-une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints, à des
-membres du conseil municipal.
+une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints ou dès
+lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal.
 
 Le membre du conseil municipal ayant démissionné de la fonction de maire, en application des articles LO 141 du code
 électoral, L. 122-4-1 du présent code et de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des
@@ -2077,14 +2162,16 @@ formes.
 	**Cite**:
 
 	  - Loi n°77-729 du 7 juillet 1977 - art. 6-2 (Ab)
+	  - Code électoral - art. L141 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-4-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 12 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -2323,9 +2410,10 @@ dépôt temporaire sur les voies et autres lieux publics, et, d'une manière gé
 qui n'ont pas un caractère fiscal ;
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
-investissements prévus par le budget ainsi que de prendre les décisions de dérogations à l'obligation de dépôt des fonds
-auprès de l'Etat dans les conditions définies aux articles L. 1618-1, L. 1618-2 et L. 2221-5-1 du code général des
-collectivités territoriales et de passer à cet effet les actes nécessaires ;
+investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les
+opérations de couverture des risques de taux et de change, ainsi que de prendre les décisions de dérogations à l'obligation
+de dépôt des fonds auprès de l'Etat dans les conditions définies aux articles L. 1618-1, L. 1618-2 et L. 2221-5-1 du code
+général des collectivités territoriales et de passer à cet effet les actes nécessaires ;
 
 4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de
 fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
@@ -2374,7 +2462,7 @@ droits de préemption définis par les règlements d'urbanisme.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1311 2003-12-30 art. 116 VI 5° Finances pour 2004 JORF 31 décembre 2003
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 13 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -2385,7 +2473,8 @@ droits de préemption définis par les règlements d'urbanisme.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1618-1 (V)
-	  - Code général des collectivités territoriales L1618-1, L1618-2 et L2221-5-1
+	  - Code général des collectivités territoriales - art. L1618-2 (M)
+	  - Code général des collectivités territoriales - art. L2221-5-1 (V)
 
 
 ###### Article L122-21
@@ -2559,6 +2648,74 @@ Les arrêtés, actes de publication et de notification sont inscrits par ordre d
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+##### Section 4 : Garanties accordées à  l'issue du mandat
+
+###### Article L122-29
+
+A l'issue de son mandat, tout maire d'une commune de 1 000 habitants au moins ou tout adjoint dans une commune de 20 000
+habitants au moins qui, pour l'exercice de son mandat, avait cessé d'exercer son activité professionnelle perçoit, sur sa
+demande, une allocation différentielle de fin de mandat s'il se trouve dans l'une des conditions suivantes :
+
+- être inscrit à l'agence pour l'emploi conformément aux conditions prévues par la législation et la réglementation
+applicables en Nouvelle-Calédonie ;
+
+- avoir repris une activité professionnelle lui procurant des revenus inférieurs aux indemnités de fonction qu'il percevait
+au titre de sa dernière fonction élective.
+
+Le montant mensuel de l'allocation est au plus égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle
+que l'intéressé percevait pour l'exercice de ses fonctions, dans la limite des taux maximaux fixés à l'article L. 123-4, et
+l'ensemble des ressources qu'il perçoit à l'issue de son mandat.
+
+L'allocation est versée pendant une période de six mois au plus.
+
+Le financement de cette allocation est assuré dans les conditions prévues à l'article L. 122-30.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 14 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-30 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L123-4 (V)
+
+
+###### Article L122-30
+
+L'allocation prévue à l'article L. 122-29 est financée par le fonds de financement de l'allocation différentielle de fin de
+mandat institué par l'article L. 1621-2 du code général des collectivités territoriales.
+
+Les communes de plus de 1 000 habitants versent une cotisation annuelle au fonds de financement de l'allocation
+différentielle de fin de mandat dans les conditions prévues à l'article L. 1621-2 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 14 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-29 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1621-2 (V)
+
+
 #### Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales
 
 ##### Section 1 : Dispositions générales
@@ -2592,6 +2749,37 @@ allouées à cet effet aux fonctionnaires de la Nouvelle-Calédonie du groupe I.
 Les dépenses de transport effectuées dans l'accomplissement de ces missions sont remboursées sur présentation d'un état de
 frais.
 
+Les autres dépenses liées à l'exercice d'un mandat spécial peuvent être remboursées par la commune sur présentation d'un état
+de frais et après délibération du conseil municipal. S'agissant des frais de garde d'enfants ou d'assistance aux personnes
+âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile, le remboursement ne peut excéder, par
+heure, le montant horaire du salaire minimum garanti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 15 () JORF 7 mai 2005
+
+
+###### Article L123-2-1
+
+Les membres du conseil municipal peuvent bénéficier du remboursement des frais de transport et de séjour qu'ils ont engagés
+pour se rendre à des réunions dans des instances ou organismes où ils représentent leur commune ès qualités, lorsque la
+réunion a lieu hors du territoire de celle-ci.
+
+Lorsqu'ils sont en situation de handicap, ils peuvent également bénéficier du remboursement des frais spécifiques de
+déplacement, d'accompagnement et d'aide technique qu'ils ont engagés pour les situations visées à l'alinéa précédent, ainsi
+que pour prendre part aux séances du conseil municipal et aux réunions des commissions et des instances dont ils font partie
+ès qualités qui ont lieu sur le territoire de la commune.
+
+Ces dispositions s'appliquent aux membres de la délégation spéciale mentionnée à l'article L. 121-5.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -2600,7 +2788,50 @@ frais.
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 16 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-5 (V)
+
+
+###### Article L123-2-2
+
+Les conseillers municipaux qui ne perçoivent pas d'indemnités de fonction peuvent bénéficier d'un remboursement par la
+commune, sur présentation d'un état de frais et après délibération du conseil municipal, des frais de garde d'enfants ou
+d'assistance aux personnes âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont
+engagés en raison de leur participation aux réunions mentionnées à l'article L. 121-28. Ce remboursement ne peut excéder, par
+heure, le montant horaire du salaire minimum garanti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 16 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (V)
+
+
+###### Article L123-2-3
+
+Les dépenses exceptionnelles d'assistance et de secours engagées en cas d'urgence par le maire ou un adjoint sur leurs
+deniers personnels peuvent leur être remboursées par la commune sur justificatif, après délibération du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 16 () JORF 7 mai 2005
 
 
 ###### Article L123-3
@@ -3211,6 +3442,148 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+#### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.
+
+###### Article L126-1
+
+Les communes de plus de 10 000 habitants, les groupements de communes de plus de 50 000 habitants et les syndicats mixtes
+comprenant au moins une commune de plus de 10 000 habitants créent une commission consultative des services publics locaux
+pour l'ensemble des services publics qu'ils confient à un tiers par convention de délégation de service public ou qu'ils
+exploitent en régie dotée de l'autonomie financière.
+
+Cette commission, présidée par le maire, le président de l'organe délibérant, ou leur représentant, comprend les membres de
+l'assemblée délibérante ou de l'organe délibérant désignés dans le respect du principe de la représentation proportionnelle,
+et des représentants d'associations locales, nommés par l'assemblée délibérante ou l'organe délibérant. En fonction de
+l'ordre du jour, la commission peut, sur proposition de son président, inviter à participer à ses travaux, avec voix
+consultative, toute personne dont l'audition lui paraît utile.
+
+La majorité des membres de la commission peut demander l'inscription à l'ordre du jour de toute proposition relative à
+l'amélioration des services publics locaux.
+
+La commission examine chaque année sur le rapport de son président :
+
+1° Un rapport produit par le délégataire de service public comportant notamment les comptes retraçant la totalité des
+opérations afférentes à l'exécution de la délégation de service public et une analyse de la qualité du service ;
+
+2° Un rapport sur le prix et la qualité du service public d'eau potable, sur les services d'assainissement et sur les
+services de collecte, d'évacuation ou de traitement des ordures ménagères ;
+
+3° Un bilan d'activité des services exploités en régie dotée de l'autonomie financière.
+
+Elle est consultée pour avis par l'assemblée délibérante ou par l'organe délibérant sur :
+
+1° Tout projet de délégation de service public visé à l'article L. 321-1, avant que l'assemblée délibérante ou l'organe
+délibérant se prononce ;
+
+2° Tout projet de création d'une régie dotée de l'autonomie financière visée à la section III du chapitre III du titre II du
+livre III.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 17 (V) JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L321-1 (V)
+
+
+#### Chapitre VII : Responsabilité et protection des élus
+
+###### Article L127-1
+
+Sous réserve des dispositions du quatrième alinéa de l'article 121-3 du code pénal, le maire ou un élu municipal le suppléant
+ou ayant reçu une délégation ne peut être condamné sur le fondement du troisième alinéa de ce même article pour des faits non
+intentionnels commis dans l'exercice de ses fonctions que s'il est établi qu'il n'a pas accompli les diligences normales
+compte tenu de ses compétences, du pouvoir et des moyens dont il disposait ainsi que des difficultés propres aux missions que
+la loi lui confie.
+
+La commune est tenue d'accorder sa protection au maire, à l'élu municipal le suppléant ou ayant reçu une délégation ou à l'un
+de ces élus ayant cessé ses fonctions lorsque celui-ci fait l'objet de poursuites pénales à l'occasion de faits qui n'ont pas
+le caractère de faute détachable de l'exercice de ses fonctions.
+
+Lorsque le maire ou un élu municipal le suppléant ou ayant reçu une délégation agit en qualité d'agent de l'Etat, il
+bénéficie, de la part de l'Etat, de la protection prévue par l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant
+droits et obligations des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 1983-07-13 art. 11
+	  - Code pénal - art. 121-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 18 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L127-3 (V)
+
+
+###### Article L127-2
+
+Le maire et les élus municipaux le suppléant ou ayant reçu délégation bénéficient, à l'occasion de leurs fonctions, d'une
+protection organisée par la commune conformément aux règles fixées par le code pénal, les lois spéciales et le présent code.
+
+La commune est tenue de protéger le maire ou les élus municipaux le suppléant ou ayant reçu délégation contre les violences,
+menaces ou outrages dont ils pourraient être victimes à l'occasion ou du fait de leurs fonctions et de réparer, le cas
+échéant, le préjudice qui en est résulté.
+
+La protection prévue aux deux alinéas précédents est étendue aux conjoints, enfants et ascendants directs des maires ou des
+élus municipaux les suppléant ou ayant reçu délégation lorsque, du fait des fonctions de ces derniers, ils sont victimes de
+menaces, violences, voies de fait, injures, diffamations ou outrages.
+
+Elle peut être accordée, sur leur demande, aux conjoints, enfants et ascendants directs des maires ou des élus municipaux les
+suppléant ou ayant reçu délégation, décédés dans l'exercice de leurs fonctions ou du fait de leurs fonctions, à raison des
+faits à l'origine du décès ou pour des faits commis postérieurement au décès mais du fait des fonctions qu'exerçait l'élu
+décédé.
+
+La commune est subrogée aux droits de la victime pour obtenir des auteurs de ces infractions la restitution des sommes
+versées à l'élu intéressé. Elle dispose en outre, aux mêmes fins, d'une action directe qu'elle peut exercer, au besoin par
+voie de constitution de partie civile, devant la juridiction pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 18 () JORF 7 mai 2005
+
+
+###### Article L127-3
+
+Les dispositions de l'article L. 127-1 relatives à la responsabilité des élus sont applicables au président et aux vice-
+présidents des groupements de communes ayant reçu délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 18 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L127-1 (V)
+
+
 ### TITRE III : POLICE
 
 #### Chapitre Ier : Dispositions générales
@@ -3296,6 +3669,40 @@ services de police devront obtempérer aux réquisitions du maire en ce qui conc
 	  - Code des communes de la Nouvelle-Calédonie - art. L131-13 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L131-7 (V)
 	  - Code des transports - art. L6763-4 (V)
+
+
+###### Article L131-2-1
+
+Le maire exerce la police des baignades et des activités nautiques pratiquées à partir des rivages avec des engins de plage
+et des engins non immatriculés.
+
+Cette police s'exerce en mer jusqu'à une limite fixée à 300 mètres à compter de la limite des eaux.
+
+Le maire réglemente l'utilisation des aménagements réalisés pour la pratique de ces activités. Il pourvoit d'urgence à toutes
+les mesures d'assistance et de secours.
+
+Le maire délimite une ou plusieurs zones surveillées dans les parties du littoral présentant une garantie suffisante pour la
+sécurité des baignades et des activités mentionnées ci-dessus. Il détermine des périodes de surveillance. Hors des zones et
+des périodes ainsi définies, les baignades et activités nautiques sont pratiquées aux risques et périls des intéressés.
+
+Le maire est tenu d'informer le public par une publicité appropriée, en mairie et sur les lieux où elles se pratiquent, des
+conditions dans lesquelles les baignades et les activités nautiques sont réglementées, ainsi que des résultats des contrôles
+de la qualité des eaux de ces baignades accompagnés des précisions nécessaires à leur interprétation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 19 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R766-6 (VD)
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-13 (V)
 
 
 ##### Section 2 : Pouvoirs de police du maire portant sur des objets particuliers
@@ -3492,10 +3899,10 @@ L'entretien du numérotage est à la charge du propriétaire.
 
 ###### Article L131-13
 
-Les pouvoirs qui appartiennent au maire, en vertu de l'article L. 131-2, ne font pas obstacle au droit du haut-commissaire de
-prendre, pour toutes les communes de la Nouvelle-Calédonie ou plusieurs d'entre elles, et dans tous les cas où il n'y aurait
-pas été pourvu par les autorités municipales, toutes mesures relatives au maintien de la salubrité, de la sûreté et de la
-tranquillité publiques.
+Les pouvoirs qui appartiennent au maire, en vertu de l'article L. 131-2 et de l'article L. 131-2-1, ne font pas obstacle au
+droit du haut-commissaire de prendre, pour toutes les communes de la Nouvelle-Calédonie ou plusieurs d'entre elles, et dans
+tous les cas où il n'y aurait pas été pourvu par les autorités municipales, toutes mesures relatives au maintien de la
+salubrité, de la sûreté et de la tranquillité publiques. 
 
 Ce droit ne peut être exercé par le haut-commissaire à l'égard d'une seule commune qu'après une mise en demeure au maire
 restée sans résultat.
@@ -3506,9 +3913,9 @@ restée sans résultat.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 19 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -3519,6 +3926,7 @@ restée sans résultat.
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L131-2 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-2-1 (V)
 
 
 ###### Article L131-13-1
@@ -3615,6 +4023,40 @@ La police des campagnes est spécialement placée sous la surveillance des garde
 	**Nouveaux textes**:
 
 	  - Code de la sécurité intérieure - art. L546-2 (VD)
+
+
+###### Article L132-1-1
+
+Toute commune peut avoir un ou plusieurs gardes champêtres. Plusieurs communes peuvent avoir un ou plusieurs gardes
+champêtres en commun. 
+
+Un groupement de communes peut recruter un ou plusieurs gardes champêtres compétents dans chacune des communes concernées.
+Leur nomination est prononcée conjointement par le maire de chacune des communes membres et le président du groupement de
+communes. 
+
+Les gardes champêtres ainsi recrutés exercent les compétences mentionnées à l'article L. 132-2 sans préjudice des compétences
+qui leur sont dévolues par le code de procédure pénale et par des lois spéciales. 
+
+Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de cette
+commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 20 () JORF 7 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L546-4 (VD)
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L132-2 (Ab)
 
 
 ###### Article L132-2
@@ -4691,10 +5133,11 @@ Il prépare et exécute les délibérations du comité.
 Il est l'ordonnateur des dépenses et il prescrit l'exécution des recettes du syndicat.
 
 Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
-l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
-d'autres membres du bureau. Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de
-signature au directeur et au directeur adjoint dans les syndicats dont les compétences, l'importance du budget, le nombre et
-la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 20 000 habitants.
+l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers ou dès
+lors que ceux-ci sont tous titulaires d'une délégation, à d'autres membres du bureau. Il peut également donner, sous sa
+surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au directeur adjoint dans les
+syndicats dont les compétences, l'importance du budget, le nombre et la qualification des agents à encadrer permettent de les
+assimiler à des communes de plus de 20 000 habitants.
 
 Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
@@ -4708,9 +5151,9 @@ Il représente le syndicat en justice.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 21 () JORF 7 mai 2005
 
 
 ###### Article L163-14
@@ -4736,6 +5179,25 @@ décider qu'une commission administrera les secours, d'une part, à domicile et,
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+###### Article L163-14-1
+
+L'article L. 121-20-3 s'applique aux groupements de communes comptant une population de 50 000 habitants ou plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 22 () JORF 7 mai 2005
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-20-3 (V)
 
 
 ##### Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat
@@ -4858,6 +5320,12 @@ présentant une utilité pour chacune de ces personnes morales.
 
 Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
 
+La répartition des sièges au sein du comité syndical entre les collectivités locales et les établissements publics membres du
+syndicat mixte est fixée par les statuts.
+
+Le président du syndicat mixte est élu par le comité syndical ou, si les statuts le prévoient, par le bureau qu'il a
+constitué.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -4869,9 +5337,25 @@ Ces syndicats doivent comprendre au moins une collectivité territoriale ou un g
 
 	  - Décret n°2001-579 2001-06-29
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 23 () JORF 7 mai 2005
+
+
+###### Article L166-1-1
+
+Lorsque les statuts n'ont pas prévu une procédure spécifique, les modifications statutaires sont décidées à la majorité des
+deux tiers des membres qui composent le comité syndical.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
 
 
 ###### Article L166-2
@@ -5317,14 +5801,23 @@ Journal officiel de la Nouvelle-Calédonie et, pour Nouméa et les communes chef
 frais de conservation du Journal officiel ;
 
 3° Les indemnités de fonctions des magistrats municipaux et les cotisations des communes au régime de retraite des maires et
-adjoints ;
+adjoints ainsi que les frais de formation mentionnés à l'article L. 121-38 ;
 
 4° La rémunération des agents communaux ;
 
 5° Les traitements et autres frais de personnel de la police municipale et rurale ;
 
 6° Les dépenses du personnel et de matériel relatives au service de secours et de défense contre l'incendie, ledit service
-étant organisé dans le cadre communal, intercommunal ou territorial ;
+étant organisé dans le cadre communal, intercommunal ou territorial.
+
+Toutefois, sans préjudice des dispositions applicables aux activités réglementées, les communes peuvent exiger des intéressés
+ou de leurs ayants droit une participation aux frais qu'elles ont engagés à l'occasion d'opérations de secours consécutives à
+la pratique de toute activité sportive ou de loisir. Elles déterminent les conditions dans lesquelles s'effectue cette
+participation, qui peut porter sur tout ou partie des dépenses.
+
+Les communes sont tenues d'informer le public des conditions d'application de l'alinéa précédent sur leur territoire, par un
+affichage approprié en mairie et, le cas échéant, dans tous les lieux où sont apposées les consignes relatives à la
+sécurité ;
 
 7° Les pensions à la charge de la commune lorsqu'elles ont été régulièrement liquidées et approuvées ;
 
@@ -5354,9 +5847,9 @@ règlements en vigueur ;
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 25 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -5366,6 +5859,7 @@ règlements en vigueur ;
 
 	**Cite**:
 
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-38 (M)
 	  - Code des communes de la Nouvelle-Calédonie - art. L122-14 (V)
 
 
@@ -7313,6 +7807,24 @@ demande peuvent disposer sans frais du prêt d'un local commun. Un décret d'app
 	**Cité par**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. D318-1 (V)
+
+
+###### Article L318-4
+
+Dans les communes de 3 500 habitants et plus, lorsque la commune diffuse, sous quelque forme que ce soit, un bulletin
+d'information générale sur les réalisations et la gestion du conseil municipal, un espace est réservé à l'expression des
+conseillers n'appartenant pas à la majorité municipale. Les modalités d'application de cette disposition sont définies par le
+règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 26 () JORF 7 mai 2005
 
 
 ### TITRE II : SERVICES COMMUNAUX
