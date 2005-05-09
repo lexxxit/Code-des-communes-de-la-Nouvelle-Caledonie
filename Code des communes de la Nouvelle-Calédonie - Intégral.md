@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -12479,7 +12479,7 @@ Les pièces mentionnées à l'article précédent comprennent notamment :
 
 6° La copie des délibérations du conseil municipal ou des organes de gestion ;
 
-7° L'avis motivé du trésorier-payeur général ou du contrôleur financier.
+7° L'avis motivé du trésorier-payeur général ou du membre du corps du contrôle général économique et financier.
 
 **Liens relatifs à cet article**
 
@@ -12487,9 +12487,9 @@ Les pièces mentionnées à l'article précédent comprennent notamment :
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R236-7
