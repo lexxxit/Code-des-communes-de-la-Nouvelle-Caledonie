@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2006-02-17
 
 # Partie législative
 
@@ -8344,6 +8344,301 @@ sous réserve des dispositions de l'article 44 du traité instituant la Communau
 	**Cite**:
 
 	  - Code de commerce. - art. L122-1 (M)
+
+
+### TITRE V : SERVICES D'INCENDIE ET DE SECOURS
+
+#### Chapitre Ier : Services communaux d'incendie et de secours
+
+###### Article L351-1
+
+Ont la qualité de service d'incendie et de secours, les centres d'incendie et de secours qui relèvent des communes ou des
+établissements publics de coopération intercommunale disposant d'un corps communal ou intercommunal de sapeurs-pompiers.
+
+Les centres d'incendie et de secours comprennent des centres de secours principaux, des centres de secours et des centres de
+première intervention.
+
+Ils peuvent comprendre un service de santé et de secours médical.
+
+Les modalités d'intervention opérationnelle des centres d'incendie et de secours sont déterminées par le règlement
+opérationnel prévu par l'article L. 351-4, après consultation des communes et des établissements de coopération
+intercommunale concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L351-4
+
+
+###### Article L351-2
+
+Les services d'incendie et de secours sont chargés de la prévention, de la protection et de la lutte contre les incendies.
+
+Ils concourent, avec les autres services et professionnels concernés, à la protection et à la lutte contre les autres
+accidents, sinistres et catastrophes, à l'évaluation et à la prévention des risques technologiques ou naturels ainsi qu'aux
+secours d'urgence.
+
+Dans le cadre de leurs compétences, ils exercent les missions suivantes :
+
+1° La prévention et l'évaluation des risques de sécurité civile ;
+
+2° La préparation des mesures de sauvegarde et l'organisation des moyens de secours ;
+
+3° La protection des personnes, des biens et de l'environnement ;
+
+4° Les secours d'urgence aux personnes victimes d'accidents, de sinistres ou de catastrophes ainsi qu'à leur évacuation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
+
+
+###### Article L351-3
+
+Les services d'incendie et de secours sont placés pour emploi sous l'autorité du maire ou du haut-commissaire de la
+République en Nouvelle-Calédonie, agissant dans le cadre de leurs pouvoirs respectifs de police.
+
+Pour assurer les missions de prévention qui leur incombent, notamment en ce qui concerne les risques d'incendie et de panique
+dans les établissements recevant du public, dans le cadre de la réglementation applicable en Nouvelle-Calédonie, le maire ou
+le haut-commissaire dispose des moyens relevant des services d'incendie et de secours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
+
+
+###### Article L351-4
+
+Dans l'exercice de leurs pouvoirs de police, le maire et le haut-commissaire de la République en Nouvelle-Calédonie mettent
+en oeuvre les moyens relevant des services d'incendie et de secours dans les conditions prévues par un règlement opérationnel
+arrêté par le haut-commissaire.
+
+L'organisation du commandement des opérations de secours est déterminée par ce règlement. Le commandant des opérations de
+secours désigné est chargé, sous l'autorité du directeur des secours, de la mise en oeuvre de tous les moyens publics et
+privés mobilisés pour l'accomplissement des opérations de secours.
+
+En cas de péril imminent, le commandant des opérations de secours prend les mesures nécessaires à la protection de la
+population et à la sécurité des personnels engagés. Il en rend compte au directeur des secours.
+
+Le commandant des opérations de secours peut, même en l'absence d'autorisation du propriétaire et de ses ayants droit,
+recourir à des feux tactiques pour les nécessités de la lutte contre l'incendie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L351-1 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. L351-5 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. L352-2 (V)
+
+
+###### Article L351-5
+
+Le règlement opérationnel prévu à l'article L. 351-4 est arrêté par le haut-commissaire dans un délai de trois ans à compter
+de la date de publication de la présente ordonnance.
+
+Dans l'attente de la publication de l'arrêté portant règlement opérationnel, le maire est chargé de désigner le commandant
+des opérations de secours lorsque celles-ci n'excèdent pas le territoire de la commune ou ne nécessitent pas le concours de
+moyens extérieurs à la commune. Le commandant des opérations de secours est désigné par le haut-commissaire dans les autres
+cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L351-4
+
+
+###### Article L351-6
+
+Les services d'incendie et de secours peuvent, pour l'accomplissement de leurs missions impliquant des animaux, acquérir,
+détenir et utiliser des armes de type hypodermique, dans des conditions fixées par arrêté du haut-commissaire de la
+République en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
+
+
+#### Chapitre II : Réserves communales de sécurité civile
+
+###### Article L352-1
+
+Les réserves communales de sécurité civile ont pour objet d'appuyer les services concourant à la sécurité civile en cas
+d'événements excédant leurs moyens habituels ou dans des situations particulières. A cet effet, elles participent au soutien
+et à l'assistance des populations, à l'appui logistique et au rétablissement des activités. Elles peuvent également
+contribuer à la préparation de la population face aux risques naturels ou technologiques.
+
+Elles sont mises en oeuvre par décision motivée de l'autorité de police compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 24 () JORF 17 février 2006
+
+
+###### Article L352-2
+
+La commune, sur délibération du conseil municipal, peut instituer une réserve communale de sécurité civile. Ses modalités
+d'organisation et de mise en oeuvre doivent être compatibles avec le règlement opérationnel prévu à l'article L. 351-4.
+
+La réserve communale de sécurité civile est placée sous l'autorité du maire. La charge en incombe à la commune. Toutefois,
+une convention peut fixer les modalités de participation à son financement de la Nouvelle-Calédonie et des provinces. La
+gestion de la réserve communale peut être confiée, par convention, à un établissement public de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 24 () JORF 17 février 2006
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L351-4 (V)
+
+
+###### Article L352-3
+
+Les réserves communales de sécurité civile sont composées, sur la base du bénévolat, des personnes ayant les capacités et les
+compétences correspondant aux missions qui leur sont dévolues au sein de la réserve.
+
+L'engagement à servir dans la réserve de sécurité civile est souscrit pour une durée de un à cinq ans renouvelable. Cet
+engagement donne lieu à un contrat conclu entre l'autorité de gestion et le réserviste. La durée des activités à accomplir au
+titre de la réserve de sécurité civile ne peut excéder quinze jours ouvrables par année civile.
+
+Une convention conclue entre l'employeur du réserviste et l'autorité de gestion de la réserve peut préciser les modalités,
+les durées et les périodes de mobilisation les mieux à même de concilier les impératifs de la réserve avec la bonne marche de
+l'entreprise ou du service.
+
+Les associations de sécurité civile agréées dans les conditions définies à l'article 18 de l'ordonnance n° 2006-172 du 15
+février 2006 portant actualisation et adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie
+peuvent conclure avec l'autorité de gestion une convention établissant les modalités d'engagement et de mobilisation de leurs
+membres au sein de la réserve de sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Cite**:
+
+	  - Ordonnance 2006-172 2006-02-15 art. 18
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 24 () JORF 17 février 2006
+
+
+###### Article L352-4
+
+Les personnes qui ont souscrit un engagement à servir dans la réserve communale de sécurité civile sont tenues de répondre
+aux ordres d'appel individuels et de rejoindre leur affectation pour servir au lieu et dans les conditions qui leurs sont
+assignés.
+
+Sont dégagés de cette obligation les réservistes de sécurité civile qui seraient par ailleurs mobilisés au titre de la
+réserve militaire. Les réservistes de sécurité civile qui seraient par ailleurs affectés collectifs de défense sont tenus de
+répondre aux ordres d'appel de la réserve de sécurité civile, même en cas de mise en oeuvre du service de défense.
+
+Les réservistes qui ne bénéficient pas, en qualité de fonctionnaire, d'une mise en congé avec traitement au titre de la
+réserve communale de sécurité civile peuvent percevoir une indemnité compensatrice.
+
+La charge qui en résulte est répartie suivant les modalités fixées par l'article 17 de l'ordonnance n° 2006-172 du 15 février
+2006 portant actualisation et adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie.
+
+Le réserviste victime de dommages subis dans le service ou à l'occasion du service et, en cas de décès, ses ayants droit
+obtiennent de l'autorité de gestion, lorsque la responsabilité de cette dernière est engagée, la réparation intégrale du
+dommage subi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Cite**:
+
+	  - Ordonnance 2006-172 2006-02-15 art. 17
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-172 du 15 février 2006 - art. 24 () JORF 17 février 2006
 
 
 ### TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX
