@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2006-02-17
+Version Consolidée au 2007-02-01
 
 # Partie législative
 
@@ -1857,7 +1857,7 @@ attributions.
 
 ###### Article L122-4
 
-Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret et à la majorité absolue.
+Le conseil municipal élit le maire parmi ses membres, au scrutin secret et à la majorité absolue.
 
 Nul ne peut être élu maire s'il n'est âgé de dix-huit ans révolus.
 
@@ -1869,7 +1869,7 @@ En cas d'égalité de suffrages, le plus âgé est déclaré élu.
 **Nota:**
 
 Loi 2007-128 du 31 janvier 2007 art. 1 V : Le présent article entre en vigueur à compter du premier renouvellement général
-des conseils municipaux qui suit la publication de la présente loi. (date indéterminée)
+des conseils municipaux qui suit la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -1877,9 +1877,9 @@ des conseils municipaux qui suit la publication de la présente loi. (date indé
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2007-128 du 31 janvier 2007 - art. 1 () JORF 1er février 2007
 
 	**Cité par**:
 
@@ -1889,7 +1889,7 @@ des conseils municipaux qui suit la publication de la présente loi. (date indé
 
 	**Liens**:
 
-	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+	  - SPEC_APPLI: Entrée en vigueur : date indéterminée
 
 
 ###### Article L122-4-1
@@ -1917,6 +1917,70 @@ date à laquelle la décision juridictionnelle confirmant l'élection devient d�
 	**Cité par**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L122-11 (V)
+
+
+###### Article L122-4-2
+
+Dans les communes de moins de 3 500 habitants, les adjoints sont élus dans les conditions fixées à l'article L. 122-4.
+
+**Nota:**
+
+Loi 2007-128 du 31 janvier 2007 art. 1 V : Le présent article entre en vigueur à compter du premier renouvellement général
+des conseils municipaux qui suit la publication de la présente loi. (Date indéterminée)
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : date indéterminée
+
+	**Créé par**:
+
+	  - Loi n°2007-128 du 31 janvier 2007 - art. 1 () JORF 1er février 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-4 (V)
+
+
+###### Article L122-4-3
+
+Dans les communes de 3 500 habitants et plus, les adjoints sont élus au scrutin de liste à la majorité absolue, sans
+panachage ni vote préférentiel. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne peut être
+supérieur à un.
+
+Si, après deux tours de scrutin, aucune liste n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin
+et l'élection a lieu à la majorité relative. En cas d'égalité de suffrages, les candidats de la liste ayant la moyenne d'âge
+la plus élevée sont élus.
+
+En cas d'élection d'un seul adjoint, celui-ci est élu selon les règles prévues à l'article L. 122-4.
+
+**Nota:**
+
+Loi 2007-128 du 31 janvier 2007 art. 1 V : Le présent article entre en vigueur à compter du premier renouvellement général
+des conseils municipaux qui suit la publication de la présente loi. (Date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : date indéterminée
+
+	**Créé par**:
+
+	  - Loi n°2007-128 du 31 janvier 2007 - art. 1 () JORF 1er février 2007
 
 
 ###### Article L122-5
