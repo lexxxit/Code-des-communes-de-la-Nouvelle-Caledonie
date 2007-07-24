@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-07-25
 
 # Partie législative
 
@@ -11506,6 +11506,134 @@ imputées sur les crédits ouverts à la section de fonctionnement du budget de 
 
 
 ### TITRE III : POLICE
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article D131-1-1
+
+Le conseil local de sécurité et de prévention de la délinquance constitue le cadre de concertation sur les priorités de la
+lutte contre l'insécurité et de la prévention de la délinquance dans la commune.
+
+Il favorise l'échange d'informations entre les responsables des institutions et organismes publics et privés concernés, et
+peut définir des objectifs communs pour la préservation de la sécurité et de la tranquillité publiques.
+
+Il assure l'animation et le suivi du contrat local de sécurité lorsque le maire et le haut-commissaire de la République,
+après consultation du procureur de la République et avis du conseil, ont estimé que l'intensité des problèmes de délinquance
+sur le territoire de la commune justifiait sa conclusion.
+
+A défaut du dispositif contractuel précité, le conseil local peut proposer des actions de prévention ponctuelles dont il
+assure le suivi et l'évaluation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. D156-9 (VD)
+
+
+###### Article D131-1-2
+
+Présidé par le maire ou son représentant, le conseil local de sécurité et de prévention de la délinquance comprend :
+
+- le haut-commissaire de la République et le procureur de la République, ou leurs représentants ;
+
+- le président du gouvernement de la Nouvelle-Calédonie, ou son représentant ;
+
+- des représentants des services de l'Etat désignés par le haut-commissaire de la République ;
+
+- des représentants d'associations, établissements ou organismes oeuvrant notamment dans les domaines de la prévention, de la
+sécurité, de l'aide aux victimes, du logement, des transports collectifs de l'action sociale ou des activités économiques,
+désignés par le président du conseil local de sécurité après accord des responsables des organismes dont ils relèvent.
+
+En tant que de besoin et selon les particularités locales, les maires des communes et les présidents des établissements
+publics de coopération intercommunale intéressés ainsi que des personnes qualifiées peuvent être associés aux travaux du
+conseil.
+
+La composition du conseil local de sécurité et de prévention de la délinquance est fixée par arrêté du maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. D156-10 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+
+###### Article D131-1-3
+
+Le conseil local de sécurité et de prévention de la délinquance se réunit à l'initiative de son président en formation
+plénière au moins une fois par an. Il se réunit de droit à la demande du haut-commissaire de la République ou de la majorité
+de ses membres.
+
+Il se réunit en formation restreinte, en tant que de besoin ou à la demande du haut-commissaire de la République, dans les
+conditions prévues par son règlement intérieur.
+
+Il détermine les conditions de fonctionnement des groupes de travail et d'échanges d'informations à vocation thématique ou
+territoriale qu'il peut créer en son sein.
+
+Son secrétariat est assuré sous l'autorité de son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 du 29 juin 2001
+
+	**Créé par**:
+
+	  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. D156-11 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+
+###### Article D131-1-4
+
+Le conseil local de sécurité et de prévention de la délinquance est informé au moins une fois par an par le haut-commissaire
+de la République ou son représentant des caractéristiques et de l'évolution de la délinquance dans la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 du 29 juin 2001
+
+	**Créé par**:
+
+	  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. D156-12 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
 
 #### Chapitre II : Dispositions particulières
 
