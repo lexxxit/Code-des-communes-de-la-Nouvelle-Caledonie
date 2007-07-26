@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2007-07-25
+Version Consolidée au 2007-07-27
 
 # Partie législative
 
@@ -69,10 +69,7 @@ fusion comportant la création d'une ou plusieurs communes associées.
 
 ###### Article L112-2
 
-Les personnes inscrites sur les listes électorales municipales sont consultées sur l'opportunité de la fusion de communes
-lorsque la demande en est faite par la moitié des conseils municipaux des communes comptant les deux tiers de la population
-totale ou par les deux tiers des conseils municipaux des communes comptant la moitié de la population totale. Cette
-consultation peut être aussi décidée par le haut-commissaire.
+Les personnes inscrites sur les listes électorales municipales sont consultées sur l'opportunité de la fusion de communes.
 
 Les dépenses résultant de la consultation sont à la charge de l'Etat.
 
@@ -84,9 +81,9 @@ Un décret fixe les modalités applicables à l'organisation des consultations p
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 2 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -562,7 +559,8 @@ En cas d'urgence, le haut-commissaire peut abréger ce délai.
 ###### Article L121-10
 
 I. - Toute convocation est faite par le maire. Elle indique les questions portées à l'ordre du jour. Elle est mentionnée au
-registre des délibérations, affichée ou publiée. Elle est adressée aux conseillers municipaux par écrit et à domicile.
+registre des délibérations, affichée ou publiée. La convocation est adressée par écrit, sous quelque forme que ce soit, au
+domicile des conseillers municipaux, sauf s'ils font le choix d'une autre adresse.
 
 II. - Dans les communes de moins de 3 500 habitants, la convocation est adressée trois jours francs au moins avant celui de
 la réunion.
@@ -590,9 +588,9 @@ renvoi de la discussion pour tout ou partie, à l'ordre du jour d'une séance ul
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 3 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -665,15 +663,18 @@ Dans ces derniers cas, après deux tours de scrutin secret, si aucun des candida
 procédé à un troisième tour de scrutin et l'élection a lieu à la majorité relative ; à égalité de voix, l'élection est
 acquise au plus âgé.
 
+Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin secret aux nominations ou aux présentations,
+sauf disposition législative ou réglementaire prévoyant expressément ce mode de scrutin.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 4 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -1004,6 +1005,28 @@ l'objet d'une délibération.
 	  - Code des communes de la Nouvelle-Calédonie - art. L212-4 (V)
 
 
+###### Article L121-22-1
+
+La commune assure la diffusion de l'information auprès de ses membres élus par les moyens matériels qu'elle juge les plus
+appropriés.
+
+Afin de permettre l'échange d'informations sur les affaires relevant de ses compétences, la commune peut, dans les conditions
+définies par le conseil municipal, mettre à disposition de ses membres élus, à titre individuel, les moyens informatiques et
+de communication électronique nécessaires.
+
+Ces dispositions sont applicables aux groupements de communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 5 () JORF 27 juillet 2007
+
+
 ###### Article L121-23
 
 Tout membre d'un conseil municipal qui, sans excuse valable, a refusé de remplir une des fonctions qui lui sont dévolues par
@@ -1113,8 +1136,8 @@ prescrivent un tel avis et notamment sur les objets suivants :
 
 3° Les budgets et les comptes des établissements de charité et de bienfaisance, autres que les bureaux d'aide sociale, les
 autorisations d'acquérir, d'aliéner, d'échanger, de plaider ou de transiger demandées par lesdits établissements,
-l'acceptation des dons et legs qui leur sont faits, sans préjudice des dispositions des articles 22 des lois n° 70-1318 du 31
-décembre 1970 et n° 75-535 du 30 juin 1975 ;
+l'acceptation des dons et legs qui leur sont faits, sans préjudice des dispositions des articles L. 314-7, L. 314-10, L.
+314-11 et L. 314-12 du code de l'action sociale et des familles.
 
 4° Le classement des stations.
 
@@ -1125,19 +1148,20 @@ outre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°70-1318 1970-12-31
-	  - Loi n°75-535 1975-06-30
-	  - Code des communes de la Nouvelle-Calédonie 22
-
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 6 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L314-10 (M)
+	  - Code de l'action sociale et des familles - art. L314-11 (M)
+	  - Code de l'action sociale et des familles - art. L314-12 (M)
+	  - Code de l'action sociale et des familles - art. L314-7 (M)
 
 
 ##### Section 5 : Garanties accordées aux membres des conseils municipaux
@@ -1155,10 +1179,17 @@ rendre et participer :
 
 3° Aux réunions des assemblées délibérantes et des bureaux des organismes où il a été désigné pour représenter la commune.
 
-Selon des modalités fixées par un décret en Conseil d'Etat, l'élu municipal doit informer l'employeur de la date de la séance
-ou de la réunion dès qu'il en a connaissance.
+Selon des modalités fixées par un décret, l'élu municipal doit informer l'employeur de la date de la séance ou de la réunion
+dès qu'il en a connaissance.
 
 L'employeur n'est pas tenu de payer comme temps de travail le temps passé par l'élu aux séances et réunions précitées.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -1168,7 +1199,8 @@ L'employeur n'est pas tenu de payer comme temps de travail le temps passé par l
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cité par**:
 
@@ -1506,7 +1538,14 @@ membres du conseil municipal qui ont la qualité de salarié ont droit à un con
 jours par élu pour la durée du mandat et quel que soit le nombre de mandats qu'il détient. Ce congé est renouvelable en cas
 de réélection.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -1516,7 +1555,8 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 9 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -1541,7 +1581,14 @@ horaire du salaire minimum garanti par heure.
 Le montant des dépenses de formation ne peut excéder 20 % du montant total des indemnités de fonction qui peuvent être
 allouées aux élus de la commune.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -1551,7 +1598,8 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 10 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cité par**:
 
@@ -1586,7 +1634,10 @@ ainsi que leur coût prévisionnel.
 
 I. - Les actes pris par les autorités communales sont exécutoires de plein droit dès qu'il a été procédé à leur publication
 ou affichage ou à leur notification aux intéressés, ainsi qu'à leur transmission au haut-commissaire ou à son représentant
-dans la province.
+dans la province. Pour les décisions individuelles, cette transmission intervient dans un délai de quinze jours à compter de
+leur signature.
+
+Cette transmission peut s'effectuer par voie électronique, selon des modalités fixées par décret.
 
 Le maire certifie, sous sa responsabilité, le caractère exécutoire de ces actes.
 
@@ -1601,7 +1652,8 @@ II. - Sont soumis aux dispositions du I les actes suivants :
 - les délibérations du conseil municipal ou les décisions prises par délégation du conseil municipal en application de
 l'article L. 122-20 ;
 
-- les décisions réglementaires et individuelles prises par le maire dans l'exercice de son pouvoir de police ;
+- les décisions réglementaires et individuelles prises par le maire dans l'exercice de son pouvoir de police, à l'exclusion
+de celles relatives à la circulation et au stationnement ;
 
 - les actes à caractère réglementaire pris par les autorités communales dans tous les autres domaines qui relèvent de leur
 compétence en application de la loi ;
@@ -1609,8 +1661,11 @@ compétence en application de la loi ;
 - les conventions relatives aux marchés et aux emprunts ainsi que les conventions de concessions ou d'affermage de services
 publics locaux à caractère industriel ou commercial ;
 
-- les décisions individuelles relatives à la nomination, à l'avancement de grade, à l'avancement d'échelon, aux sanctions
-soumises à l'avis du conseil de discipline local et au licenciement des agents de la commune ;
+- les décisions individuelles relatives à la nomination, à l'avancement de grade, à la mise à la retraite d'office, à la
+révocation des fonctionnaires, ainsi que les décisions individuelles relatives au recrutement, y compris le contrat
+d'engagement, et au licenciement des agents non titulaires, à l'exception de celles prises dans le cadre d'un besoin
+saisonnier ou occasionnel, en application du 2° de l'article 11 de la délibération n° 486 du 10 août 1994 portant création du
+statut général des fonctionnaires des communes de Nouvelle-Calédonie et de leurs établissements publics ;
 
 - les ordres de réquisition du comptable pris par le maire ;
 
@@ -1623,6 +1678,10 @@ locales pour le compte d'une commune ou d'un établissement public de coopérati
 
 III. - Les actes pris au nom de la commune, autres que ceux qui sont mentionnés au II, sont exécutoires de plein droit dès
 qu'il a été procédé à leur publication ou affichage ou à leur notification aux intéressés.
+
+Le représentant de l'Etat peut en demander communication à tout moment. Il ne peut les déférer au tribunal administratif,
+dans un délai de deux mois à compter de leur communication, que si sa demande a été présentée dans le délai de deux mois à
+compter de la date à laquelle les actes sont devenus exécutoires.
 
 IV. - Les actes pris par les autorités communales au nom de l'Etat ainsi que les actes relevant du droit privé ne sont pas
 soumis aux dispositions du présent titre et demeurent régis par les dispositions qui leur sont propres.
@@ -1649,7 +1708,7 @@ commune.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 11 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 7 () JORF 27 juillet 2007
 
 	**Cite**:
 
@@ -1794,6 +1853,23 @@ l'objet, soit en leur nom personnel, soit comme mandataire.
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L163-14-2 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L316-9 (V)
+
+
+###### Article L121-42
+
+Sur sa demande, le maire reçoit du haut-commissaire les informations nécessaires à l'exercice des attributions de la commune.
+
+Sur sa demande, le haut-commissaire reçoit du maire les informations nécessaires à l'exercice de ses attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 8 () JORF 27 juillet 2007
 
 
 #### Chapitre II : Maires et adjoints
@@ -2110,7 +2186,8 @@ toutes les communes qui sont situées dans le ressort de leur service d'affectat
 La même incompatibilité est opposable dans toutes les communes aux comptables supérieurs du Trésor et aux chefs de services
 des administrations financières.
 
-Les agents salariés du maire ne peuvent être adjoints.
+Les agents salariés du maire ne peuvent être adjoints si cette activité salariée est directement liée à l'exercice du mandat
+de maire.
 
 **Liens relatifs à cet article**
 
@@ -2118,9 +2195,9 @@ Les agents salariés du maire ne peuvent être adjoints.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 9 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -2132,12 +2209,16 @@ Les agents salariés du maire ne peuvent être adjoints.
 Les maires et les adjoints sont nommés pour la même durée que le conseil municipal.
 
 Quand il y a lieu, pour quelque cause que ce soit, à une nouvelle élection du maire, il est procédé à une nouvelle élection
-des adjoints, ainsi que des délégués de la commune au sein d'organismes extérieurs.
+des adjoints.
 
-Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, et si celui-ci ne démissionne pas, ces
-délégations peuvent être attribuées à un conseiller municipal nonobstant les dispositions de l'article L. 122-11.
+Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, le conseil municipal se prononce sur le maintien
+de celui-ci dans ses fonctions et si celui-ci ne démissionne pas, ces délégations peuvent être attribuées à un conseiller
+municipal nonobstant les dispositions de l'article L. 122-11.
 
 Après une élection partielle, le conseil municipal peut décider qu'il sera procédé à une nouvelle élection des adjoints.
+
+Quand il y a lieu, en cas de vacance, de désigner un nouvel adjoint, le conseil municipal peut décider qu'il occupera, dans
+l'ordre du tableau, le même rang que l'élu qui occupait précédemment le poste devenu vacant.
 
 **Liens relatifs à cet article**
 
@@ -2145,9 +2226,9 @@ Après une élection partielle, le conseil municipal peut décider qu'il sera pr
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 10 () JORF 27 juillet 2007
 
 	**Cite**:
 
@@ -2203,9 +2284,8 @@ une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence
 lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal.
 
 Le membre du conseil municipal ayant démissionné de la fonction de maire, en application des articles LO 141 du code
-électoral, L. 122-4-1 du présent code et de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des
-représentants au Parlement européen, ne peut recevoir des délégations jusqu'au terme de son mandat de conseiller municipal ou
-jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+électoral, L. 122-4-1 du présent code, ne peut recevoir des délégations jusqu'au terme de son mandat de conseiller municipal
+ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
 
 Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
 
@@ -2223,19 +2303,18 @@ formes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°77-729 du 7 juillet 1977 - art. 6-2 (Ab)
-	  - Code électoral - art. L141 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-4-1 (M)
-
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 12 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 11 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L141 (Ab)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-4-1 (M)
 
 	**Cité par**:
 
@@ -2462,6 +2541,33 @@ dûment invités, toutes les mesures nécessaires à la destruction des animaux 
 	  - Code des communes de la Nouvelle-Calédonie - art. L323-10 (V)
 
 
+###### Article L122-19-1
+
+La délibération du conseil municipal chargeant le maire de souscrire un marché déterminé peut être prise avant l'engagement
+de la procédure de passation de ce marché. Elle comporte alors obligatoirement la définition de l'étendue du besoin à
+satisfaire et le montant prévisionnel du marché.
+
+Le conseil municipal peut, à tout moment, décider que la signature du marché ne pourra intervenir qu'après une nouvelle
+délibération, une fois connus l'identité de l'attributaire et le montant du marché.
+
+Les dispositions du présent article ne s'appliquent aux marchés visés à l'article L. 122-20 que lorsque le maire n'a pas reçu
+la délégation prévue à cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 12 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-20 (M)
+
+
 ###### Article L122-20
 
 Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie et pour la durée de son
@@ -2516,7 +2622,9 @@ maire, agissant au nom de la commune, instruit et délivre les autorisations de 
 d'urbanisme ;
 
 18° D'exercer au nom de la commune, et sans préjudice des droits de préemption de la Nouvelle-Calédonie et des provinces, les
-droits de préemption définis par les règlements d'urbanisme.
+droits de préemption définis par les règlements d'urbanisme ;
+
+19° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal.
 
 **Liens relatifs à cet article**
 
@@ -2526,7 +2634,7 @@ droits de préemption définis par les règlements d'urbanisme.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 13 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 13 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -2545,8 +2653,9 @@ droits de préemption définis par les règlements d'urbanisme.
 
 Les décisions prises par le maire en vertu du précédent article sont soumises aux mêmes règles que celles qui sont
 applicables aux délibérations des conseils municipaux portant sur les mêmes objets. Sauf disposition contraire dans la
-délibération du conseil municipal portant délégation, les décisions prises en application de celle-ci doivent être signées
-personnellement par le maire nonobstant les dispositions des articles L. 122-11 et L. 122-13.
+délibération portant délégation, les décisions prises en application de celle-ci peuvent être signées par un adjoint ou un
+conseiller municipal agissant par délégation du maire dans les conditions fixées aux articles L. 122-9 (troisième alinéa) et
+L. 122-11 (premier et deuxième alinéas).
 
 Sauf disposition contraire dans la délibération, les décisions relatives aux matières ayant fait l'objet de la délégation
 sont prises, en cas d'empêchement du maire, par le conseil municipal.
@@ -2561,14 +2670,14 @@ Le conseil municipal peut toujours mettre fin à la délégation.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 14 () JORF 27 juillet 2007
 
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L122-11 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-13 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-9 (M)
 
 
 ###### Article L122-22
@@ -2716,9 +2825,10 @@ Les arrêtés, actes de publication et de notification sont inscrits par ordre d
 
 ###### Article L122-29
 
-A l'issue de son mandat, tout maire d'une commune de 1 000 habitants au moins ou tout adjoint dans une commune de 20 000
-habitants au moins qui, pour l'exercice de son mandat, avait cessé d'exercer son activité professionnelle perçoit, sur sa
-demande, une allocation différentielle de fin de mandat s'il se trouve dans l'une des conditions suivantes :
+A l'occasion du renouvellement général des membres du conseil municipal, tout maire d'une commune de 1 000 habitants au moins
+ou tout adjoint dans une commune de 20 000 habitants au moins ayant reçu délégation de fonction de celui-ci qui, pour
+l'exercice de son mandat, avait cessé d'exercer son activité professionnelle perçoit, sur sa demande, une allocation
+différentielle de fin de mandat s'il se trouve dans l'une des conditions suivantes :
 
 - être inscrit à l'agence pour l'emploi conformément aux conditions prévues par la législation et la réglementation
 applicables en Nouvelle-Calédonie ;
@@ -2734,7 +2844,14 @@ L'allocation est versée pendant une période de six mois au plus.
 
 Le financement de cette allocation est assuré dans les conditions prévues à l'article L. 122-30.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -2742,9 +2859,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 14 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 15 () JORF 27 juillet 2007
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -2842,7 +2961,14 @@ que pour prendre part aux séances du conseil municipal et aux réunions des com
 
 Ces dispositions s'appliquent aux membres de la délégation spéciale mentionnée à l'article L. 121-5.
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -2850,9 +2976,10 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 16 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -2944,8 +3071,12 @@ constituent pour celles-ci une dépense obligatoire.
 
 ###### Article L123-5
 
-Dans les villes de plus de 400 000 habitants, les conseils municipaux peuvent voter des indemnités de fonctions aux
-conseillers municipaux autres que le maire et les adjoints.
+Les indemnités votées par les conseils municipaux des communes de 80 000 habitants au moins pour l'exercice effectif des
+fonctions de conseiller municipal sont, pour chaque strate considérée, au plus égales à 6 % du montant de l'indemnité
+maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier alinéa de l'article L. 123-4.
+
+En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité maximale susceptible d'être allouée au
+maire de la commune en application de l'article L. 123-4.
 
 **Liens relatifs à cet article**
 
@@ -2953,9 +3084,13 @@ conseillers municipaux autres que le maire et les adjoints.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 16 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L123-4 (V)
 
 
 ###### Article L123-6
@@ -3283,11 +3418,13 @@ municipal.
 
 #### Chapitre V : Participation des habitants à la vie locale.
 
+##### Section 1 : Consultation des électeurs
+
 ###### Article L125-1
 
-Les électeurs de la commune peuvent être consultés sur les décisions que les autorités municipales sont appelées à prendre
-pour régler les affaires de la compétence de la commune. La consultation peut ne concerner que les électeurs d'une partie du
-territoire de la commune pour des affaires intéressant spécialement cette partie de la commune.
+Les électeurs d'une commune peuvent être consultés sur les décisions que les autorités de cette commune envisagent de prendre
+pour régler les affaires relevant de la compétence de celle-ci. La consultation peut être limitée aux électeurs d'une partie
+du ressort de la commune, pour les affaires intéressant spécialement cette partie de la commune.
 
 **Liens relatifs à cet article**
 
@@ -3295,9 +3432,9 @@ territoire de la commune pour des affaires intéressant spécialement cette part
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -3306,12 +3443,12 @@ territoire de la commune pour des affaires intéressant spécialement cette part
 
 ###### Article L125-2
 
-Sur proposition du maire, ou sur demande écrite du tiers des membres du conseil municipal dans les communes de 3 500
-habitants et plus, ou sur demande écrite de la majorité des membres du conseil municipal dans les communes de moins de 3 500
-habitants, le conseil municipal délibère sur le principe et les modalités d'organisation de la consultation. Dans ce cas,
-l'urgence ne peut être invoquée.
+Un cinquième des électeurs inscrits sur les listes électorales peuvent demander à ce que soit inscrite à l'ordre du jour du
+conseil municipal l'organisation d'une consultation sur toute affaire relevant de la décision des autorités de la commune.
 
-La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
+Dans l'année, un électeur ne peut signer qu'une seule demande tendant à l'organisation d'une consultation.
+
+La décision d'organiser la consultation appartient au conseil municipal.
 
 **Liens relatifs à cet article**
 
@@ -3319,9 +3456,9 @@ La délibération qui décide la consultation indique expressément que cette co
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -3329,105 +3466,31 @@ La délibération qui décide la consultation indique expressément que cette co
 	  - Code des communes de la Nouvelle-Calédonie - art. R125-9 (V)
 
 
-###### Article L125-2-1
-
-Un cinquième des électeurs inscrits sur les listes électorales peuvent saisir le conseil municipal en vue de l'organisation
-d'une consultation sur une opération d'aménagement relevant de la décision des autorités municipales.
-
-Dans l'année, un électeur ne peut signer qu'une seule saisine tendant à l'organisation d'une consultation.
-
-Cette saisine du conseil municipal ne peut intervenir avant la fin de la deuxième année ni après la fin de la quatrième année
-suivant l'élection du conseil municipal de la commune concernée.
-
-Le conseil municipal délibère sur le principe et les modalités d'organisation de cette consultation.
-
-La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R125-2 (V)
-
-
-###### Article L125-2-2
-
-Les électeurs des communes membres d'un établissement public de coopération intercommunale peuvent être consultés sur les
-décisions que l'assemblée ou le président de cet établissement sont appelés à prendre pour régler les affaires de la
-compétence de l'établissement en matière d'aménagement.
-
-Sur proposition de l'ensemble des maires des communes membres, ou sur demande écrite de la moitié des membres de l'assemblée
-délibérante, l'assemblée délibérante de l'établissement délibère sur le principe et les modalités de l'organisation de la
-consultation. Dans ce cas, l'urgence ne peut être invoquée.
-
-Un cinquième des électeurs inscrits sur les listes électorales des communes membres de l'établissement public de coopération
-intercommunale peuvent saisir celui-ci en vue de l'organisation d'une consultation sur une opération d'aménagement relevant
-de sa décision. Dans l'année, tout électeur ne peut signer qu'une seule saisine tendant à l'organisation d'une consultation.
-L'assemblée délibérante de l'établissement délibère dans les conditions prévues à l'alinéa ci-dessus sur le principe et les
-modalités d'organisation de cette consultation.
-
-La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
-
-Les dépenses afférentes à la consultation sont à la charge de l'établissement public de coopération intercommunale qui
-l'organise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. R125-2 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. R125-4 (V)
-
-
 ###### Article L125-3
 
-Un dossier d'information sur l'objet de la consultation est mis à la disposition du public sur place à la mairie et, le cas
-échéant, à la mairie annexe quinze jours au moins avant le scrutin. L'accès du public au dossier est assuré dans les
-conditions fixées par l'article 4 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
-relations entre l'administration et le public.
+Le conseil municipal arrête le principe et les modalités d'organisation de la consultation. Sa délibération indique
+expressément que cette consultation n'est qu'une demande d'avis. Elle fixe le jour du scrutin et convoque les électeurs. Elle
+est transmise deux mois au moins avant la date du scrutin au haut-commissaire. Si celui-ci l'estime illégale, il dispose d'un
+délai de dix jours à compter de sa réception pour la déférer au tribunal administratif. Il peut assortir son recours d'une
+demande de suspension.
 
-Lorsque la consultation est organisée par un établissement public de coopération intercommunale, le dossier d'information
-mentionné à l'alinéa précédent est mis à la disposition du public dans les mêmes conditions au siège de l'établissement
-public, dans chaque mairie et, le cas échéant, mairie annexe des communes membres de l'établissement public.
+Le président du tribunal administratif ou le magistrat délégué par lui statue dans un délai d'un mois, en premier et dernier
+ressort, sur la demande de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de
+l'instruction, propre à créer un doute sérieux quant à la légalité du projet soumis à consultation.
+
+Lorsque la délibération organisant la consultation est de nature à compromettre l'exercice d'une liberté publique ou
+individuelle, le président du tribunal administratif ou le magistrat délégué par lui en prononce la suspension dans les
+quarante-huit heures.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie annexe
-	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -3436,8 +3499,9 @@ public, dans chaque mairie et, le cas échéant, mairie annexe des communes memb
 
 ###### Article L125-4
 
-Après avoir pris connaissance du résultat de la consultation, le conseil municipal ou l'assemblée délibérante de
-l'établissement public de coopération intercommunale délibère dans les conditions prévues à l'article L. 121-12.
+Les électeurs font connaître par "oui" ou par "non" s'ils approuvent le projet de délibération ou d'acte qui leur est
+présenté. Après avoir pris connaissance du résultat de la consultation, l'autorité compétente de la commune arrête sa
+décision sur l'affaire qui en a fait l'objet.
 
 **Liens relatifs à cet article**
 
@@ -3445,22 +3509,41 @@ l'établissement public de coopération intercommunale délibère dans les condi
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-12 (M)
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
 
 
 ###### Article L125-5
 
-Aucune consultation ne peut avoir lieu à partir du 1er janvier de l'année civile qui précède l'année du renouvellement
-général des conseils municipaux ni durant les campagnes électorales précédant les élections au suffrage universel direct ou
-indirect. Deux consultations portant sur un même objet ne peuvent intervenir dans un délai inférieur à deux ans.
+Une commune ne peut organiser une consultation :
 
-Un délai d'un an doit s'écouler entre deux consultations.
+1° A compter du premier jour du sixième mois précédant celui au cours duquel il doit être procédé au renouvellement du
+conseil municipal ;
+
+2° Pendant la campagne ou le jour du scrutin prévu pour des consultations organisées dans son ressort sur le fondement du
+dernier alinéa de l'article 72-1 et de l'article 72-4 de la Constitution.
+
+Aucune commune ne peut organiser une consultation pendant la campagne ou les jours du scrutin prévus pour :
+
+1° Le renouvellement du conseil municipal ;
+
+2° Le renouvellement du congrès et des assemblées de province ;
+
+3° Le renouvellement général des députés ;
+
+4° Le renouvellement de la série à laquelle appartiennent les sénateurs élus en Nouvelle-Calédonie ;
+
+5° L'élection des membres du Parlement européen ;
+
+6° L'élection du Président de la République ;
+
+7° Un référendum décidé par le Président de la République.
+
+La délibération organisant une consultation devient caduque dans les cas prévus au présent article ou en cas de dissolution
+du conseil municipal l'ayant décidé, de démission de tous ses membres ou d'annulation définitive de leur élection.
+
+Une commune ne peut organiser plusieurs consultations portant sur un même objet dans un délai inférieur à un an.
 
 **Liens relatifs à cet article**
 
@@ -3468,17 +3551,22 @@ Un délai d'un an doit s'écouler entre deux consultations.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie 72-1
+	  - Constitution 1958-10-04 art. 72-1, art. 72-4
 
 
 ###### Article L125-6
 
-Lorsque l'élection du conseil municipal ou du maire ou la désignation des délégués à l'assemblée délibérante de
-l'établissement public de coopération intercommunale, ou du président de celle-ci, fait l'objet d'un recours contentieux
-devant le tribunal administratif et, s'il y a lieu, devant le Conseil d'Etat, aucune consultation ne peut avoir lieu tant que
-cette élection ou cette désignation n'a fait l'objet d'une décision devenue définitive.
+Le droit des habitants de la commune à être informés des affaires de celle-ci et à être consultés sur les décisions qui les
+concernent, indissociable de la libre administration des communes, est un principe essentiel de la démocratie locale. Il
+s'exerce sans préjudice des dispositions en vigueur relatives notamment à la publicité des actes des autorités territoriales
+ainsi qu'à la liberté d'accès aux documents administratifs.
 
 **Liens relatifs à cet article**
 
@@ -3486,14 +3574,46 @@ cette élection ou cette désignation n'a fait l'objet d'une décision devenue d
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
 
 
 ###### Article L125-7
 
-Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
+I. - Sont applicables au référendum local les dispositions du chapitre VII du titre Ier du livre Ier du code électoral, à
+l'exception des articles L. 88-1, L. 95 et L. 113-1 (1° à 5° du I, II et III).
+
+Pour l'application de ces dispositions, il y a lieu de lire :
+
+"groupe, parti ou groupement politique habilité à participer à la campagne" au lieu de : "candidat" et de : "liste de
+candidats".
+
+II. - Les dispositions du code électoral mentionnées au présent article sont applicables dans les conditions fixées aux
+articles L. 386, L. 390, L. 391 et L. 392 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code électoral - art. L386 (M)
+	  - Code électoral - art. L390 (V)
+	  - Code électoral - art. L391 (V)
+	  - Code électoral - art. L392 (M)
+	  - Code des communes de la Nouvelle-Calédonie L88-1, L95, L113-1
+
+
+###### Article L125-8
+
+Les dépenses liées à la consultation des électeurs constituent une dépense obligatoire de la commune qui l'a décidée.
 
 **Liens relatifs à cet article**
 
@@ -3503,7 +3623,76 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+
+
+###### Article L125-9
+
+Le projet soumis à la consultation est adopté si la moitié au moins des électeurs inscrits a pris part au scrutin et s'il
+réunit la majorité des suffrages exprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+
+
+##### Section 2 : Quartiers et comités consultatifs
+
+###### Article L125-10
+
+Dans les communes de 50 000 habitants et plus, le conseil municipal peut fixer le périmètre de chacun des quartiers
+constituant la commune.
+
+Chacun d'eux est doté d'un conseil de quartier dont le conseil municipal fixe la dénomination, la composition et les
+modalités de fonctionnement.
+
+Les conseils de quartier peuvent être consultés par le maire et peuvent lui faire des propositions sur toute question
+concernant le quartier ou la ville. Le maire peut les associer à l'élaboration, à la mise en oeuvre et à l'évaluation des
+actions intéressant le quartier, en particulier celles menées au titre de la politique de la ville.
+
+Le conseil municipal peut affecter aux conseils de quartier un local et leur allouer chaque année des crédits pour leur
+fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+
+
+###### Article L125-11
+
+Le conseil municipal peut créer des comités consultatifs sur tout problème d'intérêt communal concernant tout ou partie du
+territoire de la commune. Ces comités comprennent des personnes qui peuvent ne pas appartenir au conseil, notamment des
+représentants des associations locales.
+
+Sur proposition du maire, il en fixe la composition pour une durée qui ne peut excéder celle du mandat municipal en cours.
+
+Chaque comité est présidé par un membre du conseil municipal, désigné par le maire.
+
+Les comités peuvent être consultés par le maire sur toute question ou projet intéressant les services publics et équipements
+de proximité et entrant dans le domaine d'activité des associations membres du comité. Ils peuvent par ailleurs transmettre
+au maire toute proposition concernant tout problème d'intérêt communal pour lequel ils ont été institués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
 
 
 #### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.
@@ -3840,7 +4029,11 @@ Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulatio
 cet accès, à certaines heures, à diverses catégories d'usagers ou de véhicules ;
 
 2° Réglementer l'arrêt et le stationnement des véhicules ou de certaines catégories d'entre eux, ainsi que la desserte des
-immeubles riverains.
+immeubles riverains ;
+
+3° Réserver sur la voie publique ou dans tout autre lieu de stationnement ouvert au public des emplacements de stationnement
+aménagés aux véhicules utilisés par toute personne reconnue handicapée par le droit applicable localement. Le stationnement
+sans autorisation d'un véhicule sur ces emplacements réservés est considéré comme gênant.
 
 Le maire peut, par arrêté motivé, instituer, à titre permanent ou provisoire, pour les véhicules affectés à un service public
 et pour les besoins exclusifs de ce service, des stationnements réservés sur les voies publiques de l'agglomération.
@@ -3854,9 +4047,9 @@ stationnement des transports publics de voyageurs et des taxis.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 18 () JORF 27 juillet 2007
 
 
 ###### Article L131-5
@@ -4176,9 +4369,16 @@ aux règlements et arrêtés de police municipale.
 
 Ils dressent des procès-verbaux pour constater ces contraventions.
 
-Ils constatent également les contraventions mentionnées au livre VI du code pénal, dont la liste est fixée par décret en
-Conseil d'Etat, dès lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des
-atteintes à l'intégrité des personnes.
+Ils constatent également les contraventions mentionnées au livre VI du code pénal, dont la liste est fixée par décret, dès
+lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des atteintes à
+l'intégrité des personnes.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -4188,7 +4388,16 @@ atteintes à l'intégrité des personnes.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L546-5 (VD)
 
 	**Cité par**:
 
@@ -4263,7 +4472,14 @@ rapports des infractions en matière de police rurale.
 Le régime de la police d'Etat est institué dans une commune par arrêté conjoint du ministre chargé de la Nouvelle-Calédonie
 et du ministre de l'économie et des finances, pris sur la demande ou avec l'accord du conseil municipal.
 
-Dans les autres cas, il est institué par décret en Conseil d'Etat.
+Dans les autres cas, il est institué par décret.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -4271,9 +4487,10 @@ Dans les autres cas, il est institué par décret en Conseil d'Etat.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
 ###### Article L132-6
@@ -4960,22 +5177,21 @@ En cas de désaccord entre les conseils municipaux, la décision est prise par l
 Nouvelle-Calédonie ou, dans l'intervalle des sessions, de la commission permanente.
 
 La part de la dépense définitivement assignée à chaque commune est portée d'office aux budgets respectifs, conformément à
-l'article 11 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des
-régions.
+l'article L. 263-21 du code des juridictions financières.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-213 1982-03-02 art. 11
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 19 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L263-21 (M)
 
 
 #### Chapitre III : Syndicat de communes
@@ -5283,6 +5499,23 @@ Il représente le syndicat en justice.
 	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 21 () JORF 7 mai 2005
 
 
+###### Article L163-13-1
+
+Les indemnités maximales pour l'exercice effectif des fonctions de président et vice-présidents de syndicats de communes sont
+fixées par arrêté du haut-commissaire de la République par référence aux indices des traitements de la fonction publique de
+la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 20 () JORF 27 juillet 2007
+
+
 ###### Article L163-14
 
 L'administration des établissements faisant l'objet des syndicats est soumise aux règles du droit commun.
@@ -5325,6 +5558,78 @@ L'article L. 121-20-3 s'applique aux groupements de communes comptant une popula
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-20-3 (V)
+
+
+###### Article L163-14-2
+
+Une commune peut adhérer à un syndicat pour une partie seulement des compétences exercées par celui-ci.
+
+La décision d'institution ou une décision modificative détermine en ce cas la liste des communes membres du syndicat, la
+liste des compétences que le syndicat peut exercer et les conditions dans lesquelles chaque commune membre transfère au
+syndicat tout ou partie des compétences que celui-ci est habilité à exercer. Le syndicat exerce chacune de ses compétences
+dans les limites du territoire des communes lui ayant délégué cette compétence.
+
+Chaque commune supporte obligatoirement, dans les conditions fixées par la décision d'institution, les dépenses correspondant
+aux compétences qu'elle a transférées au syndicat ainsi qu'une part des dépenses d'administration générale.
+
+Par dérogation aux dispositions du chapitre Ier du titre II du présent livre, s'appliquent les règles suivantes :
+
+1° Tous les délégués prennent part au vote pour les affaires présentant un intérêt commun à toutes les communes et notamment
+pour l'élection du président et des membres du bureau, le vote du budget, l'approbation du compte administratif et les
+décisions relatives aux modifications des conditions initiales de composition, de fonctionnement et de durée du syndicat ;
+dans le cas contraire, ne prennent part au vote que les délégués représentant les communes concernées par l'affaire mise en
+délibération ;
+
+2° Le président prend part à tous les votes, sauf en cas d'application des articles L. 121-13 et L. 121-41 ;
+
+3° Pour tenir compte des compétences transférées par chaque commune au syndicat, la décision d'institution peut fixer des
+règles particulières de représentation de chaque commune.
+
+Le comité syndical peut former pour l'exercice d'une ou plusieurs compétences des commissions chargées d'étudier et de
+préparer ses décisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 21 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-13 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-41 (V)
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L163-14-3 (V)
+
+
+###### Article L163-14-3
+
+Il peut être fait application aux syndicats existant à la date d'entrée en vigueur de l'ordonnance n° 2007-1134 du 25 juillet
+2007 des dispositions de l'article L. 163-14-2 ci-dessus, si les conseils municipaux des communes membres de ces syndicats
+ont fait connaître, dans les conditions de majorité prévues à l'article L. 163-1, leur volonté de modifier en conséquence la
+décision d'institution du syndicat. La décision de modification est prise par le haut-commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Cite**:
+
+	  - Ordonnance 2007-1134 2007-07-25
+	  - Code des communes de la Nouvelle-Calédonie - art. L163-1 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L163-14-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 21 () JORF 27 juillet 2007
 
 
 ##### Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat
@@ -5599,77 +5904,22 @@ qui en approuvent les statuts ".
 
 ###### Article L166-7
 
-Les syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces sont régis par les dispositions ci-après
-reproduites des I à VIII de l'article 9 de la loi n° 99-210 du 19 mars 1999 :
-
-" I. - Le syndicat mixte peut réaliser son objet notamment par voie d'exploitation directe ou par simple participation
-financière dans des sociétés ou organismes dans les mêmes conditions que la Nouvelle-Calédonie, les provinces ou les
-communes.
-
-Dans ce dernier cas, les modalités de cette participation sont fixées par la décision institutive.
-
-II. - Toute personne physique ou morale a le droit de demander communication sans déplacement et de prendre copie totale ou
-partielle des procès-verbaux de l'organe délibérant des syndicats mixtes, des budgets et des comptes ainsi que des arrêts du
-président de ces établissements publics.
-
-Chacun peut les publier sous sa responsabilité.
-
-La personne visée au premier alinéa désireuse de se faire communiquer la copie des budgets ou des comptes d'un syndicat mixte
-peut l'obtenir à ses frais, aussi bien du président de l'établissement public que des services de l'Etat.
-
-III. - Le syndicat mixte est dissous de plein droit soit à l'expiration de la durée pour laquelle il a été institué, soit à
-la fin de l'opération qu'il avait pour objet de conduire.
-
-Il peut également être dissous, d'office ou à la demande des personnes morales qui le composent, par décret pris sur l'avis
-conforme du Conseil d'Etat.
-
-Toutefois, lorsque la demande de dissolution du syndicat mixte est présentée à l'unanimité de ses membres et qu'elle prévoit,
-sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est liquidé, la dissolution du syndicat
-mixte est prononcée par arrêté du haut-commissaire de la République.
-
-IV. - Les dispositions des titres Ier à IV du livre II du code des communes, tel qu'il a été rendu applicable en Nouvelle-
-Calédonie par la loi n° 77-744 du 8 juillet 1977 précitée, sont applicables au syndicat mixte sous réserve des dispositions
-des paragraphes ci-après.
-
-Pour l'application de l'article L. 212-14 du code des communes, tel que rendu applicable en Nouvelle-Calédonie par le II de
-l'article 7 de la loi n° 77-744 du 8 juillet 1977 précitée, les lieux de mise à disposition du public des documents
-budgétaires sont le siège de l'établissement ainsi que les mairies des communes membres du syndicat mixte.
-
-V. - Le bilan des acquisitions et cessions opérées par les syndicats mixtes est soumis chaque année à délibération de
-l'organe délibérant. Ce bilan est annexé au compte administratif de l'établissement concerné.
-
-Toute cession d'immeubles ou de droits réels immobiliers envisagée par un syndicat mixte donne lieu à délibération motivée de
-l'organe délibérant portant sur les conditions de la vente et ses caractéristiques essentielles. La délibération est prise au
-vu de l'avis du service des domaines. Cet avis est réputé donné à l'issue d'un délai d'un mois à compter de la saisine de ce
-service. Lorsque cette opération est envisagée dans le cadre d'une convention avec une commune, copie de cette délibération
-est transmise à la commune concernée dans les deux mois suivant son adoption.
-
-VI. - Les cessions d'immeubles ou de droits réels immobiliers des syndicats mixtes font l'objet d'une inscription sur un
-tableau récapitulatif annexé au compte administratif de l'établissement. Cette inscription précise la nature du bien, sa
-localisation, l'origine de propriété, l'identité du cédant et du cessionnaire ainsi que les conditions de la cession.
-
-VII. - Les délibérations concordantes des assemblées et organes délibérants des personnes morales qui participent au syndicat
-mixte en prévoient les autres modalités de fonctionnement.
-
-VIII. - Les syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces sont soumis au contrôle de légalité,
-au contrôle budgétaire et au jugement des comptes dans les conditions fixées par la législation applicable aux communes de
-Nouvelle-Calédonie. "
+Les syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces sont régis par l'article 9 de la loi n°
+99-210 du 19 mars 1999 relative à la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°77-744 du 8 juillet 1977 - art. 7 (Ab)
 	  - Loi n°99-210 du 19 mars 1999 - art. 9 (M)
-	  - CODE DES COMMUNES. - art. L212-14 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 22 () JORF 27 juillet 2007
 
 
 #### Chapitre IX : Dispositions communes
@@ -5698,7 +5948,12 @@ membres pour la représenter au sein de l'organe délibérant de cet établissem
 
 ###### Article L211-1
 
+Le budget de la commune est l'acte par lequel sont prévues et autorisées les recettes et les dépenses annuelles de la
+commune.
+
 Le budget de la commune est établi en section de fonctionnement et section d'investissement, tant en recettes qu'en dépenses.
+
+Le budget de la commune est divisé en chapitres et articles dans les conditions qui sont déterminées par décret.
 
 **Liens relatifs à cet article**
 
@@ -5706,9 +5961,9 @@ Le budget de la commune est établi en section de fonctionnement et section d'in
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 23 () JORF 27 juillet 2007
 
 
 ###### Article L211-2
@@ -5733,37 +5988,11 @@ ressources envisagées pour y faire face.
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-###### Article L211-3
-
-Le budget de la commune est divisé en chapitres et articles dans les conditions qui sont déterminées par arrêté
-interministériel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe JORF 5 juillet 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 23 () JORF 27 juillet 2007
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 23, v. init.
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 23
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. D211-1 (VD)
-
-
 ###### Article L211-4
 
-Pour les communes et pour les établissements publics administratifs qui remplissent les conditions fixées par décret en
-Conseil d'Etat, des dotations budgétaires affectées aux dépenses d'investissement peuvent comprendre des autorisations de
-programme et des crédits de paiement.
+I. - Pour les communes et pour les établissements publics administratifs qui remplissent les conditions fixées par décret,
+des dotations budgétaires affectées aux dépenses d'investissement peuvent comprendre des autorisations de programme et des
+crédits de paiement.
 
 Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement
 des investissements. Elles demeurent valables, sans limitation de durée, jusqu'à ce qu'il soit procédé à leur annulation.
@@ -5774,6 +6003,72 @@ couverture des engagements contractés dans le cadre des autorisations de progra
 
 L'équilibre budgétaire de la section d'investissement s'apprécie en tenant compte des seuls crédits de paiement.
 
+II. - Les dotations affectées aux dépenses de fonctionnement peuvent comprendre des autorisations d'engagement et des crédits
+de paiement.
+
+Cette faculté est réservée aux seules dépenses résultant de conventions, de délibérations ou de décisions, au titre
+desquelles la commune s'engage, au-delà d'un exercice budgétaire, à verser une subvention, une participation ou une
+rémunération à un tiers. Toutefois, les frais de personnel et les subventions versées aux organismes privés ne peuvent faire
+l'objet d'une autorisation d'engagement.
+
+Les autorisations d'engagement constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement
+des dépenses mentionnées à l'alinéa précédent. Elles demeurent valables sans limitation de durée jusqu'à ce qu'il soit
+procédé à leur annulation. Elles peuvent être révisées.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être mandatées pendant l'année pour la
+couverture des engagements contractés dans le cadre des autorisations d'engagement correspondantes.
+
+L'équilibre budgétaire de la section de fonctionnement s'apprécie en tenant compte des seuls crédits de paiement.
+
+La situation des autorisations d'engagement et de programme, ainsi que des crédits de paiement y afférents donne lieu à un
+état joint aux documents budgétaires.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 24 () JORF 27 juillet 2007
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+
+
+###### Article L211-5
+
+Le résultat excédentaire de la section de fonctionnement dégagé au titre de l'exercice clos, cumulé avec le résultat
+antérieur reporté, est affecté en totalité dès la plus proche décision budgétaire suivant le vote du compte administratif et,
+en tout état de cause, avant la clôture de l'exercice suivant.
+
+La délibération d'affectation prise par l'assemblée délibérante est produite à l'appui de la décision budgétaire de reprise
+de ce résultat. Lorsque le compte administratif ne fait pas ressortir de besoin de financement en section d'investissement,
+le résultat de la section de fonctionnement constaté au compte administratif est repris à cette section sauf si le conseil en
+décide autrement.
+
+Le résultat déficitaire de la section de fonctionnement, le besoin de financement ou l'excédent de la section
+d'investissement sont repris en totalité dès la plus proche décision budgétaire suivant le vote du compte administratif et,
+en tout état de cause, avant la fin de l'exercice.
+
+Entre la date limite de mandatement fixée au troisième alinéa de l'article L. 263-17 du code des juridictions financières et
+le 31 mars, le conseil municipal peut, au titre de l'exercice clos et avant l'adoption de son compte administratif, reporter
+de manière anticipée au budget le résultat de la section de fonctionnement, le besoin de financement de la section
+d'investissement ou, le cas échéant, l'excédent de la section d'investissement, ainsi que la prévision d'affectation.
+
+Si le compte administratif fait apparaître une différence avec les montants reportés par anticipation, l'assemblée
+délibérante procède à leur régularisation et à la reprise du résultat dans la plus proche décision budgétaire suivant le vote
+du compte administratif et, en tout état de cause, avant la fin de l'exercice.
+
+Un décret fixe les conditions d'application du présent article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5782,7 +6077,57 @@ L'équilibre budgétaire de la section d'investissement s'apprécie en tenant co
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 25 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L263-17 (M)
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-2 (V)
+
+
+###### Article L211-6
+
+Lorsque la section d'investissement du budget présente un excédent après reprise des résultats, le conseil municipal peut
+reprendre les crédits correspondant à cet excédent en recette de fonctionnement dans les cas et conditions définis par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 25 () JORF 27 juillet 2007
+
+
+###### Article L211-7
+
+L'attribution des subventions donne lieu à une délibération distincte du vote du budget.
+
+Toutefois, pour les subventions dont l'attribution n'est pas assortie de conditions d'octroi, le conseil municipal peut
+décider :
+
+1° D'individualiser au budget les crédits par bénéficiaire ;
+
+2° Ou d'établir, dans un état annexé au budget, une liste des bénéficiaires avec, pour chacun d'eux, l'objet et le montant de
+la subvention.
+
+L'individualisation des crédits ou la liste établie conformément au 2° vaut décision d'attribution des subventions en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 27 () JORF 27 juillet 2007
 
 
 #### Chapitre II : Vote et règlement
@@ -5790,8 +6135,9 @@ L'équilibre budgétaire de la section d'investissement s'apprécie en tenant co
 ###### Article L212-1
 
 Le budget de la commune est proposé par le maire et voté par le conseil municipal. Dans les communes de 3 500 habitants et
-plus, un débat a lieu au conseil municipal sur les orientations générales du budget, dans un délai de deux mois précédant
-l'examen de celui-ci, dans les conditions fixées par le règlement intérieur prévu à l'article L. 121-10-1.
+plus, un débat a lieu au conseil municipal sur les orientations générales du budget de l'exercice ainsi que sur les
+engagements pluriannuels envisagés, dans un délai de deux mois précédant l'examen de celui-ci, dans les conditions fixées par
+le règlement intérieur prévu à l'article L. 121-10-1.
 
 **Liens relatifs à cet article**
 
@@ -5799,9 +6145,9 @@ l'examen de celui-ci, dans les conditions fixées par le règlement intérieur p
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 26 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -5834,6 +6180,34 @@ effectuer des virements d'article à article, dans l'intérieur du même chapitr
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L212-2-1
+
+Le budget des communes de 10 000 habitants et plus est voté soit par nature, soit par fonction. S'il est voté par nature, il
+comporte une présentation fonctionnelle ; s'il est voté par fonction, il comporte une présentation par nature.
+
+Le budget des communes de moins de 10 000 habitants est voté par nature. Il comporte pour les communes de 3 500 habitants et
+plus une présentation fonctionnelle.
+
+La nomenclature par nature et la nomenclature par fonction ainsi que la présentation des documents budgétaires sont fixées
+par voie réglementaire.
+
+Un décret précise les modalités d'application des premier et deuxième alinéas du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 27 () JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. D211-2 (VD)
+
+
 ###### Article L212-3
 
 Les budgets de la commune restent déposés à la mairie et, le cas échéant, à la mairie annexe où ils sont mis sur place à la
@@ -5847,44 +6221,67 @@ Dans les communes de 3 500 habitants et plus, les documents budgétaires, sans p
 
 1° De données synthétiques sur la situation financière de la commune ;
 
-2° De la liste des concours attribués par la commune aux associations sous forme de prestations en nature et de subventions ;
+2° De la liste des concours attribués par la commune sous forme de prestations en nature ou de subventions. Ce document est
+joint au seul compte administratif ;
 
-3° De la présentation consolidée des résultats afférents au dernier exercice connu du budget principal et des budgets annexes
-de la commune. Cette mesure prend effet à compter de la production du compte administratif afférent à l'année 1996 ;
+3° De la présentation agrégée des résultats afférents au dernier exercice connu du budget principal et des budgets annexes de
+la commune. Ce document est joint au seul compte administratif ;
 
-4° Des tableaux de synthèse des comptes administratifs afférents au dernier exercice connu des organismes de coopération
-intercommunale dont est membre la commune ;
+4° De la liste des organismes pour lesquels la commune :
 
-5° Du bilan certifié conforme du dernier exercice connu des organismes dans lesquels la commune détient une part du capital
-ou au bénéfice desquels la commune a garanti un emprunt ou versé une subvention supérieure à 9 096 000 F CFP (500 000 FF) ou
-représentant plus de 50 % du budget de l'organisme ;
+a) Détient une part du capital ;
+
+b) A garanti un emprunt ;
+
+c) A versé une subvention supérieure à neuf millions de francs CFP ou représentant plus de 50 % du produit figurant au compte
+de résultat de l'organisme.
+
+La liste indique le nom, la raison sociale et la nature juridique de l'organisme ainsi que la nature et le montant de
+l'engagement financier de la commune ;
+
+5° (alinéa supprimé)
 
 6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leurs amortissements ;
 
-7° Des comptes et des annexes produits par les délégataires de service public ;
+7° De la liste des délégataires de service public ;
 
 8° Du tableau des acquisitions et cessions immobilières mentionné au c du II de l'article 5 de la loi n° 83-597 du 7 juillet
 1983 relative aux sociétés d'économie mixte locales.
 
+Lorsqu'une décision modificative ou le budget supplémentaire a pour effet de modifier le contenu de l'une des annexes, celle-
+ci doit être à nouveau produite pour le vote de la décision modificative ou du budget supplémentaire.
+
 Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1° font l'objet d'une insertion dans une
 publication locale diffusée dans la commune.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+Pour l'ensemble des communes, les documents budgétaires sont assortis d'états portant sur la situation patrimoniale et
+financière de la collectivité ainsi que sur ses différents engagements.
+
+Un décret fixe les conditions d'application du présent article.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-597 du 7 juillet 1983 - art. 5 (M)
 	  - Code des communes de la Nouvelle-Calédonie annexe, L241-5
+	  - Loi n°83-597 du 7 juillet 1983 - art. 5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 28 () JORF 27 juillet 2007
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cité par**:
 
@@ -5897,6 +6294,47 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	  - Code des communes de la Nouvelle-Calédonie - art. R212-5 (Ab)
 	  - Code des communes de la Nouvelle-Calédonie - art. R212-6 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. R212-7 (V)
+
+
+###### Article L212-4
+
+Les comptes certifiés des organismes mentionnés au 4° de l'article L. 212-3 sont transmis à la commune.
+
+Ils sont communiqués par la commune aux élus municipaux qui en font la demande, dans les conditions prévues à l'article L.
+121-22, ainsi qu'à toute personne intéressée, dans les conditions prévues à l'article L. 121-19.
+
+Sont transmis par la commune au haut-commissaire et au comptable de la commune à l'appui du compte administratif les comptes
+certifiés des organismes non dotés d'un comptable public et pour lesquels la commune :
+
+1° Détient au moins 33 % du capital ;
+
+2° Ou a garanti un emprunt ;
+
+3° Ou a versé une subvention supérieure à neuf millions de francs CFP ou représentant plus de 50 % du produit figurant au
+compte de résultat de l'organisme et dépassant le seuil prévu par le troisième alinéa de l'article 10 de la loi n° 2000-321
+du 12 avril 2000.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 10 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-19 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-22 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 29 () JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 18
+	  - Code des communes de la Nouvelle-Calédonie - art. R212-6 (VD)
 
 
 ### TITRE II : DÉPENSES
@@ -5966,7 +6404,25 @@ règlements en vigueur ;
 
 15° L'acquittement des dettes exigibles ;
 
-16° Les dépenses occasionnées par l'application de l'article L. 122-14.
+16° Les dépenses occasionnées par l'application de l'article L. 122-14 ;
+
+17° Les dépenses occasionnées par l'application des articles L. 125-1 et suivants ;
+
+18° Pour les communes ou les groupements de communes dont la population est égale ou supérieure à 3 500 habitants et pour
+leurs établissements publics, les dotations aux amortissements des immobilisations ;
+
+19° Pour les communes de moins de 3 500 habitants et les groupements de communes dont la population est inférieure à 3 500
+habitants et pour leurs établissements, les dotations aux amortissements des subventions d'équipements versées ;
+
+20° Les dotations aux provisions dont les modalités de constitution, d'ajustement et d'emploi sont déterminées par décret ;
+
+21° Les intérêts de la dette et les dépenses de remboursement en capital.
+
+Les dispositions des 18°, 19° et 20° entrent en vigueur à compter de l'exercice 2009 pour les immobilisations acquises à
+compter du 1er janvier 2008.
+
+Un décret définit les modalités d'application des 18° et 19° ; il définit notamment les immobilisations qui sont assujetties
+à l'obligation d'amortissement.
 
 **Liens relatifs à cet article**
 
@@ -5976,7 +6432,7 @@ règlements en vigueur ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 25 () JORF 7 mai 2005
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 30 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -5988,6 +6444,27 @@ règlements en vigueur ;
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-38 (M)
 	  - Code des communes de la Nouvelle-Calédonie - art. L122-14 (V)
+
+
+###### Article L221-2-1
+
+Les recettes d'investissement prévues aux 1° et 13° de l'article L. 231-2 peuvent être utilisées au financement des dotations
+aux amortissements prévus aux 18° et 19° de l'article L. 221-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 31 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L221-2 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-2 (T)
 
 
 ###### Article L221-3
@@ -6107,10 +6584,17 @@ agents desdits services et établissements publics de l'Etat.
 
 ###### Article L221-9
 
-Les communes et leurs établissements publics peuvent, dans des conditions fixées par décret en Conseil d'Etat, verser des
-indemnités supplémentaires aux agents des services extérieurs de l'Etat ou des établissements publics de l'Etat au titre des
-prestations fournies personnellement par ces agents en dehors de l'exercice de leurs fonctions dans lesdits services et
-établissements publics de l'Etat.
+Les communes et leurs établissements publics peuvent, dans des conditions fixées par décret, verser des indemnités
+supplémentaires aux agents des services extérieurs de l'Etat ou des établissements publics de l'Etat au titre des prestations
+fournies personnellement par ces agents en dehors de l'exercice de leurs fonctions dans lesdits services et établissements
+publics de l'Etat.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -6118,18 +6602,138 @@ prestations fournies personnellement par ces agents en dehors de l'exercice de l
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
 ### TITRE III : RECETTES
 
 #### Chapitre Ier : Dispositions générales
 
-##### Section 1 : Répartition et recouvrement de certaines taxes
+##### Section 1 : Catégories de recettes
+
+##### Sous-section 1 : Recettes de la section de fonctionnement
 
 ###### Article L231-1
+
+Les recettes de la section de fonctionnement du budget communal se composent :
+
+1° Du revenu de tous les biens dont les habitants n'ont pas la jouissance en nature ;
+
+2° Du produit des prestations en nature ;
+
+3° Du produit des centimes additionnels dont la perception est autorisée par la législation applicable en Nouvelle-
+Calédonie ;
+
+4° Des cotisations imposées annuellement sur les ayants droit aux fruits qui se perçoivent en nature ;
+
+5° Des versements du fonds intercommunal de péréquation ;
+
+6° Du produit des expéditions des actes administratifs ;
+
+7° Du produit des régies municipales et de la participation des communes dans des sociétés ;
+
+8° Du produit des permis de stationnement et des locations sur la voie publique et autres lieux publics ;
+
+9° Du produit des droits de voirie ;
+
+10° Du produit des terrains communaux affectés aux inhumations et de la part revenant aux communes dans le prix des
+concessions des cimetières ;
+
+11° Des attributions de répartition de la dotation globale de fonctionnement ainsi que, le cas échéant, de la dotation
+générale de décentralisation, le produit des subventions de fonctionnement et des versements résultant des mécanismes de
+péréquation et les autres concours financiers apportés par l'Etat au fonctionnement des communes ;
+
+12° Généralement du produit des contributions et droits dont la perception est autorisée par les lois dans l'intérêt des
+communes ;
+
+13° Toutes les autres recettes annuelles et permanentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
+
+	**Nouveaux textes**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-3 (V)
+
+
+##### Sous-section 2 : Recettes de la section d'investissement
+
+###### Article L231-2
+
+Les recettes de la section d'investissement du budget communal se composent :
+
+1° Du produit du relèvement du tarif des amendes relatives à la circulation routière ;
+
+2° Du produit des subventions d'investissement et d'équipement ;
+
+3° Des versements du fonds intercommunal de péréquation pour l'équipement des communes ;
+
+4° Du produit des emprunts ;
+
+5° Des subventions d'équipement de l'Etat provenant notamment de la section générale du fonds d'investissement et de
+développement économique et social (FIDES) ;
+
+6° Des attributions de la dotation globale d'équipement ;
+
+7° Des dons et legs en nature et des dons et legs en espèces affectés à l'achat d'une immobilisation financière ou physique ;
+
+8° Du produit des cessions d'immobilisation dans les conditions fixées par décret ;
+
+9° De toutes autres recettes accidentelles ou temporaires dont la perception est régulièrement autorisée ;
+
+10° Du produit des cessions des immobilisations financières ;
+
+11° Des amortissements des immobilisations pour les communes de 3 500 habitants et plus et pour celles de moins de 3 500
+habitants qui ont inscrit en dépenses des dotations aux amortissements des immobilisations ;
+
+12° Des provisions pour les communes de 3 500 habitants et plus et pour celles de moins de 3 500 habitants qui ont inscrit en
+dépenses des dotations aux provisions ;
+
+13° Des provisions spéciales constituées pour toute dette financière faisant l'objet d'un différé de remboursement ;
+
+14° Du virement prévisionnel de la section de fonctionnement et du produit de l'affectation du résultat de fonctionnement
+conformément à l'article L. 211-5.
+
+Les communes ont la faculté de verser à la section d'investissement de leur budget tout ou partie de l'excédent éventuel de
+leurs recettes de la section de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. D221-5 (VD)
+	  - Code des communes de la Nouvelle-Calédonie - art. L221-2-1 (V)
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L211-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-4 (V)
+
+
+##### Section 2 : Répartition et recouvrement de certaines taxes
+
+###### Article L231-3
 
 Les taxes particulières dues par les habitants ou propriétaires en vertu des lois et usages locaux sont réparties par
 délibération du conseil municipal.
@@ -6144,23 +6748,18 @@ Ces taxes sont recouvrées comme en matière d'impôts directs.
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Transféré par**:
-
 	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L231-3 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-1 (T)
 
 
-###### Article L231-2
+###### Article L231-4
 
-Les créances non fiscales des communes et des établissements publics communaux, à l'exception des droits au comptant et des
-droits constatés perçus par l'intermédiaire des régisseurs de recettes, ne sont pas mises en recouvrement par les
-ordonnateurs locaux lorsqu'elles n'atteignent pas le seuil fixé pour la liquidation des créances de l'Etat étrangères à
-l'impôt et au domaine.
+Les créances non fiscales des communes et des établissements publics communaux et intercommunaux, à l'exception des droits au
+comptant et des droits constatés perçus par l'intermédiaire des régisseurs de recettes, ne sont pas mises en recouvrement par
+les ordonnateurs locaux lorsqu'elles atteignent un seuil fixé par décret.
 
 **Liens relatifs à cet article**
 
@@ -6170,20 +6769,127 @@ l'impôt et au domaine.
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Transféré par**:
-
 	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 33 () JORF 27 juillet 2007
 
 	**Cité par**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. D221-5 (VD)
-	  - Code des communes de la Nouvelle-Calédonie - art. L221-2-1 (V)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+	  - Code des communes de la Nouvelle-Calédonie - art. D231-2 (VD)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L231-4 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-2 (T)
+
+
+##### Section 2 : Répartition et recouvrement de certaines taxes
+
+###### Article L231-5
+
+1° En l'absence de contestation, le titre de recettes individuel ou collectif émis par la commune ou l'établissement public
+local permet l'exécution forcée d'office contre le débiteur.
+
+Toutefois, l'introduction devant une juridiction de l'instance ayant pour objet de contester le bien-fondé d'une créance
+assise et liquidée par une commune ou un établissement public local, suspend la force exécutoire du titre.
+
+L'introduction de l'instance ayant pour objet de contester la régularité formelle d'un acte de poursuite suspend l'effet de
+cet acte ;
+
+2° L'action dont dispose le débiteur d'une créance assise et liquidée par une commune ou un établissement public local pour
+contester directement devant la juridiction compétente le bien-fondé de ladite créance se prescrit dans le délai de trois
+mois suivant la réception du titre exécutoire ou, à défaut, du premier acte procédant de ce titre ou de la notification d'un
+acte de poursuite.
+
+L'action dont dispose le débiteur de la créance visée à l'alinéa précédent pour contester directement devant le président du
+tribunal de première instance ou le juge délégué par lui pour exercer les attributions du juge de l'exécution conformément à
+l'article L. 311-12 du code de l'organisation judiciaire de la régularité formelle de l'acte de poursuite diligent à son
+encontre se prescrit dans le délai de trois mois suivant la modification de l'acte contesté ;
+
+3° L'action des comptables publics chargés de recouvrer les créances des communes et des établissements publics locaux se
+prescrit par quatre ans à compter de la prise en charge du titre de recettes.
+
+Le délai de quatre ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de la part des
+débiteurs et par tous actes interruptifs de la prescription ;
+
+4° Le titre de recettes individuel ou un extrait du titre de recettes collectif est adressé aux redevables sous pli simple.
+Lorsque le redevable n'a pas effectué le versement qui lui était demandé à la date limite du paiement, le comptable chargé du
+recouvrement doit lui envoyer une lettre de rappel avant la notification du premier acte de poursuite devant donner lieu à
+des frais ;
+
+5° Le recouvrement par les comptables directs du Trésor des titres rendus exécutoires dans les conditions prévues au présent
+article peut être assuré par voie d'opposition à tiers détenteur adressée aux personnes physiques ou morales qui détiennent
+des fonds pour le compte de redevables, qui ont une dette envers lui ou qui lui versent une rémunération.
+
+Les comptables directs du Trésor chargés du recouvrement de ces titres peuvent procéder par la voie de l'opposition à tiers
+détenteur lorsque les sommes dues par un redevable au même poste comptable sont supérieures à un montant, fixé par décret,
+pour chacune des catégories de tiers détenteur.
+
+Le comptable public chargé du recouvrement notifie cette opposition au redevable en même temps qu'elle est adressée au tiers
+détenteur.
+
+L'opposition à tiers détenteur emporte l'effet d'attribution immédiate des sommes saisies disponibles au profit de la commune
+ou de l'établissement public local créancier à concurrence des sommes pour lesquelles l'opposition est pratiquée.
+
+Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
+trente jours qui suivent la réception de l'opposition par le tiers détenteur auprès du comptable chargé du recouvrement.
+
+L'opposition à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme : dans ce cas, les fonds sont
+versés au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles.
+
+Lorsqu'une même personne est simultanément destinataire de plusieurs oppositions à tiers détenteur établies au nom du même
+redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs.
+
+Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre ses mains, ce dernier doit en aviser le comptable
+chargé du recouvrement dès la réception de l'opposition.
+
+Les contestations relatives à l'opposition sont introduites et instruites dans les conditions fixées aux 1° et 2° du présent
+article ;
+
+6° Les comptables directs du Trésor chargés du recouvrement d'une créance assise et liquidée par une commune ou ses
+établissements publics peuvent obtenir sans que le secret professionnel ne puisse leur être opposé, les informations et
+renseignements nécessaires à l'exercice de cette mission.
+
+Ce droit de communication s'exerce quel que soit le support utilisé pour la conservation de ces informations ou
+renseignements.
+
+Les renseignements et informations communiqués aux comptables visés au premier alinéa sont ceux relatifs à l'état civil des
+débiteurs, à leur domicile, aux nom et adresse de leur employeur et des établissements ou organismes auprès desquels un
+compte de dépôt est ouvert à leur nom, aux nom et adresse des organismes ou particuliers qui détiennent des fonds et valeurs
+pour leur compte, à l'immatriculation de leur véhicule.
+
+Ces renseignements et informations peuvent être sollicités auprès des communes et de leurs établissements publics locaux, des
+administrations et entreprises publiques, des établissements et organismes de sécurité sociale, ainsi que des organismes ou
+particuliers assurant des prestations de services à caractère juridique, financier ou comptable, ou la détention de biens ou
+de fonds pour le compte de débiteurs ;
+
+7° Lorsque la dette visée au 5° est supérieure au montant mentionné au deuxième alinéa du 5° et que le comptable direct du
+Trésor est autorisé par des dispositions législatives ou réglementaires à procéder au recouvrement forcé d'une créance, ce
+comptable doit, préalablement à la mise en oeuvre de l'opposition à tiers détenteur, demander à un huissier de justice
+d'obtenir du débiteur, dans un délai fixé par décret, qu'il s'acquitte entre ses mains du montant de sa dette.
+
+Dans ce cas, les frais de recouvrement sont versés directement par le redevable à l'huissier de justice.
+
+Le montant des frais perçus par l'huissier de justice est calculé par application d'un taux proportionnel au montant des
+sommes recouvrées, fixé par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 33 () JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 7
+	  - Code des communes de la Nouvelle-Calédonie - art. D231-3 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L311-12
 
 
 #### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts
@@ -6937,7 +7643,14 @@ La loi de finances fixe chaque année le montant maximum des avances que le mini
 autorisé, en dehors des dispositions législatives spéciales, à accorder aux communes en application des dispositions de
 l'article précédent.
 
-Un décret en Conseil d'Etat détermine les conditions et les limites dans lesquelles ces avances peuvent être consenties.
+Un décret détermine les conditions et les limites dans lesquelles ces avances peuvent être consenties.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -6945,9 +7658,10 @@ Un décret en Conseil d'Etat détermine les conditions et les limites dans lesqu
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cité par**:
 
@@ -7045,43 +7759,65 @@ concernent un emprunt sont exécutoires, sur avis conforme du conseil municipal 
 des revenus ordinaires de l'établissement et que le remboursement doit être effectué dans le délai de douze années ;
 
 - et sous réserve que, s'il s'agit de travaux quelconques à exécuter, le projet en ait été préalablement approuvé par
-l'autorité compétente.
+l'autorité compétente. 
 
 Un arrêté du haut-commissaire est nécessaire pour autoriser l'emprunt si la somme à emprunter, seule ou réunie aux emprunts
 antérieurs non encore remboursés, dépasse le chiffre des revenus ordinaires de l'établissement, ou si le remboursement doit
-être effectué dans un délai supérieur à douze années.
+être effectué dans un délai supérieur à douze années. 
 
-L'emprunt ne peut être autorisé que par arrêté motivé du haut-commissaire si l'avis du conseil municipal est défavorable.
+L'emprunt ne peut être autorisé que par arrêté motivé du haut-commissaire si l'avis du conseil municipal est défavorable. 
 
-L'emprunt ne peut être autorisé que par décret en Conseil d'Etat si la durée de remboursement dépasse trente ans.
+L'emprunt ne peut être autorisé que par décret si la durée de remboursement dépasse trente ans.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 22 (M)
-	  - Loi n°75-535 du 30 juin 1975 - art. 22 (M)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 22 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
-##### Section 3 : Emprunts émis par l'intermédiaire de la caisse d'aide à l'équipement des collectivités locales
+##### Section 3 : Garanties d'emprunt
 
 ###### Article L236-8
 
-Les emprunts des communes, des syndicats de communes et des collectivités bénéficiant d'une garantie communale qui sont émis
-en vertu des délibérations des autorités compétentes et dans les conditions définies par arrêté interministériel peuvent être
-unifiés pour faire l'objet d'une gestion et d'une cotation commune.
+Une commune ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les
+conditions fixées à la présente section.
 
-Les conditions ainsi définies peuvent, en ce qui concerne les emprunts émis pour le financement de travaux des services
-publics productifs de recettes de caractère industriel ou commercial, comporter un intérêt et un prix de remboursement
-variables en fonction d'un indice.
+Le montant total des annuités, déjà garanties ou cautionnées à échoir au cours de l'exercice, d'emprunts contractés par toute
+personne de droit privé ou de droit public, majoré du montant de la première annuité entière du nouveau concours garanti, et
+du montant des annuités de la dette communale, ne peut excéder un pourcentage, défini par décret, des recettes réelles de la
+section de fonctionnement du budget communal ; le montant des provisions spécifiques constituées par la commune pour couvrir
+les garanties et cautions accordées, affecté d'un coefficient multiplicateur fixé par décret, vient en déduction du montant
+total défini au présent alinéa.
+
+Le montant des annuités garanties ou cautionnées au profit d'un même débiteur, exigible au titre d'un exercice, ne doit pas
+dépasser un pourcentage, défini par décret, du montant total des annuités susceptibles d'être garanties ou cautionnées en
+application de l'alinéa précédent.
+
+La quotité garantie par une ou plusieurs collectivités territoriales sur un même emprunt ne peut excéder un pourcentage fixé
+par décret.
+
+Les dispositions de l'alinéa précédant ne sont pas applicables aux garanties d'emprunts ou cautionnements accordés par une
+commune aux organismes d'intérêt général visés par le code des impôts de la Nouvelle-Calédonie.
+
+Aucune stipulation ne peut faire obstacle à ce que la mise en jeu des garanties ou cautions accordées par une commune porte,
+au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités déterminées par l'échéancier contractuel.
 
 **Liens relatifs à cet article**
 
@@ -7089,9 +7825,9 @@ variables en fonction d'un indice.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -7105,10 +7841,14 @@ variables en fonction d'un indice.
 
 ###### Article L236-9
 
-Le service financier des emprunts émis en conformité des dispositions de l'article précédent est assuré dès leur émission par
-la caisse d'aide à l'équipement des collectivités locales.
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article L. 236-8 ne sont pas applicables aux garanties
+d'emprunts ou aux cautionnements accordés par une commune :
 
-Les emprunts présentant les mêmes caractéristiques sont groupés en une série unique.
+1° Pour les opérations de construction, d'acquisition ou d'amélioration de logements réalisées par les organismes
+d'habitation sociale ou les sociétés d'économie mixte ;
+
+2° Pour les opérations de construction, d'acquisition ou d'amélioration de logements bénéficiant d'une subvention de l'Etat
+ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées.
 
 **Liens relatifs à cet article**
 
@@ -7116,53 +7856,22 @@ Les emprunts présentant les mêmes caractéristiques sont groupés en une séri
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
 
 	**Cité par**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L236-11 (V)
 
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L236-8 (M)
+
 
 ###### Article L236-10
 
-Chaque collectivité émettrice est tenue de verser à la caisse d'aide à l'équipement des collectivités locales les sommes
-nécessaires au service de son ou de ses emprunts.
-
-La caisse affecte ces sommes sans distinction au service de l'ensemble des emprunts unifiés de la même série.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-##### Section 4 : Garanties d'emprunts
-
-###### Article L236-11
-
-Les communes peuvent accorder des garanties d'emprunts sous réserve des dispositions des articles suivants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-###### Article L236-12
-
-Les communes peuvent garantir les emprunts contractés pour financer, dans les agglomérations en voie de développement, la
+Une commune peut garantir les emprunts contractés pour financer, dans les agglomérations en voie de développement, la
 construction, par des groupements locaux ou par des associations cultuelles, d'édifices répondant à des besoins collectifs de
 caractère religieux.
 
@@ -7172,13 +7881,31 @@ caractère religieux.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
+
+
+###### Article L236-11
+
+Nonobstant le transfert, volontaire ou de plein droit, de tout ou partie de ses compétences en matière de politique du
+logement ou d'habitat à un établissement public de coopération intercommunale, la commune conserve la possibilité d'accorder
+une garantie d'emprunt ou son cautionnement pour les opérations de construction, d'acquisition ou d'amélioration de logements
+sociaux visées à l'article L. 236-9 et d'apporter à ces opérations des subventions ou des aides foncières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L236-9 (M)
 
 
 ### TITRE IV : COMPTABILITÉ
@@ -7299,15 +8026,27 @@ La responsabilité du comptable et les formes de la comptabilité communale sont
 Les dispositions des titres Ier à IV du présent livre sont applicables au syndicat de communes sous réserve des dispositions
 des articles ci-après.
 
+Toutefois, les dispositions des articles L. 212-1 et L. 212-3 ne s'appliquent qu'aux syndicats de communes qui comprennent au
+moins une commune de 3 500 habitants et plus et aux syndicats mixtes mentionnés à l'article L. 166-5.
+
+Le lieu de mise à disposition du public est le siège de l'établissement et les mairies des communes membres du syndicat
+intercommunal ou du syndicat mixte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 35 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L166-5 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-1 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
 
 
 ###### Article L251-2
@@ -7584,7 +8323,7 @@ par le maire et les deux assistants, à la majorité des voix, sauf le recours d
 Aux conventions de marché et de délégation de service public des communes et des établissements publics communaux ou
 intercommunaux transmises par application du II de l'article L. 121-39-1 au haut-commissaire ou au commissaire délégué dans
 la province, dans un délai de quinze jours à compter de leur signature, l'autorité territoriale joint l'ensemble des pièces
-dont la liste est fixée par décret en Conseil d'Etat.
+dont la liste est fixée par décret.
 
 Elle certifie, par une mention apposée sur la convention notifiée au titulaire du marché ou de la délégation, que celle-ci a
 bien été transmise, en précisant la date de cette transmission.
@@ -7592,15 +8331,23 @@ bien été transmise, en précisant la date de cette transmission.
 Elle informe, dans un délai de quinze jours, le haut-commissaire ou le commissaire délégué dans la province de la date de
 notification de cette convention.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -7609,11 +8356,11 @@ notification de cette convention.
 
 ###### Article L314-2
 
-Conformément à l'article 175-1 du code pénal, dans les communes dont la population ne dépasse pas 1 500 habitants, les
+Conformément à l'article 432-13 du code pénal, dans les communes dont la population ne dépasse pas 1 500 habitants, les
 maires, les adjoints et les conseillers municipaux délégués ou agissant en remplacement du maire peuvent soit traiter sur
 mémoires ou sur simples factures, soit passer des marchés avec les communes qu'ils représentent pour l'exécution de menus
 travaux ou la livraison de fournitures courantes sous la réserve que le montant global des marchés passés dans l'année
-n'excède pas la somme de 545 760 F CFP (30 000 FF). En ce cas, la commune est représentée dans les conditions prévues à
+n'excède pas la somme de 545 760 F CFP (4 500 Euros). En ce cas, la commune est représentée dans les conditions prévues à
 l'article L. 122-12. Le maire, les adjoints ou les conseillers municipaux visés doivent s'abstenir d'assister et de
 participer à toute délibération du conseil municipal relative à la conclusion ou à l'approbation de ces marchés.
 
@@ -7623,14 +8370,13 @@ participer à toute délibération du conseil municipal relative à la conclusio
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 36 () JORF 27 juillet 2007
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-12 (V)
-	  - Code pénal 175-1
+	  - Code pénal 432-13 Code des communes de la Nouvelle-Calédonie L122-12
 
 
 #### Chapitre V : Travaux communaux
@@ -7988,6 +8734,92 @@ pendant au moins un mois.
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+#### Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages
+
+###### Article L322-1
+
+Les budgets des services publics à caractère industriel ou commercial exploités en régie, affermés ou concédés, doivent être
+équilibrés en recettes et en dépenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 37 () JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L322-2 (V)
+
+
+###### Article L322-2
+
+Il est interdit aux communes de prendre en charge dans leur budget propre des dépenses au titre des services publics visés à
+l'article L. 322-1.
+
+Toutefois, le conseil municipal peut décider une telle prise en charge lorsque celle-ci est justifiée par l'une des raisons
+suivantes :
+
+1° Lorsque les exigences du service public conduisent la collectivité à imposer des contraintes particulières de
+fonctionnement ;
+
+2° Lorsque le fonctionnement du service public exige la réalisation d'investissements qui, en raison de leur importance et eu
+égard au nombre d'usagers, ne peuvent être financés sans augmentation excessive des tarifs ;
+
+3° Lorsque, après la période de réglementation des prix, la suppression de toute prise en charge par le budget de la commune
+aurait pour conséquence une hausse excessive des tarifs.
+
+La décision du conseil municipal fait l'objet, à peine de nullité, d'une délibération motivée. Cette délibération fixe les
+règles de calcul et les modalités de versement des dépenses du service prises en charge par la commune ainsi que le ou les
+exercices auxquels elles se rapportent. En aucun cas, cette prise en charge ne peut se traduire par la compensation pure et
+simple d'un déficit de fonctionnement.
+
+L'interdiction prévue au premier alinéa n'est pas applicable :
+
+1° Dans les communes de moins de 3 000 habitants aux services de distribution d'eau et d'assainissement ;
+
+2° Aux services publics d'assainissement non collectif, lors de leur création et pour une durée limitée au maximum aux quatre
+premiers exercices.
+
+Lorsque le service a été délégué, la part prise en charge par le budget propre ne peut excéder le montant des sommes données
+au délégataire pour sujétions de service public et représenter une part substantielle de la rémunération de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 37 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L322-1 (V)
+
+
+###### Article L322-3
+
+Les délibérations ou décisions des conseils municipaux ou des autorités locales compétentes qui comportent une augmentation
+des dépenses des services publics industriels ou commerciaux exploités en régie, affermés ou concédés, ne peuvent être mises
+en application lorsqu'elles ne sont pas accompagnées du vote de recettes correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 37 () JORF 27 juillet 2007
+
+
 #### Chapitre III : Régies municipales
 
 ##### Section 1 : Dispositions générales
@@ -8061,8 +8893,8 @@ Soit de la seule autonomie financière.
 
 ###### Article L323-4
 
-Les règles de la comptabilité des communes sont applicables aux régies municipales, sous réserve des modifications prévues
-par les décrets en Conseil d'Etat mentionnés aux articles L. 323-8 et L. 323-12.
+Les règles budgétaires et comptables des communes sont applicables aux régies municipales, sous réserve des modifications
+prévues par les décrets en Conseil d'Etat mentionnés aux articles L. 323-8 et L. 323-12.
 
 Les recettes et les dépenses de chaque régie sont effectuées par un comptable dont les comptes sont jugés, quel que soit le
 revenu de la régie, par la juridiction qui juge les comptes de la commune.
@@ -8073,9 +8905,9 @@ revenu de la régie, par la juridiction qui juge les comptes de la commune.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 38 () JORF 27 juillet 2007
 
 	**Cite**:
 
@@ -8085,9 +8917,16 @@ revenu de la régie, par la juridiction qui juge les comptes de la commune.
 
 ###### Article L323-5
 
-Indépendamment du contrôle administratif et financier qui est exercé conformément au décret en Conseil d'Etat prévu à
-l'article L. 323-6, les régies municipales sont soumises, dans toutes les parties de leur service, aux vérifications des
-corps d'inspection habilités à cet effet.
+Indépendamment du contrôle administratif et financier qui est exercé conformément au décret prévu à l'article L. 323-6, les
+régies municipales sont soumises, dans toutes les parties de leur service, aux vérifications des corps d'inspection habilités
+à cet effet.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -8095,9 +8934,10 @@ corps d'inspection habilités à cet effet.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -8165,7 +9005,7 @@ Les dispositions de l'article L. 323-5 sont applicables à ces régies.
 ###### Article L323-8
 
 Des décrets en Conseil d'Etat déterminent l'organisation administrative, le régime financier et le fonctionnement des régies
-dotées de la personnalité morale et de l'autonomie financière.
+dotées de la personnalité morale et de l'autonomie financière, dénommées établissement public local.
 
 **Liens relatifs à cet article**
 
@@ -8173,9 +9013,9 @@ dotées de la personnalité morale et de l'autonomie financière.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 39 () JORF 27 juillet 2007
 
 	**Cité par**:
 
@@ -8190,24 +9030,28 @@ dotées de la personnalité morale et de l'autonomie financière.
 Les produits des régies dotées de la seule autonomie financière, y compris les taxes ainsi que les charges, font l'objet d'un
 budget spécial annexé au budget de la commune voté par le conseil municipal.
 
-Dans les budgets et les comptes de la commune, ces produits et ces charges sont repris dans deux articles, l'un pour les
-recettes, l'autre pour les dépenses.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 40 () JORF 27 juillet 2007
 
 
 ###### Article L323-10
 
 Les articles L. 122-19, L. 241-2 et L. 241-4 ne sont applicables à ces régies que sous réserve des modifications prévues au
-décret en Conseil d'Etat mentionné à l'article L. 323-12.
+décret mentionné à l'article L. 323-12.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -8215,9 +9059,10 @@ décret en Conseil d'Etat mentionné à l'article L. 323-12.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -8257,8 +9102,15 @@ règles d'administration fixées par les articles L. 163-1 et suivants.
 
 ###### Article L323-12
 
-Un décret en Conseil d'Etat détermine les règles d'organisation et d'administration des régies dotées de la seule autonomie
-financière, ainsi que les dérogations à apporter éventuellement à l'administration des syndicats de communes.
+Un décret détermine les règles d'organisation et d'administration des régies dotées de la seule autonomie financière, ainsi
+que les dérogations à apporter éventuellement à l'administration des syndicats de communes.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -8266,9 +9118,10 @@ financière, ainsi que les dérogations à apporter éventuellement à l'adminis
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cité par**:
 
@@ -8439,7 +9292,14 @@ chambre territoriale des comptes.
 
 ###### Article L324-4
 
-Un décret en Conseil d'Etat détermine les modalités d'application de l'article précédent.
+Un décret détermine les modalités d'application de l'article précédent.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -8447,9 +9307,10 @@ Un décret en Conseil d'Etat détermine les modalités d'application de l'articl
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
 ###### Article L324-5
@@ -8833,9 +9694,15 @@ caractère industriel et commercial.
 
 ###### Article L372-4
 
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont instituées, recouvrées et affectées les redevances dues
-par les usagers, ainsi que les sommes dues par les propriétaires mentionnés à l'article L. 1331-8 du code de la santé
-publique.
+Un décret fixe les conditions dans lesquelles sont instituées, recouvrées et affectées les redevances dues par les usagers,
+ainsi que les sommes dues par les propriétaires mentionnés à l'article L. 1331-8 du code de la santé publique.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -8843,9 +9710,10 @@ publique.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 	**Cite**:
 
@@ -8858,9 +9726,9 @@ publique.
 
 ###### Article L381-1
 
-Les communes et leurs groupements peuvent, par délibération de leurs organes délibérants, acquérir ou recevoir des actions
-des sociétés d'économie mixte locales répondant aux conditions fixées par l'article 1er de la loi n° 83-597 du 7 juillet 1983
-relative aux sociétés d'économie mixte locales.
+Les communes et leurs groupements peuvent par délibération de leurs organes délibérants, à l'effet de créer des sociétés
+d'économie mixte, acquérir des actions ou recevoir, à titre de redevance, des actions d'apport, émises par ces sociétés dans
+les conditions définies aux articles 8-1 et 8-2 de la loi n° 99-210 du 19 mars 1999.
 
 Ils peuvent, dans les mêmes conditions, détenir des obligations des sociétés chargées d'exploiter des services publics
 communaux à caractère industriel et commercial.
@@ -8869,7 +9737,7 @@ communaux à caractère industriel et commercial.
 
 	**Cite**:
 
-	  - Loi n°83-597 du 7 juillet 1983 - art. 1 (M)
+	  - Loi n°99-210 du 19 mars 1999 - art. 8-2 (V)
 
 	**Cité par**:
 
@@ -8881,9 +9749,9 @@ communaux à caractère industriel et commercial.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
 
 
 ###### Article L381-2
@@ -8950,7 +9818,35 @@ mandat des représentants de la commune incombe à la commune et non à ces repr
 
 ###### Article L381-5
 
-Un décret en Conseil d'Etat détermine les conditions d'application des articles précédents.
+Un décret détermine les conditions d'application des articles précédents.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+
+
+###### Article L381-6
+
+Sont exclues, sauf autorisation prévue par arrêté du haut-commissaire de la République, toutes participations dans le capital
+d'une société commerciale et de tout autre organisme à but lucratif n'ayant pas pour objet d'exploiter les services communaux
+ou des activités d'intérêt général dans les conditions prévues à l'article L. 381-2.
+
+Ces dispositions ne sont pas applicables aux acquisitions d'actions dont l'objet est de rendre les communes majoritaires dans
+le capital des sociétés d'économie mixte.
 
 **Liens relatifs à cet article**
 
@@ -8960,7 +9856,87 @@ Un décret en Conseil d'Etat détermine les conditions d'application des article
 
 	**Créé par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L381-2 (V)
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L381-8 (VD)
+
+
+###### Article L381-7
+
+Lorsque l'initiative privée est défaillante ou insuffisante pour assurer la création ou le maintien d'un service nécessaire à
+la satisfaction des besoins de la population en milieu rural, la commune peut confier la responsabilité de le créer ou de le
+gérer à une association régie par la loi du 1er juillet 1901 relative au contrat d'association ou à toute autre personne ;
+elle peut aussi accorder des aides, sous réserve de la conclusion avec le bénéficiaire de l'aide d'une convention fixant les
+obligations de ce dernier.
+
+Pour compléter les aides visées à l'alinéa précédent, la commune peut passer des conventions avec d'autres collectivités
+territoriales concernées et disposant de moyens adaptés à la conduite de ces actions, notamment sur le plan financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+
+
+###### Article L381-8
+
+Par dérogation aux dispositions de l'article L. 381-6, une commune, seule ou avec d'autres collectivités territoriales, peut
+participer au capital d'un établissement de crédit revêtant la forme de société anonyme régie par les dispositions du livre
+II du code de commerce et ayant pour objet exclusif de garantir les concours financiers accordés à des personnes morales de
+droit privé, notamment celles qui exploitent des entreprises nouvellement créées, dès lors qu'une ou plusieurs sociétés
+commerciales, dont au moins un établissement de crédit régi par les dispositions du chapitre Ier du titre Ier du livre V du
+code monétaire et financier, participent également au capital de cet établissement de crédit.
+
+La commune peut participer par versement de subventions à la constitution de fonds de garantie auprès de l'établissement de
+crédit mentionné à l'alinéa précédent. La commune passe avec l'établissement de crédit une convention déterminant notamment
+l'objet, le montant et le fonctionnement du fonds de garantie ainsi que les conditions de restitution des subventions versées
+en cas de modification ou de cessation d'activité de ce fonds.
+
+La participation des communes au conseil d'administration de cet établissement constitué sous forme de société anonyme est
+réglée comme suit :
+
+1° Dans le cas où une seule commune est actionnaire de cette société anonyme, elle dispose d'un siège au conseil
+d'administration de cette société ;
+
+2° Lorsque plusieurs communes sont actionnaires de cette société anonyme, le nombre de sièges dont elles disposent au conseil
+d'administration tient compte du capital détenu sans que ce nombre puisse être inférieur à un siège ni supérieur à six.
+
+Un décret détermine la proportion maximale de capital de l'établissement de crédit susceptible d'être détenue par les
+collectivités territoriales, ainsi que les modalités d'octroi des garanties et notamment la quotité garantie par
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-579 2001-06-29
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. D381-1 (VD)
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L381-6 (V)
 
 
 #### Chapitre II : Aide aux entreprises
@@ -8969,8 +9945,14 @@ Un décret en Conseil d'Etat détermine les conditions d'application des article
 
 Les communes et leurs groupements peuvent, lorsque leur intervention a pour objet la création ou l'extension d'activités
 économiques, vendre ou louer des terrains ou des bâtiments à des entreprises aux conditions du marché ; elles peuvent
-procéder à ces opérations en consentant des rabais sur ces conditions, dans des conditions fixées par décret en Conseil
-d'Etat.
+procéder à ces opérations en consentant des rabais sur ces conditions, dans des conditions fixées par décret.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
 
 **Liens relatifs à cet article**
 
@@ -8978,9 +9960,10 @@ d'Etat.
 
 	  - Décret n°2001-579 2001-06-29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
 ## LIVRE IV : PERSONNEL COMMUNAL
