@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 
 # Partie législative
 
@@ -11,18 +11,18 @@ Version Consolidée au 2009-05-14
 
 ###### Article L111-1
 
-Le changement de nom d'une commune est décidé par décret, sur la demande du conseil municipal, le congrès de la Nouvelle-
-Calédonie consulté et le Conseil d'Etat entendu.
+Les communes de la Nouvelle-Calédonie sont créées par décret en Conseil d'Etat, après consultation du congrès. 
+
+Les modifications des limites territoriales des communes et le transfert de leur chef-lieu sont prononcés, après avis du
+gouvernement de la Nouvelle-Calédonie et après consultation des conseils municipaux intéressés, par arrêté du haut-
+commissaire de la République en cas d'accord de ces assemblées, par arrêté du ministre chargé de l'outre-mer, après
+consultation du congrès, au cas contraire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
 
 	**Cité par**:
 
@@ -31,18 +31,17 @@ Calédonie consulté et le Conseil d'Etat entendu.
 
 ###### Article L111-2
 
+Le changement de nom d'une commune est décidé par décret, sur la demande du conseil municipal, le congrès de la Nouvelle-
+Calédonie consulté et le Conseil d'Etat entendu. 
+
 Les changements de noms qui sont la conséquence d'une modification de la circonscription territoriale sont prononcés par les
 autorités compétentes pour prendre les décisions de modification.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
 
 
 #### Chapitre II : Limites territoriales, chef-lieu et fusion des communes
@@ -69,21 +68,24 @@ fusion comportant la création d'une ou plusieurs communes associées.
 
 ###### Article L112-2
 
-Les personnes inscrites sur les listes électorales municipales sont consultées sur l'opportunité de la fusion de communes.
+Les personnes inscrites sur les listes électorales municipales sont consultées sur l'opportunité de la fusion de communes. 
 
-Les dépenses résultant de la consultation sont à la charge de l'Etat.
+Les dépenses résultant de la consultation sont à la charge de l'Etat. 
 
 Un décret fixe les modalités applicables à l'organisation des consultations prévues au premier alinéa.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 2 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 2
 
 	**Cité par**:
 
@@ -558,9 +560,9 @@ En cas d'urgence, le haut-commissaire peut abréger ce délai.
 
 ###### Article L121-10
 
-I. - Toute convocation est faite par le maire. Elle indique les questions portées à l'ordre du jour. Elle est mentionnée au
-registre des délibérations, affichée ou publiée. La convocation est adressée par écrit, sous quelque forme que ce soit, au
-domicile des conseillers municipaux, sauf s'ils font le choix d'une autre adresse.
+I. - Toute convocation est faite par le maire. Elle indique les questions portées à l'ordre du jour. La convocation est
+adressée par écrit, sous quelque forme que ce soit, au domicile des conseillers municipaux, sauf s'ils font le choix d'une
+autre adresse.
 
 II. - Dans les communes de moins de 3 500 habitants, la convocation est adressée trois jours francs au moins avant celui de
 la réunion.
@@ -582,15 +584,18 @@ Le délai de convocation est fixé à cinq jours francs. En cas d'urgence, le d�
 Le maire en rend compte dès l'ouverture de la séance au conseil municipal qui se prononce sur l'urgence et peut décider le
 renvoi de la discussion pour tout ou partie, à l'ordre du jour d'une séance ultérieure.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 3 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 3
 
 	**Cité par**:
 
@@ -666,15 +671,21 @@ acquise au plus âgé.
 Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin secret aux nominations ou aux présentations,
 sauf disposition législative ou réglementaire prévoyant expressément ce mode de scrutin.
 
+Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin secret aux nominations ou aux présentations,
+sauf disposition législative ou réglementaire prévoyant expressément ce mode de scrutin.
+
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 4 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 4
 
 	**Cité par**:
 
@@ -1016,15 +1027,18 @@ de communication électronique nécessaires.
 
 Ces dispositions sont applicables aux groupements de communes.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 5 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 5
 
 
 ###### Article L121-23
@@ -1146,22 +1160,25 @@ En outre, il donne son avis sur les objets pour lesquels il est consulté par le
 Lorsque le conseil municipal, à ce régulièrement requis et convoqué, refuse ou néglige de donner son avis, il peut être passé
 outre.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 6 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L314-10 (M)
-	  - Code de l'action sociale et des familles - art. L314-11 (M)
-	  - Code de l'action sociale et des familles - art. L314-12 (M)
-	  - Code de l'action sociale et des familles - art. L314-7 (M)
+	  - Code de l'action sociale et des familles - art. L314-10
+	  - Code de l'action sociale et des familles - art. L314-11
+	  - Code de l'action sociale et des familles - art. L314-12
+	  - Code de l'action sociale et des familles - art. L314-7
 
 
 ##### Section 5 : Garanties accordées aux membres des conseils municipaux
@@ -1691,6 +1708,13 @@ qu'il tient, notamment en matière de police, des articles L. 131-13 et L. 131-1
 les actes du maire lorsque celui-ci, en application des articles L. 122-14 et L. 122-23, agit comme agent de l'Etat dans la
 commune.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -1702,21 +1726,17 @@ commune.
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-3 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L314-1 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 7 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 7
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-14 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-20 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-23 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L131-13 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L131-14 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-14
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-20
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-23
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-13
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-14
 
 
 ###### Article L121-39-2
@@ -1861,15 +1881,18 @@ Sur sa demande, le maire reçoit du haut-commissaire les informations nécessair
 
 Sur sa demande, le haut-commissaire reçoit du maire les informations nécessaires à l'exercice de ses attributions.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 8 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 8
 
 
 #### Chapitre II : Maires et adjoints
@@ -2189,15 +2212,18 @@ des administrations financières.
 Les agents salariés du maire ne peuvent être adjoints si cette activité salariée est directement liée à l'exercice du mandat
 de maire.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 9 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 9
 
 	**Cité par**:
 
@@ -2212,27 +2238,29 @@ Quand il y a lieu, pour quelque cause que ce soit, à une nouvelle élection du 
 des adjoints.
 
 Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, le conseil municipal se prononce sur le maintien
-de celui-ci dans ses fonctions et si celui-ci ne démissionne pas, ces délégations peuvent être attribuées à un conseiller
-municipal nonobstant les dispositions de l'article L. 122-11.
+de celui-ci dans ses fonctions. 
 
 Après une élection partielle, le conseil municipal peut décider qu'il sera procédé à une nouvelle élection des adjoints.
 
 Quand il y a lieu, en cas de vacance, de désigner un nouvel adjoint, le conseil municipal peut décider qu'il occupera, dans
 l'ordre du tableau, le même rang que l'élu qui occupait précédemment le poste devenu vacant.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 10 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 10
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-11 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-11
 
 	**Cité par**:
 
@@ -2281,21 +2309,21 @@ L. 46-1, LO 151 et LO 151-1 du code électoral sont définitives à compter de l
 
 Le maire est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité, déléguer par arrêté
 une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints ou dès
-lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal.
+lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal. 
 
 Le membre du conseil municipal ayant démissionné de la fonction de maire, en application des articles LO 141 du code
 électoral, L. 122-4-1 du présent code, ne peut recevoir des délégations jusqu'au terme de son mandat de conseiller municipal
-ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité. 
 
-Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
+Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature : 
 
-1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ;
+1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ; 
 
-2° Au directeur général des services techniques et au directeur des services techniques des communes ;
+2° Au directeur général des services techniques et au directeur des services techniques des communes ; 
 
-3° Aux responsables de services communaux.
+3° Aux responsables de services communaux. 
 
-Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+Ces délégations subsistent tant qu'elles ne sont pas rapportées. 
 
 Le maire procède à la désignation des membres du conseil municipal pour siéger au sein d'organismes extérieurs dans les cas
 et conditions prévus par les dispositions du présent code et des textes régissant ces organismes. La fixation par les
@@ -2303,11 +2331,18 @@ dispositions précitées de la durée des fonctions assignées à ces membres ne
 à tout moment, et pour le reste de cette durée, à leur remplacement par une nouvelle désignation opérée dans les mêmes
 formes.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 86 (V)
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 11
 
 	**Cite**:
 
@@ -2551,19 +2586,22 @@ délibération, une fois connus l'identité de l'attributaire et le montant du m
 Les dispositions du présent article ne s'appliquent aux marchés visés à l'article L. 122-20 que lorsque le maire n'a pas reçu
 la délégation prévue à cet article.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 12 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 12
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-20 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-20
 
 
 ###### Article L122-20
@@ -2624,15 +2662,18 @@ droits de préemption définis par les règlements d'urbanisme ;
 
 19° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 13 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 13
 
 	**Cité par**:
 
@@ -2642,9 +2683,9 @@ droits de préemption définis par les règlements d'urbanisme ;
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1618-1 (V)
-	  - Code général des collectivités territoriales - art. L1618-2 (M)
-	  - Code général des collectivités territoriales - art. L2221-5-1 (V)
+	  - Code général des collectivités territoriales - art. L1618-1
+	  - Code général des collectivités territoriales - art. L1618-2
+	  - Code général des collectivités territoriales - art. L2221-5-1
 
 
 ###### Article L122-21
@@ -2662,20 +2703,23 @@ Le maire doit rendre compte à chacune des réunions obligatoires du conseil mun
 
 Le conseil municipal peut toujours mettre fin à la délégation.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 14 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 14
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-11 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-9 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-11
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-9
 
 
 ###### Article L122-22
@@ -2853,20 +2897,14 @@ Constitution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 15 () JORF 27 juillet 2007
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 15
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-30 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L123-4 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-30
+	  - Code des communes de la Nouvelle-Calédonie - art. L123-4
 
 
 ###### Article L122-30
@@ -3076,19 +3114,22 @@ maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier 
 En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité maximale susceptible d'être allouée au
 maire de la commune en application de l'article L. 123-4.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 16 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 16
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L123-4 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L123-4
 
 
 ###### Article L123-6
@@ -3126,19 +3167,33 @@ ne soit pas augmenté.
 
 ###### Article L123-8
 
-Les indemnités de maire ou d'adjoint ne sont perçues qu'à concurrence de la moitié lorsque le maire ou l'adjoint est membre
-de l'Assemblée nationale ou du Sénat ; l'autre moitié peut être déléguée par l'intéressé à celui ou à ceux qui le suppléent
-dans les fonctions de magistrat municipal.
+L'élu municipal titulaire d'autres mandats électoraux ou qui siège à ce titre au conseil d'administration d'un établissement
+public local, au conseil d'administration ou au conseil de surveillance d'une société d'économie mixte locale ou qui préside
+une telle société ne peut percevoir, pour l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de
+fonction supérieur à une fois et demie le montant de l'indemnité parlementaire telle qu'elle est définie à l'article 1er de
+l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du Parlement. Ce plafond
+s'entend déduction faite des cotisations sociales obligatoires. 
+
+Lorsqu'en application des dispositions du premier alinéa le montant total de rémunération et d'indemnité de fonction d'un
+conseiller municipal fait l'objet d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
+délibération nominative du conseil municipal ou de l'organisme concerné.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Ordonnance n°58-1210 du 13 décembre 1958 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
 
 
 ##### Section 4 : Régime de retraite des maires et adjoints
@@ -3424,15 +3479,18 @@ Les électeurs d'une commune peuvent être consultés sur les décisions que les
 pour régler les affaires relevant de la compétence de celle-ci. La consultation peut être limitée aux électeurs d'une partie
 du ressort de la commune, pour les affaires intéressant spécialement cette partie de la commune.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 	**Cité par**:
 
@@ -3448,15 +3506,18 @@ Dans l'année, un électeur ne peut signer qu'une seule demande tendant à l'org
 
 La décision d'organiser la consultation appartient au conseil municipal.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 	**Cité par**:
 
@@ -3480,15 +3541,18 @@ Lorsque la délibération organisant la consultation est de nature à compromett
 individuelle, le président du tribunal administratif ou le magistrat délégué par lui en prononce la suspension dans les
 quarante-huit heures.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 	**Cité par**:
 
@@ -3501,15 +3565,18 @@ Les électeurs font connaître par "oui" ou par "non" s'ils approuvent le projet
 présenté. Après avoir pris connaissance du résultat de la consultation, l'autorité compétente de la commune arrête sa
 décision sur l'affaire qui en a fait l'objet.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
 ###### Article L125-5
@@ -3543,19 +3610,22 @@ du conseil municipal l'ayant décidé, de démission de tous ses membres ou d'an
 
 Une commune ne peut organiser plusieurs consultations portant sur un même objet dans un délai inférieur à un an.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie 72-1
+	  - Code des communes de la Nouvelle-Calédonie
 	  - Constitution 1958-10-04 art. 72-1, art. 72-4
 
 
@@ -3566,15 +3636,18 @@ concernent, indissociable de la libre administration des communes, est un princi
 s'exerce sans préjudice des dispositions en vigueur relatives notamment à la publicité des actes des autorités territoriales
 ainsi qu'à la liberté d'accès aux documents administratifs.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
 ###### Article L125-7
@@ -3590,38 +3663,44 @@ candidats".
 II. - Les dispositions du code électoral mentionnées au présent article sont applicables dans les conditions fixées aux
 articles L. 386, L. 390, L. 391 et L. 392 dudit code.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 	**Cite**:
 
-	  - Code électoral - art. L386 (M)
-	  - Code électoral - art. L390 (V)
-	  - Code électoral - art. L391 (V)
-	  - Code électoral - art. L392 (M)
-	  - Code des communes de la Nouvelle-Calédonie L88-1, L95, L113-1
+	  - Code électoral - art. L386
+	  - Code électoral - art. L390
+	  - Code électoral - art. L391
+	  - Code électoral - art. L392
+	  - Code des communes de la Nouvelle-Calédonie
 
 
 ###### Article L125-8
 
 Les dépenses liées à la consultation des électeurs constituent une dépense obligatoire de la commune qui l'a décidée.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
 ###### Article L125-9
@@ -3629,15 +3708,18 @@ Les dépenses liées à la consultation des électeurs constituent une dépense 
 Le projet soumis à la consultation est adopté si la moitié au moins des électeurs inscrits a pris part au scrutin et s'il
 réunit la majorité des suffrages exprimés.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
 ##### Section 2 : Quartiers et comités consultatifs
@@ -3657,15 +3739,18 @@ actions intéressant le quartier, en particulier celles menées au titre de la p
 Le conseil municipal peut affecter aux conseils de quartier un local et leur allouer chaque année des crédits pour leur
 fonctionnement.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
 ###### Article L125-11
@@ -3682,15 +3767,18 @@ Les comités peuvent être consultés par le maire sur toute question ou projet 
 de proximité et entrant dans le domaine d'activité des associations membres du comité. Ils peuvent par ailleurs transmettre
 au maire toute proposition concernant tout problème d'intérêt communal pour lequel ils ont été institués.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 17 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
 #### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.
@@ -4073,15 +4161,18 @@ et pour les besoins exclusifs de ce service, des stationnements réservés sur l
 Le maire peut, par arrêté motivé, réserver des emplacements sur ces mêmes voies pour faciliter la circulation et le
 stationnement des transports publics de voyageurs et des taxis.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 18 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 18
 
 
 ###### Article L131-5
@@ -5211,19 +5302,22 @@ Nouvelle-Calédonie ou, dans l'intervalle des sessions, de la commission permane
 La part de la dépense définitivement assignée à chaque commune est portée d'office aux budgets respectifs, conformément à
 l'article L. 263-21 du code des juridictions financières.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 19 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 19
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L263-21 (M)
+	  - Code des juridictions financières - art. L263-21
 
 
 #### Chapitre III : Syndicat de communes
@@ -5537,15 +5631,18 @@ Les indemnités maximales pour l'exercice effectif des fonctions de président e
 fixées par arrêté du haut-commissaire de la République par référence aux indices des traitements de la fonction publique de
 la Nouvelle-Calédonie.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 20 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 20
 
 
 ###### Article L163-14
@@ -5594,41 +5691,44 @@ L'article L. 121-20-3 s'applique aux groupements de communes comptant une popula
 
 ###### Article L163-14-2
 
-Une commune peut adhérer à un syndicat pour une partie seulement des compétences exercées par celui-ci.
+Une commune peut adhérer à un syndicat pour une partie seulement des compétences exercées par celui-ci. 
 
 La décision d'institution ou une décision modificative détermine en ce cas la liste des communes membres du syndicat, la
 liste des compétences que le syndicat peut exercer et les conditions dans lesquelles chaque commune membre transfère au
 syndicat tout ou partie des compétences que celui-ci est habilité à exercer. Le syndicat exerce chacune de ses compétences
-dans les limites du territoire des communes lui ayant délégué cette compétence.
+dans les limites du territoire des communes lui ayant délégué cette compétence. 
 
 Chaque commune supporte obligatoirement, dans les conditions fixées par la décision d'institution, les dépenses correspondant
-aux compétences qu'elle a transférées au syndicat ainsi qu'une part des dépenses d'administration générale.
+aux compétences qu'elle a transférées au syndicat ainsi qu'une part des dépenses d'administration générale. 
 
-Par dérogation aux dispositions du chapitre Ier du titre II du présent livre, s'appliquent les règles suivantes :
+Par dérogation aux dispositions du chapitre Ier du titre II du présent livre, s'appliquent les règles suivantes : 
 
 1° Tous les délégués prennent part au vote pour les affaires présentant un intérêt commun à toutes les communes et notamment
 pour l'élection du président et des membres du bureau, le vote du budget, l'approbation du compte administratif et les
 décisions relatives aux modifications des conditions initiales de composition, de fonctionnement et de durée du syndicat ;
 dans le cas contraire, ne prennent part au vote que les délégués représentant les communes concernées par l'affaire mise en
-délibération ;
+délibération ; 
 
-2° Le président prend part à tous les votes, sauf en cas d'application des articles L. 121-13 et L. 121-41 ;
+2° Le président prend part à tous les votes, sauf en cas d'application des articles L. 121-13 et L. 121-41 ; 
 
 3° Pour tenir compte des compétences transférées par chaque commune au syndicat, la décision d'institution peut fixer des
-règles particulières de représentation de chaque commune.
+règles particulières de représentation de chaque commune. 
 
 Le comité syndical peut former pour l'exercice d'une ou plusieurs compétences des commissions chargées d'étudier et de
 préparer ses décisions.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 21 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 21
 
 	**Cite**:
 
@@ -5647,21 +5747,23 @@ Il peut être fait application aux syndicats existant à la date d'entrée en vi
 ont fait connaître, dans les conditions de majorité prévues à l'article L. 163-1, leur volonté de modifier en conséquence la
 décision d'institution du syndicat. La décision de modification est prise par le haut-commissaire de la République.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 21
 
 	**Cite**:
 
-	  - Ordonnance 2007-1134 2007-07-25
 	  - Code des communes de la Nouvelle-Calédonie - art. L163-1 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L163-14-2 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 21 () JORF 27 juillet 2007
 
 
 ##### Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat
@@ -5939,19 +6041,22 @@ qui en approuvent les statuts ".
 Les syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces sont régis par l'article 9 de la loi n°
 99-210 du 19 mars 1999 relative à la Nouvelle-Calédonie.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°99-210 du 19 mars 1999 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
+	  - Loi n°99-210 du 19 mars 1999 - art. 9 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 22 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 22
 
 
 #### Chapitre IX : Dispositions communes
@@ -5987,15 +6092,18 @@ Le budget de la commune est établi en section de fonctionnement et section d'in
 
 Le budget de la commune est divisé en chapitres et articles dans les conditions qui sont déterminées par décret.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 23 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 23
 
 
 ###### Article L211-2
@@ -6064,56 +6172,53 @@ Constitution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 24 () JORF 27 juillet 2007
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 24
 
 
 ###### Article L211-5
 
 Le résultat excédentaire de la section de fonctionnement dégagé au titre de l'exercice clos, cumulé avec le résultat
 antérieur reporté, est affecté en totalité dès la plus proche décision budgétaire suivant le vote du compte administratif et,
-en tout état de cause, avant la clôture de l'exercice suivant.
+en tout état de cause, avant la clôture de l'exercice suivant. 
 
 La délibération d'affectation prise par l'assemblée délibérante est produite à l'appui de la décision budgétaire de reprise
 de ce résultat. Lorsque le compte administratif ne fait pas ressortir de besoin de financement en section d'investissement,
 le résultat de la section de fonctionnement constaté au compte administratif est repris à cette section sauf si le conseil en
-décide autrement.
+décide autrement. 
 
 Le résultat déficitaire de la section de fonctionnement, le besoin de financement ou l'excédent de la section
 d'investissement sont repris en totalité dès la plus proche décision budgétaire suivant le vote du compte administratif et,
-en tout état de cause, avant la fin de l'exercice.
+en tout état de cause, avant la fin de l'exercice. 
 
 Entre la date limite de mandatement fixée au troisième alinéa de l'article L. 263-17 du code des juridictions financières et
 le 31 mars, le conseil municipal peut, au titre de l'exercice clos et avant l'adoption de son compte administratif, reporter
 de manière anticipée au budget le résultat de la section de fonctionnement, le besoin de financement de la section
-d'investissement ou, le cas échéant, l'excédent de la section d'investissement, ainsi que la prévision d'affectation.
+d'investissement ou, le cas échéant, l'excédent de la section d'investissement, ainsi que la prévision d'affectation. 
 
 Si le compte administratif fait apparaître une différence avec les montants reportés par anticipation, l'assemblée
 délibérante procède à leur régularisation et à la reprise du résultat dans la plus proche décision budgétaire suivant le vote
-du compte administratif et, en tout état de cause, avant la fin de l'exercice.
+du compte administratif et, en tout état de cause, avant la fin de l'exercice. 
 
 Un décret fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 25 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 25
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L263-17 (M)
+	  - Code des juridictions financières - art. L263-17 (V)
 
 	**Cité par**:
 
@@ -6126,15 +6231,18 @@ Lorsque la section d'investissement du budget présente un excédent après repr
 reprendre les crédits correspondant à cet excédent en recette de fonctionnement dans les cas et conditions définis par
 décret.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 25 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 25
 
 
 ###### Article L211-7
@@ -6151,15 +6259,18 @@ la subvention.
 
 L'individualisation des crédits ou la liste établie conformément au 2° vaut décision d'attribution des subventions en cause.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 27 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 25
 
 
 #### Chapitre II : Vote et règlement
@@ -6171,15 +6282,18 @@ plus, un débat a lieu au conseil municipal sur les orientations générales du 
 engagements pluriannuels envisagés, dans un délai de deux mois précédant l'examen de celui-ci, dans les conditions fixées par
 le règlement intérieur prévu à l'article L. 121-10-1.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 26 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 26
 
 	**Cité par**:
 
@@ -6225,15 +6339,18 @@ par voie réglementaire.
 
 Un décret précise les modalités d'application des premier et deuxième alinéas du présent article.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 27 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 27
 
 	**Cité par**:
 
@@ -6244,50 +6361,50 @@ Un décret précise les modalités d'application des premier et deuxième aliné
 
 Les budgets de la commune restent déposés à la mairie et, le cas échéant, à la mairie annexe où ils sont mis sur place à la
 disposition du public dans les quinze jours qui suivent leur adoption ou éventuellement leur notification après règlement par
-le haut-commissaire.
+le haut-commissaire. 
 
-Le public est avisé de la mise à disposition de ces documents par tout moyen de publicité au choix du maire.
+Le public est avisé de la mise à disposition de ces documents par tout moyen de publicité au choix du maire. 
 
 Dans les communes de 3 500 habitants et plus, les documents budgétaires, sans préjudice des dispositions de l'article L.
-241-5, sont assortis en annexe :
+241-5, sont assortis en annexe : 
 
-1° De données synthétiques sur la situation financière de la commune ;
+1° De données synthétiques sur la situation financière de la commune ; 
 
 2° De la liste des concours attribués par la commune sous forme de prestations en nature ou de subventions. Ce document est
-joint au seul compte administratif ;
+joint au seul compte administratif ; 
 
 3° De la présentation agrégée des résultats afférents au dernier exercice connu du budget principal et des budgets annexes de
-la commune. Ce document est joint au seul compte administratif ;
+la commune. Ce document est joint au seul compte administratif ; 
 
-4° De la liste des organismes pour lesquels la commune :
+4° De la liste des organismes pour lesquels la commune : 
 
-a) Détient une part du capital ;
+a) Détient une part du capital ; 
 
-b) A garanti un emprunt ;
+b) A garanti un emprunt ; 
 
 c) A versé une subvention supérieure à neuf millions de francs CFP ou représentant plus de 50 % du produit figurant au compte
-de résultat de l'organisme.
+de résultat de l'organisme. 
 
 La liste indique le nom, la raison sociale et la nature juridique de l'organisme ainsi que la nature et le montant de
-l'engagement financier de la commune ;
+l'engagement financier de la commune ; 
 
-5° (alinéa supprimé)
+5° (alinéa supprimé) 
 
-6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leurs amortissements ;
+6° D'un tableau retraçant l'encours des emprunts garantis par la commune ainsi que l'échéancier de leurs amortissements ; 
 
-7° De la liste des délégataires de service public ;
+7° De la liste des délégataires de service public ; 
 
 8° Du tableau des acquisitions et cessions immobilières mentionné au c du II de l'article 5 de la loi n° 83-597 du 7 juillet
-1983 relative aux sociétés d'économie mixte locales.
+1983 relative aux sociétés d'économie mixte locales. 
 
 Lorsqu'une décision modificative ou le budget supplémentaire a pour effet de modifier le contenu de l'une des annexes, celle-
-ci doit être à nouveau produite pour le vote de la décision modificative ou du budget supplémentaire.
+ci doit être à nouveau produite pour le vote de la décision modificative ou du budget supplémentaire. 
 
 Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1° font l'objet d'une insertion dans une
-publication locale diffusée dans la commune.
+publication locale diffusée dans la commune. 
 
 Pour l'ensemble des communes, les documents budgétaires sont assortis d'états portant sur la situation patrimoniale et
-financière de la collectivité ainsi que sur ses différents engagements.
+financière de la collectivité ainsi que sur ses différents engagements. 
 
 Un décret fixe les conditions d'application du présent article.
 
@@ -6302,18 +6419,11 @@ Constitution.
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie annexe, L241-5
-	  - Loi n°83-597 du 7 juillet 1983 - art. 5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
+	  - Loi n°83-597 du 7 juillet 1983 - art. 5 (Ab)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 28 () JORF 27 juillet 2007
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 28
 
 	**Cité par**:
 
@@ -6330,38 +6440,40 @@ Constitution.
 
 ###### Article L212-4
 
-Les comptes certifiés des organismes mentionnés au 4° de l'article L. 212-3 sont transmis à la commune.
+Les comptes certifiés des organismes mentionnés au 4° de l'article L. 212-3 sont transmis à la commune. 
 
 Ils sont communiqués par la commune aux élus municipaux qui en font la demande, dans les conditions prévues à l'article L.
-121-22, ainsi qu'à toute personne intéressée, dans les conditions prévues à l'article L. 121-19.
+121-22, ainsi qu'à toute personne intéressée, dans les conditions prévues à l'article L. 121-19. 
 
 Sont transmis par la commune au haut-commissaire et au comptable de la commune à l'appui du compte administratif les comptes
-certifiés des organismes non dotés d'un comptable public et pour lesquels la commune :
+certifiés des organismes non dotés d'un comptable public et pour lesquels la commune : 
 
-1° Détient au moins 33 % du capital ;
+1° Détient au moins 33 % du capital ; 
 
-2° Ou a garanti un emprunt ;
+2° Ou a garanti un emprunt ; 
 
 3° Ou a versé une subvention supérieure à neuf millions de francs CFP ou représentant plus de 50 % du produit figurant au
 compte de résultat de l'organisme et dépassant le seuil prévu par le troisième alinéa de l'article 10 de la loi n° 2000-321
 du 12 avril 2000.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 10 (M)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 10 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-19 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-22 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 29 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 29
 
 	**Cité par**:
 
@@ -6456,15 +6568,18 @@ compter du 1er janvier 2008.
 Un décret définit les modalités d'application des 18° et 19° ; il définit notamment les immobilisations qui sont assujetties
 à l'obligation d'amortissement.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 30 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 30
 
 	**Cité par**:
 
@@ -6474,8 +6589,8 @@ Un décret définit les modalités d'application des 18° et 19° ; il définit 
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-38 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-14 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-38
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-14
 
 
 ###### Article L221-2-1
@@ -6483,20 +6598,23 @@ Un décret définit les modalités d'application des 18° et 19° ; il définit 
 Les recettes d'investissement prévues aux 1° et 13° de l'article L. 231-2 peuvent être utilisées au financement des dotations
 aux amortissements prévus aux 18° et 19° de l'article L. 221-2.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 31 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 31
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L221-2 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L231-2 (T)
+	  - Code des communes de la Nouvelle-Calédonie - art. L221-2 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L231-2 (V)
 
 
 ###### Article L221-3
@@ -6683,15 +6801,18 @@ communes ;
 
 13° Toutes les autres recettes annuelles et permanentes.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 32
 
 	**Nouveaux textes**:
 
@@ -6739,15 +6860,18 @@ conformément à l'article L. 211-5.
 Les communes ont la faculté de verser à la section d'investissement de leur budget tout ou partie de l'excédent éventuel de
 leurs recettes de la section de fonctionnement.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 32
 
 	**Cité par**:
 
@@ -6756,7 +6880,7 @@ leurs recettes de la section de fonctionnement.
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L211-5 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L211-5
 
 	**Nouveaux textes**:
 
@@ -6793,16 +6917,18 @@ Les créances non fiscales des communes et des établissements publics communaux
 comptant et des droits constatés perçus par l'intermédiaire des régisseurs de recettes, ne sont pas mises en recouvrement par
 les ordonnateurs locaux lorsqu'elles atteignent un seuil fixé par décret.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 32 () JORF 27 juillet 2007
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 33 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 33
 
 	**Cité par**:
 
@@ -6819,100 +6945,103 @@ les ordonnateurs locaux lorsqu'elles atteignent un seuil fixé par décret.
 ###### Article L231-5
 
 1° En l'absence de contestation, le titre de recettes individuel ou collectif émis par la commune ou l'établissement public
-local permet l'exécution forcée d'office contre le débiteur.
+local permet l'exécution forcée d'office contre le débiteur. 
 
 Toutefois, l'introduction devant une juridiction de l'instance ayant pour objet de contester le bien-fondé d'une créance
-assise et liquidée par une commune ou un établissement public local, suspend la force exécutoire du titre.
+assise et liquidée par une commune ou un établissement public local, suspend la force exécutoire du titre. 
 
 L'introduction de l'instance ayant pour objet de contester la régularité formelle d'un acte de poursuite suspend l'effet de
-cet acte ;
+cet acte ; 
 
 2° L'action dont dispose le débiteur d'une créance assise et liquidée par une commune ou un établissement public local pour
 contester directement devant la juridiction compétente le bien-fondé de ladite créance se prescrit dans le délai de trois
 mois suivant la réception du titre exécutoire ou, à défaut, du premier acte procédant de ce titre ou de la notification d'un
-acte de poursuite.
+acte de poursuite. 
 
 L'action dont dispose le débiteur de la créance visée à l'alinéa précédent pour contester directement devant le président du
 tribunal de première instance ou le juge délégué par lui pour exercer les attributions du juge de l'exécution conformément à
 l'article L. 311-12 du code de l'organisation judiciaire de la régularité formelle de l'acte de poursuite diligent à son
-encontre se prescrit dans le délai de trois mois suivant la modification de l'acte contesté ;
+encontre se prescrit dans le délai de trois mois suivant la modification de l'acte contesté ; 
 
 3° L'action des comptables publics chargés de recouvrer les créances des communes et des établissements publics locaux se
-prescrit par quatre ans à compter de la prise en charge du titre de recettes.
+prescrit par quatre ans à compter de la prise en charge du titre de recettes. 
 
 Le délai de quatre ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de la part des
-débiteurs et par tous actes interruptifs de la prescription ;
+débiteurs et par tous actes interruptifs de la prescription ; 
 
 4° Le titre de recettes individuel ou un extrait du titre de recettes collectif est adressé aux redevables sous pli simple.
 Lorsque le redevable n'a pas effectué le versement qui lui était demandé à la date limite du paiement, le comptable chargé du
 recouvrement doit lui envoyer une lettre de rappel avant la notification du premier acte de poursuite devant donner lieu à
-des frais ;
+des frais ; 
 
 5° Le recouvrement par les comptables directs du Trésor des titres rendus exécutoires dans les conditions prévues au présent
 article peut être assuré par voie d'opposition à tiers détenteur adressée aux personnes physiques ou morales qui détiennent
-des fonds pour le compte de redevables, qui ont une dette envers lui ou qui lui versent une rémunération.
+des fonds pour le compte de redevables, qui ont une dette envers lui ou qui lui versent une rémunération. 
 
 Les comptables directs du Trésor chargés du recouvrement de ces titres peuvent procéder par la voie de l'opposition à tiers
 détenteur lorsque les sommes dues par un redevable au même poste comptable sont supérieures à un montant, fixé par décret,
-pour chacune des catégories de tiers détenteur.
+pour chacune des catégories de tiers détenteur. 
 
 Le comptable public chargé du recouvrement notifie cette opposition au redevable en même temps qu'elle est adressée au tiers
-détenteur.
+détenteur. 
 
 L'opposition à tiers détenteur emporte l'effet d'attribution immédiate des sommes saisies disponibles au profit de la commune
-ou de l'établissement public local créancier à concurrence des sommes pour lesquelles l'opposition est pratiquée.
+ou de l'établissement public local créancier à concurrence des sommes pour lesquelles l'opposition est pratiquée. 
 
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
-trente jours qui suivent la réception de l'opposition par le tiers détenteur auprès du comptable chargé du recouvrement.
+trente jours qui suivent la réception de l'opposition par le tiers détenteur auprès du comptable chargé du recouvrement. 
 
 L'opposition à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme : dans ce cas, les fonds sont
-versés au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles.
+versés au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles. 
 
 Lorsqu'une même personne est simultanément destinataire de plusieurs oppositions à tiers détenteur établies au nom du même
-redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs.
+redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs. 
 
 Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre ses mains, ce dernier doit en aviser le comptable
-chargé du recouvrement dès la réception de l'opposition.
+chargé du recouvrement dès la réception de l'opposition. 
 
 Les contestations relatives à l'opposition sont introduites et instruites dans les conditions fixées aux 1° et 2° du présent
-article ;
+article ; 
 
 6° Les comptables directs du Trésor chargés du recouvrement d'une créance assise et liquidée par une commune ou ses
 établissements publics peuvent obtenir sans que le secret professionnel ne puisse leur être opposé, les informations et
-renseignements nécessaires à l'exercice de cette mission.
+renseignements nécessaires à l'exercice de cette mission. 
 
 Ce droit de communication s'exerce quel que soit le support utilisé pour la conservation de ces informations ou
-renseignements.
+renseignements. 
 
 Les renseignements et informations communiqués aux comptables visés au premier alinéa sont ceux relatifs à l'état civil des
 débiteurs, à leur domicile, aux nom et adresse de leur employeur et des établissements ou organismes auprès desquels un
 compte de dépôt est ouvert à leur nom, aux nom et adresse des organismes ou particuliers qui détiennent des fonds et valeurs
-pour leur compte, à l'immatriculation de leur véhicule.
+pour leur compte, à l'immatriculation de leur véhicule. 
 
 Ces renseignements et informations peuvent être sollicités auprès des communes et de leurs établissements publics locaux, des
 administrations et entreprises publiques, des établissements et organismes de sécurité sociale, ainsi que des organismes ou
 particuliers assurant des prestations de services à caractère juridique, financier ou comptable, ou la détention de biens ou
-de fonds pour le compte de débiteurs ;
+de fonds pour le compte de débiteurs ; 
 
 7° Lorsque la dette visée au 5° est supérieure au montant mentionné au deuxième alinéa du 5° et que le comptable direct du
 Trésor est autorisé par des dispositions législatives ou réglementaires à procéder au recouvrement forcé d'une créance, ce
 comptable doit, préalablement à la mise en oeuvre de l'opposition à tiers détenteur, demander à un huissier de justice
-d'obtenir du débiteur, dans un délai fixé par décret, qu'il s'acquitte entre ses mains du montant de sa dette.
+d'obtenir du débiteur, dans un délai fixé par décret, qu'il s'acquitte entre ses mains du montant de sa dette. 
 
-Dans ce cas, les frais de recouvrement sont versés directement par le redevable à l'huissier de justice.
+Dans ce cas, les frais de recouvrement sont versés directement par le redevable à l'huissier de justice. 
 
 Le montant des frais perçus par l'huissier de justice est calculé par application d'un taux proportionnel au montant des
 sommes recouvrées, fixé par l'autorité administrative.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 33 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 33
 
 	**Cité par**:
 
@@ -6921,7 +7050,7 @@ sommes recouvrées, fixé par l'autorité administrative.
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire L311-12
+	  - Code de l'organisation judiciaire - art. L311-12 (V)
 
 
 #### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts
@@ -7851,15 +7980,18 @@ commune aux organismes d'intérêt général visés par le code des impôts de l
 Aucune stipulation ne peut faire obstacle à ce que la mise en jeu des garanties ou cautions accordées par une commune porte,
 au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités déterminées par l'échéancier contractuel.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 34
 
 	**Cité par**:
 
@@ -7882,15 +8014,18 @@ d'habitation sociale ou les sociétés d'économie mixte ;
 2° Pour les opérations de construction, d'acquisition ou d'amélioration de logements bénéficiant d'une subvention de l'Etat
 ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 34
 
 	**Cité par**:
 
@@ -7898,7 +8033,7 @@ ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tou
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L236-8 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L236-8
 
 
 ###### Article L236-10
@@ -7907,15 +8042,18 @@ Une commune peut garantir les emprunts contractés pour financer, dans les agglo
 construction, par des groupements locaux ou par des associations cultuelles, d'édifices répondant à des besoins collectifs de
 caractère religieux.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 34
 
 
 ###### Article L236-11
@@ -7925,19 +8063,22 @@ logement ou d'habitat à un établissement public de coopération intercommunale
 une garantie d'emprunt ou son cautionnement pour les opérations de construction, d'acquisition ou d'amélioration de logements
 sociaux visées à l'article L. 236-9 et d'apporter à ces opérations des subventions ou des aides foncières.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 34 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 34
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L236-9 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L236-9
 
 
 ### TITRE IV : COMPTABILITÉ
@@ -8009,6 +8150,25 @@ de la Nouvelle-Calédonie et du ministre chargé du budget, pris après consulta
 	  - Code des communes de la Nouvelle-Calédonie - art. L. 241-3-1 (V)
 
 
+###### Article L241-3-1
+
+Le maire déclaré comptable de fait par un jugement du juge des comptes statuant définitivement est suspendu de sa qualité
+d'ordonnateur jusqu'à ce qu'il ait reçu quitus de sa gestion. Dans ce cas, le conseil municipal délibère afin de confier à un
+adjoint les attributions mentionnées aux articles L. 241-2 et L. 241-3. Cette fonction prend fin dès lors que le maire a reçu
+quitus de sa gestion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L241-2 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L241-3 (V)
+
+
 ##### Section 3 : Comptabilité du comptable
 
 ###### Article L241-4
@@ -8064,21 +8224,24 @@ moins une commune de 3 500 habitants et plus et aux syndicats mixtes mentionnés
 Le lieu de mise à disposition du public est le siège de l'établissement et les mairies des communes membres du syndicat
 intercommunal ou du syndicat mixte.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 35 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 35
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L166-5 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L212-1 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L166-5
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-1
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-3
 
 
 ###### Article L251-2
@@ -8231,6 +8394,28 @@ d'un autre établissement public ou privé, soit d'un particulier, ne sont exéc
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+###### Article L311-3
+
+En Nouvelle-Calédonie, la propriété des voies privées ouvertes à la circulation publique dans des ensembles d'habitations
+peut, dans un but d'intérêt général et après enquête publique, être transférée d'office dans le domaine public de la commune
+sur le territoire de laquelle ces voies sont situées. 
+
+La décision de l'autorité administrative portant transfert vaut classement dans le domaine public et éteint, par elle-même et
+à sa date, tous droits réels et personnels existant sur les biens transférés. 
+
+Cette décision est prise par délibération du conseil municipal. Si un propriétaire a fait connaître son opposition, cette
+décision est prise par le haut-commissaire à la demande de la commune. 
+
+Le droit des propriétaires se résout en une indemnité qui, à défaut d'accord amiable, est fixée comme en matière
+d'expropriation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 8
 
 
 #### Chapitre II : Dons et legs
@@ -8396,19 +8581,22 @@ n'excède pas la somme de 545 760 F CFP (4 500 Euros). En ce cas, la commune est
 l'article L. 122-12. Le maire, les adjoints ou les conseillers municipaux visés doivent s'abstenir d'assister et de
 participer à toute délibération du conseil municipal relative à la conclusion ou à l'approbation de ces marchés.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 36 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 36
 
 	**Cite**:
 
-	  - Code pénal 432-13 Code des communes de la Nouvelle-Calédonie L122-12
+	  - Code pénal
 
 
 #### Chapitre V : Travaux communaux
@@ -8766,6 +8954,27 @@ pendant au moins un mois.
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L321-2
+
+Les communes de Nouvelle-Calédonie peuvent créer des centres communaux d'action sociale dont les attributions, l'organisation
+et le fonctionnement sont régis par les dispositions des articles L. 123-5 à L. 123-9 du code de l'action sociale et des
+familles dans leur rédaction en vigueur à la date de la publication de l'ordonnance n° 2009-536 du 14 mai 2009. Les centres
+communaux d'action sociale ainsi créés disposent des biens, exercent les droits et assurent les obligations des bureaux de
+bienfaisance et des bureaux d'assistance auxquels ils se substituent, sans qu'il puisse être porté atteinte aux affectations
+régulièrement établies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009
+	  - Code de l'action sociale et des familles - art. L123-5 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
+
+
 #### Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages
 
 ###### Article L322-1
@@ -8773,15 +8982,18 @@ pendant au moins un mois.
 Les budgets des services publics à caractère industriel ou commercial exploités en régie, affermés ou concédés, doivent être
 équilibrés en recettes et en dépenses.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 37 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 37
 
 	**Cité par**:
 
@@ -8820,19 +9032,22 @@ premiers exercices.
 Lorsque le service a été délégué, la part prise en charge par le budget propre ne peut excéder le montant des sommes données
 au délégataire pour sujétions de service public et représenter une part substantielle de la rémunération de ce dernier.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 37 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 37
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L322-1 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L322-1
 
 
 ###### Article L322-3
@@ -8841,15 +9056,18 @@ Les délibérations ou décisions des conseils municipaux ou des autorités loca
 des dépenses des services publics industriels ou commerciaux exploités en régie, affermés ou concédés, ne peuvent être mises
 en application lorsqu'elles ne sont pas accompagnées du vote de recettes correspondantes.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 37 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 37
 
 
 #### Chapitre III : Régies municipales
@@ -8931,20 +9149,23 @@ prévues par les décrets en Conseil d'Etat mentionnés aux articles L. 323-8 et
 Les recettes et les dépenses de chaque régie sont effectuées par un comptable dont les comptes sont jugés, quel que soit le
 revenu de la régie, par la juridiction qui juge les comptes de la commune.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 38 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 38
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L323-12 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L323-8 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L323-12
+	  - Code des communes de la Nouvelle-Calédonie - art. L323-8
 
 
 ###### Article L323-5
@@ -9039,15 +9260,18 @@ Les dispositions de l'article L. 323-5 sont applicables à ces régies.
 Des décrets en Conseil d'Etat déterminent l'organisation administrative, le régime financier et le fonctionnement des régies
 dotées de la personnalité morale et de l'autonomie financière, dénommées établissement public local.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 39 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 39
 
 	**Cité par**:
 
@@ -9062,15 +9286,18 @@ dotées de la personnalité morale et de l'autonomie financière, dénommées é
 Les produits des régies dotées de la seule autonomie financière, y compris les taxes ainsi que les charges, font l'objet d'un
 budget spécial annexé au budget de la commune voté par le conseil municipal.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 40 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 40
 
 
 ###### Article L323-10
@@ -9765,11 +9992,18 @@ les conditions définies aux articles 8-1 et 8-2 de la loi n° 99-210 du 19 mars
 Ils peuvent, dans les mêmes conditions, détenir des obligations des sociétés chargées d'exploiter des services publics
 communaux à caractère industriel et commercial.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°99-210 du 19 mars 1999 - art. 8-2 (V)
+	  - Loi n°99-210 du 19 mars 1999 - art. 8-2
 
 	**Cité par**:
 
@@ -9777,13 +10011,9 @@ communaux à caractère industriel et commercial.
 	  - Code des communes de la Nouvelle-Calédonie - art. L381-2 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L381-3 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 41
 
 
 ###### Article L381-2
@@ -9880,19 +10110,22 @@ ou des activités d'intérêt général dans les conditions prévues à l'articl
 Ces dispositions ne sont pas applicables aux acquisitions d'actions dont l'objet est de rendre les communes majoritaires dans
 le capital des sociétés d'économie mixte.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 41
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L381-2 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L381-2
 
 	**Cité par**:
 
@@ -9910,19 +10143,22 @@ obligations de ce dernier.
 Pour compléter les aides visées à l'alinéa précédent, la commune peut passer des conventions avec d'autres collectivités
 territoriales concernées et disposant de moyens adaptés à la conduite de ces actions, notamment sur le plan financier.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
 
 	**Cite**:
 
 	  - Loi n°1901-07-01
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 41
 
 
 ###### Article L381-8
@@ -9952,15 +10188,18 @@ Un décret détermine la proportion maximale de capital de l'établissement de c
 collectivités territoriales, ainsi que les modalités d'octroi des garanties et notamment la quotité garantie par
 l'établissement.
 
+**Nota:**
+
+Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
+extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
+mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
+Constitution.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 41 () JORF 27 juillet 2007
+	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 41
 
 	**Cité par**:
 
@@ -9968,7 +10207,7 @@ l'établissement.
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L381-6 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L381-6
 
 
 #### Chapitre II : Aide aux entreprises
