@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2009-05-16
+Version Consolidée au 2009-08-07
 
 # Partie législative
 
@@ -2653,9 +2653,9 @@ dans les cas définis par le conseil municipal ;
 16° De régler les conséquences dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la
 limite fixée par le conseil municipal ;
 
-17° Dans les communes dotées d'un document d'urbanisme approuvé et sauf délibération contraire du conseil municipal, le
-maire, agissant au nom de la commune, instruit et délivre les autorisations de construire et de lotir et les certificats
-d'urbanisme ;
+17° Dans les communes dotées d'un document d'urbanisme approuvé et sauf délibération contraire du conseil municipal,
+d'instruire et de délivrer, en agissant au nom de la commune, les autorisations et les actes relatifs aux constructions, aux
+aménagements et aux démolitions dans les conditions fixées par la réglementation applicable localement ;
 
 18° D'exercer au nom de la commune, et sans préjudice des droits de préemption de la Nouvelle-Calédonie et des provinces, les
 droits de préemption définis par les règlements d'urbanisme ;
@@ -2673,7 +2673,7 @@ Constitution.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 13
+	  - Loi n°2009-970 du 3 août 2009 - art. 5 (V)
 
 	**Cité par**:
 
@@ -2684,8 +2684,6 @@ Constitution.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1618-1
-	  - Code général des collectivités territoriales - art. L1618-2
-	  - Code général des collectivités territoriales - art. L2221-5-1
 
 
 ###### Article L122-21
@@ -2800,6 +2798,18 @@ Le maire et les adjoints sont officiers d'état civil.
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+###### Article L122-25-1
+
+Dans le cadre des missions confiées aux maires, en tant qu'agents de l'Etat, les communes assurent la réception et la saisie
+des demandes de cartes nationales d'identité et de passeports ainsi que la remise aux intéressés de ces titres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-970 du 3 août 2009 - art. 6 (V)
 
 
 ###### Article L122-26
@@ -3109,23 +3119,21 @@ constituent pour celles-ci une dépense obligatoire.
 
 Les indemnités votées par les conseils municipaux des communes de 80 000 habitants au moins pour l'exercice effectif des
 fonctions de conseiller municipal sont, pour chaque strate considérée, au plus égales à 6 % du montant de l'indemnité
-maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier alinéa de l'article L. 123-4.
+maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier alinéa de l'article L. 123-4. 
+
+Dans les communes de moins de 80 000 habitants, il peut être versé une indemnité pour l'exercice effectif des fonctions de
+conseiller municipal, à condition que le montant total des indemnités maximales susceptibles d'être allouées au maire et aux
+adjoints ne soit pas dépassé. Cette indemnité est, pour chaque strate considérée, au plus égale à 6 % du montant de
+l'indemnité maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier alinéa de l'article L. 123-4. 
 
 En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité maximale susceptible d'être allouée au
 maire de la commune en application de l'article L. 123-4.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 16
+	  - Loi n°2009-970 du 3 août 2009 - art. 5 (V)
 
 	**Cite**:
 
@@ -5880,14 +5888,14 @@ liquidé.
 
 ###### Article L166-1
 
-Des syndicats mixtes peuvent être constitués par accord entre des syndicats de communes, des communes, des chambres de
-commerce et d'industrie, d'agriculture, de métiers et autres établissements publics, en vue d'oeuvres ou de services
-présentant une utilité pour chacune de ces personnes morales.
+Des syndicats mixtes peuvent être constitués par accord entre   des établissements publics de coopération intercommunale, des
+communes, des chambres de commerce et d'industrie, d'agriculture, de métiers et autres établissements publics, en vue
+d'oeuvres ou de services présentant une utilité pour chacune de ces personnes morales. 
 
-Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
+Ces syndicats doivent comprendre au moins une collectivité territoriale ou un groupement de ces collectivités. 
 
 La répartition des sièges au sein du comité syndical entre les collectivités locales et les établissements publics membres du
-syndicat mixte est fixée par les statuts.
+syndicat mixte est fixée par les statuts. 
 
 Le président du syndicat mixte est élu par le comité syndical ou, si les statuts le prévoient, par le bureau qu'il a
 constitué.
@@ -5899,13 +5907,9 @@ constitué.
 	  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-19 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 23 () JORF 7 mai 2005
+	  - Loi n°2009-970 du 3 août 2009 - art. 2
 
 
 ###### Article L166-1-1
@@ -5983,18 +5987,14 @@ conforme du Conseil d'Etat.
 
 ###### Article L166-5
 
-Les syndicats qui ne comprennent pas de personnes morales autres que des communes ou des syndicats de communes restent soumis
-aux dispositions du chapitre III du présent titre.
+Les syndicats qui ne comprennent pas de personnes morales autres que des communes ou   des établissements publics de
+coopération intercommunale restent soumis aux dispositions du chapitre III du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2009-970 du 3 août 2009 - art. 2
 
 	**Cité par**:
 
@@ -6823,55 +6823,53 @@ Constitution.
 
 ###### Article L231-2
 
-Les recettes de la section d'investissement du budget communal se composent :
+Les recettes de la section d'investissement du budget communal se composent : 
 
-1° Du produit du relèvement du tarif des amendes relatives à la circulation routière ;
+1° Du produit du relèvement du tarif des amendes relatives à la circulation routière ; 
 
-2° Du produit des subventions d'investissement et d'équipement ;
+2° Du produit des subventions d'investissement et d'équipement ; 
 
-3° Des versements du fonds intercommunal de péréquation pour l'équipement des communes ;
+3° Des versements du fonds intercommunal de péréquation pour l'équipement des communes ; 
 
-4° Du produit des emprunts ;
+4° Du produit des emprunts ; 
 
 5° Des subventions d'équipement de l'Etat provenant notamment de la section générale du fonds d'investissement et de
-développement économique et social (FIDES) ;
+développement économique et social (FIDES) ; 
 
-6° Des attributions de la dotation globale d'équipement ;
+6° Des attributions de la dotation globale d'équipement ; 
 
-7° Des dons et legs en nature et des dons et legs en espèces affectés à l'achat d'une immobilisation financière ou physique ;
+7° Des dons et legs en nature et des dons et legs en espèces affectés à l'achat d'une immobilisation financière ou
+physique ; 
 
-8° Du produit des cessions d'immobilisation dans les conditions fixées par décret ;
+8° Du produit des cessions d'immobilisation dans les conditions fixées par décret ; 
 
-9° De toutes autres recettes accidentelles ou temporaires dont la perception est régulièrement autorisée ;
+9° De toutes autres recettes accidentelles ou temporaires dont la perception est régulièrement autorisée ; 
 
-10° Du produit des cessions des immobilisations financières ;
+10° Du produit des cessions des immobilisations financières ; 
 
 11° Des amortissements des immobilisations pour les communes de 3 500 habitants et plus et pour celles de moins de 3 500
-habitants qui ont inscrit en dépenses des dotations aux amortissements des immobilisations ;
+habitants qui ont inscrit en dépenses des dotations aux amortissements des immobilisations ; 
 
-12° Des provisions pour les communes de 3 500 habitants et plus et pour celles de moins de 3 500 habitants qui ont inscrit en
-dépenses des dotations aux provisions ;
+12° Le cas échéant, des recettes des provisions, dans les conditions prévues par décret ; 
 
-13° Des provisions spéciales constituées pour toute dette financière faisant l'objet d'un différé de remboursement ;
+13° Des provisions spéciales constituées pour toute dette financière faisant l'objet d'un différé de remboursement ; 
 
 14° Du virement prévisionnel de la section de fonctionnement et du produit de l'affectation du résultat de fonctionnement
-conformément à l'article L. 211-5.
+conformément à l'article L. 211-5. 
 
 Les communes ont la faculté de verser à la section d'investissement de leur budget tout ou partie de l'excédent éventuel de
 leurs recettes de la section de fonctionnement.
 
 **Nota:**
 
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
+Loi n° 2009-970 du 3 août 2009 article 5 II : Le 12° de l'article L. 231-2 dans sa rédaction issue de la présente loi est
+applicable à compter de l'exercice 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 32
+	  - Loi n°2009-970 du 3 août 2009 - art. 5 (V)
 
 	**Cité par**:
 
