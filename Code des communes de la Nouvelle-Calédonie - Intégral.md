@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2009-08-07
+Version Consolidée au 2009-10-31
 
 # Partie législative
 
@@ -6500,86 +6500,78 @@ Sont obligatoires pour les communes les dépenses mises à leur charge par la lo
 
 ###### Article L221-2
 
-Les dépenses obligatoires comprennent notamment :
+Les dépenses obligatoires comprennent notamment : 
 
 1° L'entretien de l'hôtel de ville ou, si la commune n'en possède pas, la location d'une maison ou d'une salle pour en tenir
-lieu ;
+lieu ; 
 
 2° Les frais de bureau et d'impression pour le service de la commune, les frais de conservation des archives communales et du
 Journal officiel de la Nouvelle-Calédonie et, pour Nouméa et les communes chefs-lieux de subdivision administrative, les
-frais de conservation du Journal officiel ;
+frais de conservation du Journal officiel ; 
 
 3° Les indemnités de fonctions des magistrats municipaux et les cotisations des communes au régime de retraite des maires et
-adjoints ainsi que les frais de formation mentionnés à l'article L. 121-38 ;
+adjoints ainsi que les frais de formation mentionnés à l'article L. 121-38 ; 
 
-4° La rémunération des agents communaux ;
+4° La rémunération des agents communaux ; 
 
-5° Les traitements et autres frais de personnel de la police municipale et rurale ;
+5° Les traitements et autres frais de personnel de la police municipale et rurale ; 
 
-6° Les dépenses du personnel et de matériel relatives au service de secours et de défense contre l'incendie, ledit service
-étant organisé dans le cadre communal, intercommunal ou territorial.
+6° Les dépenses relatives au service d'incendie et de secours. 
 
 Toutefois, sans préjudice des dispositions applicables aux activités réglementées, les communes peuvent exiger des intéressés
 ou de leurs ayants droit une participation aux frais qu'elles ont engagés à l'occasion d'opérations de secours consécutives à
 la pratique de toute activité sportive ou de loisir. Elles déterminent les conditions dans lesquelles s'effectue cette
-participation, qui peut porter sur tout ou partie des dépenses.
+participation, qui peut porter sur tout ou partie des dépenses. 
 
 Les communes sont tenues d'informer le public des conditions d'application de l'alinéa précédent sur leur territoire, par un
 affichage approprié en mairie et, le cas échéant, dans tous les lieux où sont apposées les consignes relatives à la
-sécurité ;
+sécurité ; 
 
-7° Les pensions à la charge de la commune lorsqu'elles ont été régulièrement liquidées et approuvées ;
+7° Les pensions à la charge de la commune lorsqu'elles ont été régulièrement liquidées et approuvées ; 
 
-8° Les dépenses relatives à l'instruction publique conformément aux lois ;
+8° Les dépenses relatives à l'instruction publique conformément aux lois ; 
 
 9° Les dépenses des services municipaux de désinfection et des services communaux d'hygiène et de santé dans les conditions
-prévues par la réglementation territoriale en vigueur ;
+prévues par la réglementation territoriale en vigueur ; 
 
-10° Les frais de livrets de famille ;
+10° Les frais de livrets de famille ; 
 
-11° La clôture des cimetières, leur entretien et leur translation ;
+11° La clôture des cimetières, leur entretien et leur translation ; 
 
 12° Les frais d'établissement et de conservation des plans d'alignement et de nivellement dans les conditions prévues par les
-règlements en vigueur ;
+règlements en vigueur ; 
 
-13° Les dépenses d'entretien des voies communales ;
+13° Les dépenses d'entretien des voies communales ; 
 
-14° Les prélèvements et contributions établis par les lois sur les biens et revenus communaux ;
+14° Les prélèvements et contributions établis par les lois sur les biens et revenus communaux ; 
 
-15° L'acquittement des dettes exigibles ;
+15° L'acquittement des dettes exigibles ; 
 
-16° Les dépenses occasionnées par l'application de l'article L. 122-14 ;
+16° Les dépenses occasionnées par l'application de l'article L. 122-14 ; 
 
-17° Les dépenses occasionnées par l'application des articles L. 125-1 et suivants ;
+17° Les dépenses occasionnées par l'application des articles L. 125-1 et suivants ; 
 
 18° Pour les communes ou les groupements de communes dont la population est égale ou supérieure à 3 500 habitants et pour
-leurs établissements publics, les dotations aux amortissements des immobilisations ;
+leurs établissements publics, les dotations aux amortissements des immobilisations ; 
 
 19° Pour les communes de moins de 3 500 habitants et les groupements de communes dont la population est inférieure à 3 500
-habitants et pour leurs établissements, les dotations aux amortissements des subventions d'équipements versées ;
+habitants et pour leurs établissements, les dotations aux amortissements des subventions d'équipements versées ; 
 
-20° Les dotations aux provisions dont les modalités de constitution, d'ajustement et d'emploi sont déterminées par décret ;
+20° Les dotations aux provisions dont les modalités de constitution, d'ajustement et d'emploi sont déterminées par décret ; 
 
-21° Les intérêts de la dette et les dépenses de remboursement en capital.
+21° Les intérêts de la dette et les dépenses de remboursement en capital. 
 
 Les dispositions des 18°, 19° et 20° entrent en vigueur à compter de l'exercice 2009 pour les immobilisations acquises à
-compter du 1er janvier 2008.
+compter du 1er janvier 2008. 
 
 Un décret définit les modalités d'application des 18° et 19° ; il définit notamment les immobilisations qui sont assujetties
 à l'obligation d'amortissement.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 30
+	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
 
 	**Cité par**:
 
@@ -6591,6 +6583,7 @@ Constitution.
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-38
 	  - Code des communes de la Nouvelle-Calédonie - art. L122-14
+	  - Code des communes de la Nouvelle-Calédonie - art. L125-1
 
 
 ###### Article L221-2-1
@@ -9592,185 +9585,6 @@ sous réserve des dispositions de l'article 44 du traité instituant la Communau
 
 
 ### TITRE V : SERVICES D'INCENDIE ET DE SECOURS
-
-#### Chapitre Ier : Services communaux d'incendie et de secours
-
-###### Article L351-1
-
-Ont la qualité de service d'incendie et de secours, les centres d'incendie et de secours qui relèvent des communes ou des
-établissements publics de coopération intercommunale disposant d'un corps communal ou intercommunal de sapeurs-pompiers.
-
-Les centres d'incendie et de secours comprennent des centres de secours principaux, des centres de secours et des centres de
-première intervention.
-
-Ils peuvent comprendre un service de santé et de secours médical.
-
-Les modalités d'intervention opérationnelle des centres d'incendie et de secours sont déterminées par le règlement
-opérationnel prévu par l'article L. 351-4, après consultation des communes et des établissements de coopération
-intercommunale concernés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L351-4
-
-
-###### Article L351-2
-
-Les services d'incendie et de secours sont chargés de la prévention, de la protection et de la lutte contre les incendies.
-
-Ils concourent, avec les autres services et professionnels concernés, à la protection et à la lutte contre les autres
-accidents, sinistres et catastrophes, à l'évaluation et à la prévention des risques technologiques ou naturels ainsi qu'aux
-secours d'urgence.
-
-Dans le cadre de leurs compétences, ils exercent les missions suivantes :
-
-1° La prévention et l'évaluation des risques de sécurité civile ;
-
-2° La préparation des mesures de sauvegarde et l'organisation des moyens de secours ;
-
-3° La protection des personnes, des biens et de l'environnement ;
-
-4° Les secours d'urgence aux personnes victimes d'accidents, de sinistres ou de catastrophes ainsi qu'à leur évacuation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
-
-
-###### Article L351-3
-
-Les services d'incendie et de secours sont placés pour emploi sous l'autorité du maire ou du haut-commissaire de la
-République en Nouvelle-Calédonie, agissant dans le cadre de leurs pouvoirs respectifs de police.
-
-Pour assurer les missions de prévention qui leur incombent, notamment en ce qui concerne les risques d'incendie et de panique
-dans les établissements recevant du public, dans le cadre de la réglementation applicable en Nouvelle-Calédonie, le maire ou
-le haut-commissaire dispose des moyens relevant des services d'incendie et de secours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
-
-
-###### Article L351-4
-
-Dans l'exercice de leurs pouvoirs de police, le maire et le haut-commissaire de la République en Nouvelle-Calédonie mettent
-en oeuvre les moyens relevant des services d'incendie et de secours dans les conditions prévues par un règlement opérationnel
-arrêté par le haut-commissaire.
-
-L'organisation du commandement des opérations de secours est déterminée par ce règlement. Le commandant des opérations de
-secours désigné est chargé, sous l'autorité du directeur des secours, de la mise en oeuvre de tous les moyens publics et
-privés mobilisés pour l'accomplissement des opérations de secours.
-
-En cas de péril imminent, le commandant des opérations de secours prend les mesures nécessaires à la protection de la
-population et à la sécurité des personnels engagés. Il en rend compte au directeur des secours.
-
-Le commandant des opérations de secours peut, même en l'absence d'autorisation du propriétaire et de ses ayants droit,
-recourir à des feux tactiques pour les nécessités de la lutte contre l'incendie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L351-1 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. L351-5 (Ab)
-	  - Code des communes de la Nouvelle-Calédonie - art. L352-2 (V)
-
-
-###### Article L351-5
-
-Le règlement opérationnel prévu à l'article L. 351-4 est arrêté par le haut-commissaire dans un délai de trois ans à compter
-de la date de publication de la présente ordonnance.
-
-Dans l'attente de la publication de l'arrêté portant règlement opérationnel, le maire est chargé de désigner le commandant
-des opérations de secours lorsque celles-ci n'excèdent pas le territoire de la commune ou ne nécessitent pas le concours de
-moyens extérieurs à la commune. Le commandant des opérations de secours est désigné par le haut-commissaire dans les autres
-cas.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L351-4
-
-
-###### Article L351-6
-
-Les services d'incendie et de secours peuvent, pour l'accomplissement de leurs missions impliquant des animaux, acquérir,
-détenir et utiliser des armes de type hypodermique, dans des conditions fixées par arrêté du haut-commissaire de la
-République en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-172 du 15 février 2006 - art. 23 () JORF 17 février 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-1336 du 29 octobre 2009 - art. 9
-
 
 #### Chapitre II : Réserves communales de sécurité civile
 
