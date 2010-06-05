@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-06-06
 
 # Partie législative
 
@@ -14611,6 +14611,99 @@ revenu des valeurs mobilières et les droits d'enregistrement.
 	**Abrogé par**:
 
 	  - Décret n°2011-514 du 10 mai 2011 - art. 2
+
+
+##### Section 4 : Dotation spéciale pour le logement des instituteurs
+
+
+
+###### Article R234-12
+
+Le haut-commissaire de la République est ordonnateur des recettes et des dépenses correspondant à la seconde part de la
+dotation spéciale régie par les dispositions des articles L. 2334-27, L. 2334-28 et L. 2334-29 du code général des
+collectivités territoriales dans leur rédaction issue de l'article 9-1 de la loi n° 99-210 du 19 mars 1999 relative à la
+Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°99-210 du 19 mars 1999 - art. 9-1
+	  - Code général des collectivités territoriales - art. L2334-27
+
+	**Créé par**:
+
+	  - Décret n°2010-602 du 3 juin 2010 - art. 1
+
+
+###### Article R234-12-1
+
+Les services de l'Etat effectuent les opérations de calcul et de paiement de l'indemnité représentative de logement des
+instituteurs dans les conditions fixées par les articles R. 234-12-2 à R. 234-12-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-602 du 3 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R234-12-2
+
+
+###### Article R234-12-2
+
+Le paiement des indemnités se fait sans mandatement préalable. Un mandat de régularisation est établi mensuellement par le
+haut-commissaire au vu d'un état récapitulatif indiquant le nombre de bénéficiaires et le montant total des fonds versés.
+
+Il est établi tous les ans dans les mêmes conditions un relevé des paiements effectués par agent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-602 du 3 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R234-12-1 (V)
+
+
+###### Article R234-12-3
+
+Le calcul des sommes dues aux bénéficiaires est transmis par les services du haut-commissaire au trésorier-payeur général
+chargé du paiement de la rémunération principale des bénéficiaires de l'indemnité. Ce dernier notifie les opérations
+effectuées au comptable public qui procède aux opérations de contrôle définies au B de l'article 12 du décret n° 62-1587 du
+29 décembre 1962 portant règlement général sur la comptabilité publique, à l'exception du contrôle du caractère libératoire
+du règlement qui incombe au trésorier-payeur général.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 12
+
+	**Créé par**:
+
+	  - Décret n°2010-602 du 3 juin 2010 - art. 1
+
+
+###### Article R234-12-4
+
+La constatation des indus sur l'indemnité représentative de logement est faite par les services de l'Etat dans les conditions
+prévues par un arrêté conjoint des ministres chargés de l'éducation, de l'intérieur, du budget et de l'outre-mer.
+
+Le trop-perçu est imputé sur l'indemnité représentative de logement restant à verser. Lorsque son montant est supérieur à
+celui de l'indemnité, l'apurement se poursuit le ou les mois suivants. Lorsque le trop-perçu ne peut être récupéré selon ces
+modalités, les actes de poursuite relatifs à son recouvrement s'effectuent sans l'autorisation de l'ordonnateur. Le
+recouvrement est assuré par le comptable public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-602 du 3 juin 2010 - art. 1
 
 
 #### Chapitre V : Subventions
