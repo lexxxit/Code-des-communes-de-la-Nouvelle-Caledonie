@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -9679,6 +9679,37 @@ dommage subi.
 	**Créé par**:
 
 	  - Ordonnance n°2006-172 du 15 février 2006 - art. 24 () JORF 17 février 2006
+
+
+### TITRE VI : CIMETIÈRES ET OPÉRATIONS FUNÉRAIRES
+
+
+
+#### Chapitre II : Opérations funéraires
+
+
+
+###### Article L362-1
+
+Si, lors de l'établissement de l'acte de décès mentionné à l'article 87 du code civil, l'identité du défunt n'a pu être
+établie, l'autorisation de fermeture du cercueil ne peut être délivrée qu'après exécution, dans un délai compatible avec les
+délais régissant l'inhumation et la crémation, des réquisitions éventuellement prises par le procureur de la République aux
+fins de faire procéder aux constatations et opérations nécessaires en vue d'établir l'identité du défunt.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°87-249 du 8 avril 1987 - art. 9-3 (V)
+	  - Code de procédure pénale - art. R310 (V)
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 133
+
+	**Cite**:
+
+	  - Code civil - art. 87
 
 
 ### TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX
