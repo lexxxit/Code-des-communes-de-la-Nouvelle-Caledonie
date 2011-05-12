@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-05-13
 
 # Partie législative
 
@@ -14414,41 +14414,43 @@ revenu des valeurs mobilières et les droits d'enregistrement.
 
 ##### Section 2 : Dotation globale d'équipement
 
+##### Section 2 : Dotation d'équipement des territoires ruraux
+
 ###### Article R234-5
 
-Une fraction des crédits de la quote-part prévue à l'article L. 2334-37 du code général des collectivités territoriales,
+Une fraction des crédits de la quote-part prévue à l'article L. 2334-34 du code général des collectivités territoriales,
 calculée par application au montant de cette quote-part du rapport existant entre la population de l'ensemble des communes de
-plus de 20 000 habitants de la Polynésie française, de la Nouvelle-Calédonie et de Mayotte et la population totale des
-communes de ces territoires, est répartie entre les communes de plus de 20 000 habitants proportionnellement à leur
-population, sous forme d'une dotation annuelle versée au cours du premier trimestre de l'année.
+plus de 20 000 habitants de la Polynésie française, de la Nouvelle-Calédonie, de Wallis-et-Futuna et de Mayotte et la
+population totale des communes de ces territoires, est répartie entre les communes de plus de 20 000 habitants
+proportionnellement à leur population, sous forme d'une dotation annuelle versée au cours du premier trimestre de l'année. 
 
-Cette dotation est inscrite à la section d'investissement du budget de la commune qui l'affecte au financement des
-investissements de son choix.
+Cette dotation est inscrite à la section d'investissement ou de fonctionnement du budget de la commune, selon la nature du
+projet. La commune affecte la subvention au financement des projets de son choix.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2011-514 du 10 mai 2011 - art. 2
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2334-37 (M)
+	  - Code général des collectivités territoriales - art. L2334-34
 
 
 ###### Article R234-6
 
-Les crédits restants de la quote-part mentionnée à l'article L. 2334-37 du code général des collectivités territoriales sont
+Les crédits restants de la quote-part mentionnée à l'article L. 2334-34 du code général des collectivités territoriales sont
 délégués aux représentants de l'Etat en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et à Mayotte,
 proportionnellement à la population des communes et des circonscriptions territoriales dont la population n'excède pas 20 000
-habitants.
+habitants. 
 
 Le représentant de l'Etat attribue ces crédits aux communes mentionnées ci-dessus dans les conditions prévues à l'article R.
-234-7.
+234-7. 
 
 La population mentionnée au premier alinéa du présent article est celle qui est définie à l'article L. 2334-2 du code général
 des collectivités territoriales.
@@ -14457,11 +14459,11 @@ des collectivités territoriales.
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2011-514 du 10 mai 2011 - art. 2
 
 	**Cité par**:
 
@@ -14469,16 +14471,15 @@ des collectivités territoriales.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2334-2 (M)
-	  - Code général des collectivités territoriales - art. L2334-37 (M)
+	  - Code général des collectivités territoriales - art. L2334-2
+	  - Code général des collectivités territoriales - art. L2334-34
 
 
 ###### Article R234-7
 
 Il est créé auprès du haut-commissaire de la République en Nouvelle-Calédonie une commission chargée de fixer chaque année
 les catégories d'opérations prioritaires éligibles aux subventions mentionnées à l'article R. 234-6. Le taux minimum de
-subvention ne peut être inférieur à 20 % du montant hors taxe de l'opération tel qu'il ressort du devis estimatif. Le taux
-maximum de subvention ne peut être supérieur à 60 % de ce montant ou du montant définitif de l'opération.
+subvention ne peut être inférieur à 20 % du montant hors taxe de l'opération tel qu'il ressort du devis estimatif.
 
 Le haut-commissaire arrête chaque année, suivant les catégories et dans les limites fixées par la commission, la liste des
 opérations à subventionner ainsi que le montant de l'aide de l'Etat attribuée aux communes ainsi qu'aux groupements de
@@ -14491,11 +14492,11 @@ de groupement de communes.
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2011-514 du 10 mai 2011 - art. 2
 
 	**Cité par**:
 
@@ -14587,42 +14588,6 @@ A chaque réunion, la commission désigne un président de séance.
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-##### Section 3 : Dotation de développement rural
-
-###### Article R234-11
-
-Le montant de la quote-part de la dotation de développement rural, prévu à l'article 1648 B du code général des impôts, est
-réparti entre les communes de la Nouvelle-Calédonie et leurs groupements, à raison de :
-
-35 % proportionnellement à la population de chaque commune ;
-
-10 % proportionnellement à la superficie de chaque commune ;
-
-25 % proportionnellement à l'éloignement du chef-lieu ;
-
-30 % proportionnellement à la capacité financière de chaque commune, mesurée par le montant des centimes additionnels émis
-sur la contribution des patentes, la contribution foncière et les droits de licence de vente de boissons, l'impôt sur le
-revenu des valeurs mobilières et les droits d'enregistrement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1648 B
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2011-514 du 10 mai 2011 - art. 2
 
 
 ##### Section 4 : Dotation spéciale pour le logement des instituteurs
