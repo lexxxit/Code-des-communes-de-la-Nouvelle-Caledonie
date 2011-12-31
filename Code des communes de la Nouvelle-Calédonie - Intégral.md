@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2011-05-13
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -2607,58 +2607,57 @@ Constitution.
 ###### Article L122-20
 
 Le maire peut, en outre, par délégation du conseil municipal, être chargé, en tout ou en partie et pour la durée de son
-mandat :
+mandat : 
 
-1° D'arrêter et modifier les affectations des propriétés communales utilisées par les services publics municipaux ;
+1° D'arrêter et modifier les affectations des propriétés communales utilisées par les services publics municipaux ; 
 
 2° De fixer, dans les limites déterminées par le conseil municipal, les tarifs des droits de voirie, de stationnement, de
 dépôt temporaire sur les voies et autres lieux publics, et, d'une manière générale, des droits prévus au profit de la commune
-qui n'ont pas un caractère fiscal ;
+qui n'ont pas un caractère fiscal ; 
 
 3° De procéder, dans les limites fixées par le conseil municipal, à la réalisation des emprunts destinés au financement des
 investissements prévus par le budget, et aux opérations financières utiles à la gestion des emprunts, y compris les
 opérations de couverture des risques de taux et de change, ainsi que de prendre les décisions de dérogations à l'obligation
 de dépôt des fonds auprès de l'Etat dans les conditions définies aux articles L. 1618-1, L. 1618-2 et L. 2221-5-1 du code
-général des collectivités territoriales et de passer à cet effet les actes nécessaires ;
+général des collectivités territoriales et de passer à cet effet les actes nécessaires ; 
 
 4° De prendre toute décision concernant la préparation, la passation, l'exécution et le règlement des marchés de travaux, de
 fournitures et de services qui peuvent être réglementairement passés de gré à gré en raison de leur montant, lorsque les
-crédits sont prévus au budget ;
+crédits sont prévus au budget ; 
 
-5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ;
+5° De décider de la conclusion et de la révision du louage de choses pour une durée n'excédant pas douze ans ; 
 
-6° De passer les contrats d'assurance ;
+6° De passer les contrats d'assurance ; 
 
-7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ;
+7° De créer les régies comptables nécessaires au fonctionnement des services municipaux ; 
 
-8° De prononcer la délivrance et la reprise des concessions dans les cimetières ;
+8° De prononcer la délivrance et la reprise des concessions dans les cimetières ; 
 
-9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ;
+9° D'accepter les dons et legs qui ne sont grevés ni de conditions ni de charges ; 
 
-10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 545 760 F CFP (30 000 FF) ;
+10° De décider l'aliénation de gré à gré de biens mobiliers jusqu'à 545 760 F CFP (30 000 FF) ; 
 
-11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, avoués, huissiers de justice et
-experts ;
+11° De fixer les rémunérations et de régler les frais et honoraires des avocats, notaires, huissiers de justice et experts ; 
 
 12° De fixer, dans les limites de l'estimation des services fiscaux (domaines), le montant des offres de la commune à
-notifier aux expropriés et de répondre à leurs demandes ;
+notifier aux expropriés et de répondre à leurs demandes ; 
 
-13° De décider de la création de classes dans les établissements d'enseignement ;
+13° De décider de la création de classes dans les établissements d'enseignement ; 
 
-14° De fixer les reprises d'alignements en application d'un document d'urbanisme ;
+14° De fixer les reprises d'alignements en application d'un document d'urbanisme ; 
 
 15° D'intenter au nom de la commune les actions en justice ou de défendre la commune dans les actions intentées contre elle
-dans les cas définis par le conseil municipal ;
+dans les cas définis par le conseil municipal ; 
 
 16° De régler les conséquences dommageables des accidents dans lesquels sont impliqués des véhicules municipaux dans la
-limite fixée par le conseil municipal ;
+limite fixée par le conseil municipal ; 
 
 17° Dans les communes dotées d'un document d'urbanisme approuvé et sauf délibération contraire du conseil municipal,
 d'instruire et de délivrer, en agissant au nom de la commune, les autorisations et les actes relatifs aux constructions, aux
-aménagements et aux démolitions dans les conditions fixées par la réglementation applicable localement ;
+aménagements et aux démolitions dans les conditions fixées par la réglementation applicable localement ; 
 
 18° D'exercer au nom de la commune, et sans préjudice des droits de préemption de la Nouvelle-Calédonie et des provinces, les
-droits de préemption définis par les règlements d'urbanisme ;
+droits de préemption définis par les règlements d'urbanisme ; 
 
 19° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal.
 
@@ -2673,7 +2672,7 @@ Constitution.
 
 	**Modifié par**:
 
-	  - Loi n°2009-970 du 3 août 2009 - art. 5 (V)
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 	**Cité par**:
 
@@ -2683,7 +2682,8 @@ Constitution.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1618-1
+	  - Code général des collectivités territoriales - art. L1618-1 (V)
+	  - Code général des collectivités territoriales - art. L2221-5-1 (V)
 
 
 ###### Article L122-21
@@ -13674,17 +13674,19 @@ Les durées d'amortissement des immobilisations sont fixées pour chaque bien ou
 délibérante, qui peut se référer à un barème fixé par arrêté du ministre chargé des collectivités locales et du ministre
 chargé du budget, à l'exception toutefois : 
 
-― des frais d'étude et des frais d'insertion non suivis de réalisation qui sont amortis sur une durée maximale de cinq ans ; 
+- des frais d'étude et des frais d'insertion non suivis de réalisation qui sont amortis sur une durée maximale de cinq ans ; 
 
-― des frais de recherche et de développement qui sont amortis sur une durée maximale de cinq ans ; 
+- des frais de recherche et de développement qui sont amortis sur une durée maximale de cinq ans ; 
 
-― des brevets qui sont amortis sur la durée du privilège dont ils bénéficient ou sur leur durée effective d'utilisation si
+- des brevets qui sont amortis sur la durée du privilège dont ils bénéficient ou sur leur durée effective d'utilisation si
 elle est plus brève ; 
 
-― des subventions d'équipement versées qui sont amorties sur une durée maximale de cinq ans lorsque le bénéficiaire est une
-personne de droit privé, ou de quinze ans lorsque le bénéficiaire est un organisme public ; 
+- des subventions d'équipement versées, qui sont amorties sur une durée maximale de cinq ans lorsque la subvention finance
+des biens mobiliers, du matériel ou des études, de quinze ans lorsqu'elle finance des biens immobiliers ou des installations
+et de trente ans lorsqu'elle finance des projets d'infrastructure d'intérêt national ; les aides à l'investissement des
+entreprises ne relevant d'aucune de ces catégories sont amorties sur une durée maximale de cinq ans ; 
 
-― des subventions d'équipement versées dans le cadre de programme de logements sociaux ou de financement d'équipements
+- des subventions d'équipement versées dans le cadre de programme de logements sociaux ou de financement d'équipements
 publics annexes qui sont amortis sur une durée maximum de quinze ans lorsque le bénéficiaire est un organisme d'aménagement
 ou de construction. 
 
@@ -13702,9 +13704,9 @@ ne peut être modifiée au cours d'un même exercice budgétaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1602 du 18 décembre 2009 - art. 10
+	  - Décret n°2011-1961 du 23 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -14411,8 +14413,6 @@ revenu des valeurs mobilières et les droits d'enregistrement.
 
 	  - Code général des collectivités territoriales - art. L2334-13 (M)
 
-
-##### Section 2 : Dotation globale d'équipement
 
 ##### Section 2 : Dotation d'équipement des territoires ruraux
 
