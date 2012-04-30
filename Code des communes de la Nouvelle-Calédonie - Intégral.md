@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2012-03-19
+Version Consolidée au 2012-05-01
 
 # Partie législative
 
@@ -4442,21 +4442,22 @@ général, être accordées par le haut-commissaire.
 
 ###### Article L132-1
 
-La police des campagnes est spécialement placée sous la surveillance des gardes champêtres et de la gendarmerie nationale.
+Les missions des gardes champêtres sont définies par les articles L. 546-2 et L. 546-4 à L. 546-7 du code de la sécurité
+intérieure.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 5
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L546-2 (VD)
+	  - Code de la sécurité intérieure - art. L546-2 (V)
 
 
 ###### Article L132-1-1
@@ -4491,109 +4492,6 @@ commune.
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L132-2 (Ab)
-
-
-###### Article L132-2
-
-Les gardes champêtres sont chargés de rechercher, chacun dans le territoire pour lequel il est assermenté, les contraventions
-aux règlements et arrêtés de police municipale.
-
-Ils dressent des procès-verbaux pour constater ces contraventions.
-
-Ils constatent également les contraventions mentionnées au livre VI du code pénal, dont la liste est fixée par décret, dès
-lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des atteintes à
-l'intégrité des personnes.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L546-5 (VD)
-
-	**Cité par**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L132-1-1 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L132-3 (VT)
-	  - Code des communes de la Nouvelle-Calédonie - art. R132-3 (VT)
-
-
-###### Article L132-3
-
-Les gardes champêtres exercent leurs fonctions dans les conditions prévues aux articles 15, 22 à 25 et 27 du code de
-procédure pénale.
-
-Pour l'exercice des attributions fixées au dernier alinéa de l'article L. 132-2, les gardes champêtres agissent en
-application du 3° de l'article 21 du code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L546-6 (VD)
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L132-2
-	  - Code de procédure pénale
-	  - Code de procédure pénale - art. 15
-	  - Code de procédure pénale - art. 21
-	  - Code de procédure pénale - art. 27
-
-
-###### Article L132-4
-
-Les gardes champêtres sont responsables des dommages dans le cas où ils négligent de faire, dans les vingt-quatre heures, les
-rapports des infractions en matière de police rurale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 du 29 juin 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L546-7 (VD)
 
 
 ##### Section 2 : Pouvoirs de police dans les communes où est instituée une police d'Etat
@@ -4638,30 +4536,6 @@ ci était, antérieurement à l'acte prononçant la fusion, instituée sur le te
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-#### Chapitre III : Responsabilité
-
-###### Article L133-1
-
-L'Etat est civilement responsable des dégâts et dommages résultant des crimes et délits commis, à force ouverte ou par
-violence, par des attroupements ou rassemblements armés ou non armés, soit contre les personnes, soit contre les biens.
-
-Il peut exercer une action récursoire contre la commune lorsque la responsabilité de celle-ci se trouve engagée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 du 29 juin 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
 
 
 ### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS
@@ -10088,67 +9962,22 @@ Le maire nomme à tous les emplois communaux ; il suspend et révoque les titula
 
 ###### Article L411-2
 
-Les gardes champêtres sont nommés par le maire.
+Les conditions de nomination et d'agrément des agents de la police municipale et des gardes champêtres sont définies par les
+articles L. 546-1 et L. 546-3 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L546-3 (VD)
-
-
-###### Article L411-3
-
-Les gardes champêtres sont agréés par le procureur de la République et assermentés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 	**Codifié par**:
 
 	  - Décret n°2001-579 du 29 juin 2001
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 5
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L546-3 (VD)
-
-
-###### Article L411-4
-
-Les agents de la police municipale nommés par le maire doivent être agréés par le procureur de la République.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 du 29 juin 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L546-1 (VD)
+	  - Code de la sécurité intérieure - art. L546-1 (V)
 
 
 # Partie réglementaire
