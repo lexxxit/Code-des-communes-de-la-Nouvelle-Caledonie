@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-09-01
 
 # Partie législative
 
@@ -16455,25 +16455,26 @@ que comptable public.
 ###### Article R323-26
 
 L'agent comptable tient la comptabilité générale ainsi que, le cas échéant et sous l'autorité du directeur, la comptabilité
-analytique.
+analytique. 
 
 Le directeur peut, avec l'agrément du conseil d'administration et sur avis conforme de l'agent comptable, créer des régies de
-recettes et des régies d'avance soumises aux conditions de fonctionnement prévues aux articles 3 à 14 du décret n° 64-486 du
-28 mai 1964 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+recettes et des régies d'avances soumises aux conditions de fonctionnement prévues par le décret n° 2012-829 du 27 juin 2012
+relatif aux dispositions applicables aux régies de recettes, aux régies d'avances et aux régies de recettes et d'avances des
+collectivités publiques de la Nouvelle-Calédonie et de leurs établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°64-486 1964-05-28 art. 3 à 14
-
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2012-829 du 27 juin 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-829 du 27 juin 2012 - art. 21
 
 
 ###### Article R323-27
@@ -17467,22 +17468,23 @@ comptable de la commune.
 ###### Article R323-72
 
 Le maire peut, après avis du conseil d'exploitation et sur avis conforme de l'agent comptable, créer des régies de recettes
-et des régies d'avances soumises aux conditions de fonctionnement prévues aux articles 3 à 14 du décret n° 64-486 du 28 mai
-1964 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+et des régies d'avances soumises aux conditions de fonctionnement prévues par le décret n° 2012-829 du 27 juin 2012 relatif
+aux dispositions applicables aux régies de recettes, aux régies d'avances et aux régies de recettes et d'avances des
+collectivités publiques de la Nouvelle-Calédonie et de leurs établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°64-486 1964-05-28 art. 3 à 14
-
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2012-829 du 27 juin 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-829 du 27 juin 2012 - art. 21
 
 
 ##### Sous-section 3 : Régime financier
