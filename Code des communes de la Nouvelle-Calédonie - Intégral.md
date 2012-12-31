@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -14659,31 +14659,31 @@ emprunteurs, à décrire leur situation financière et à établir les possibili
 
 ###### Article R236-6
 
-Les pièces mentionnées à l'article précédent comprennent notamment :
+Les pièces mentionnées à l'article précédent comprennent notamment : 
 
-1° Le budget de l'exercice en cours et les actes qui l'ont complété ;
+1° Le budget de l'exercice en cours et les actes qui l'ont complété ; 
 
-2° Le compte administratif de l'exercice précédent ;
+2° Le compte administratif de l'exercice précédent ; 
 
-3° L'état du passif, comportant la situation développée de la dette et indiquant les échéances de remboursement ;
+3° L'état du passif, comportant la situation développée de la dette et indiquant les échéances de remboursement ; 
 
-4° L'état des restes à recouvrer et des restes à payer établi par le comptable et certifié par l'ordonnateur ;
+4° L'état des restes à recouvrer et des restes à payer établi par le comptable et certifié par l'ordonnateur ; 
 
-5° La situation de caisse ;
+5° La situation de caisse ; 
 
-6° La copie des délibérations du conseil municipal ou des organes de gestion ;
+6° La copie des délibérations du conseil municipal ou des organes de gestion ; 
 
-7° L'avis motivé du trésorier-payeur général ou du membre du corps du contrôle général économique et financier.
+7° L'avis motivé du trésorier-payeur général ou du        contrôleur budgétaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R236-7
@@ -14931,25 +14931,25 @@ Ces dispositions ne sont pas applicables aux opérations intéressant uniquement
 
 ###### Article R241-1
 
-Conformément aux dispositions de l'article 2 du décret n° 62-1587 du 29 décembre 1962, sont applicables aux communes et à
-leurs établissements publics les principes fondamentaux contenus dans la première partie dudit décret, dont les règles
-générales d'application à ces collectivités ainsi que, le cas échéant, les dérogations à ces principes sont fixées par décret
-en Conseil d'Etat contresigné par le ministre de l'économie et des finances, le ministre chargé de la Nouvelle-Calédonie et
-par les ministres compétents.
+Conformément aux dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique, sont applicables aux communes et à leurs établissements publics les principes fondamentaux contenus dans la
+première partie dudit décret, dont les règles générales d'application à ces collectivités ainsi que, le cas échéant, les
+dérogations à ces principes sont fixées par décret en Conseil d'Etat contresigné par le ministre de l'économie et des
+finances, le ministre chargé de la Nouvelle-Calédonie et par les ministres compétents.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 2 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
 
 
 ###### Article R241-4
@@ -16433,23 +16433,23 @@ pouvoir par une procuration régulière.
 L'agent comptable assure le fonctionnement des services de la comptabilité avec l'aide du personnel nécessaire.
 
 Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables
-publics en vertu du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique. L'agent
+publics en vertu du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. L'agent
 comptable est placé sous l'autorité du directeur, sauf pour les actes qu'il accomplit sous sa responsabilité propre en tant
 que comptable public.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 1962-12-29
-
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
 
 
 ###### Article R323-26
@@ -17446,7 +17446,7 @@ général.
 L'agent qui remplit les fonctions de comptable spécial est nommé par le haut-commissaire sur proposition du maire.
 
 Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables
-publics en vertu du règlement général sur la comptabilité publique.
+publics en vertu du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Le comptable spécial est soumis à la surveillance du comptable de la commune et du trésorier-payeur général, ainsi qu'au
 contrôle de l'inspection générale des finances.
@@ -17456,13 +17456,17 @@ comptable de la commune.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2001-183 du 22 février 2001 - art. 4 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
 
 
 ###### Article R323-72
