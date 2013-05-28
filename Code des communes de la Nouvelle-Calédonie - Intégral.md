@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-05-29
 
 # Partie législative
 
@@ -4549,17 +4549,24 @@ ci était, antérieurement à l'acte prononçant la fusion, instituée sur le te
 Constitue une section de commune toute partie d'une commune possédant à titre permanent et exclusif des biens ou des droits
 distincts de ceux de la commune.
 
-La section de commune a la personnalité juridique.
+La section de commune est une personne morale de droit public.
+
+II. - Aucune section de commune ne peut être constituée à compter de la promulgation de la loi n° 2013-428 du 27 mai 2013
+modernisant le régime des sections de commune.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2013-428 du 27 mai 2013
+
+	**Modifié par**:
+
+	  - Loi n°2013-428 du 27 mai 2013 - art. 23 (V)
 
 
 ###### Article L151-2
