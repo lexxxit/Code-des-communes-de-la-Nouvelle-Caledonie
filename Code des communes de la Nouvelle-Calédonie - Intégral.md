@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2013-05-29
+Version Consolidée au 2013-11-17
 
 # Partie législative
 
@@ -2963,6 +2963,20 @@ gratuites.
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+###### Article L123-1-1
+
+Selon des conditions fixées par une délibération annuelle, le conseil municipal peut mettre un véhicule à disposition de ses
+membres ou des agents de la commune lorsque l'exercice de leurs mandats ou de leurs fonctions le justifie.
+
+Tout autre avantage en nature fait l'objet d'une délibération nominative, qui en précise les modalités d'usage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 19
 
 
 ##### Section 2 : Frais de mission et de représentation
@@ -8261,23 +8275,20 @@ d'un autre établissement public ou privé, soit d'un particulier, ne sont exéc
 ###### Article L311-3
 
 En Nouvelle-Calédonie, la propriété des voies privées ouvertes à la circulation publique dans des ensembles d'habitations
-peut, dans un but d'intérêt général et après enquête publique, être transférée d'office dans le domaine public de la commune
-sur le territoire de laquelle ces voies sont situées. 
+peut, dans un but d'intérêt général et après enquête publique, être transférée d'office sans indemnité dans le domaine public
+de la commune sur le territoire de laquelle ces voies sont situées. 
 
 La décision de l'autorité administrative portant transfert vaut classement dans le domaine public et éteint, par elle-même et
 à sa date, tous droits réels et personnels existant sur les biens transférés. 
 
 Cette décision est prise par délibération du conseil municipal. Si un propriétaire a fait connaître son opposition, cette
-décision est prise par le haut-commissaire à la demande de la commune. 
-
-Le droit des propriétaires se résout en une indemnité qui, à défaut d'accord amiable, est fixée comme en matière
-d'expropriation.
+décision est prise par le haut-commissaire à la demande de la commune.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 8
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 5
 
 
 #### Chapitre II : Dons et legs
@@ -9913,6 +9924,26 @@ Constitution.
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. L381-6
+
+
+###### Article L381-9
+
+Les communes et leurs groupements peuvent créer, dans le cadre des compétences qui leur sont attribuées par la loi, des
+sociétés publiques locales dont ils détiennent la totalité du capital, le cas échéant avec la Nouvelle-Calédonie, les
+provinces et leurs établissements publics. 
+
+Sous réserve de dispositions contraires, l'article 8-1 et le premier alinéa de l'article 8-3 de la loi n° 99-210 du 19 mars
+1999 relative à la Nouvelle-Calédonie sont applicables aux sociétés publiques locales mentionnées au présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°99-210 du 19 mars 1999 - art. 8-1
+
+	**Créé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 6 (V)
 
 
 #### Chapitre II : Aide aux entreprises
