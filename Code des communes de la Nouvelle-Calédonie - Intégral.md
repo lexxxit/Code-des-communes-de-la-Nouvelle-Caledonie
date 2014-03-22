@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-03-23
 
 # Partie législative
 
@@ -3197,25 +3197,25 @@ l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à 
 s'entend déduction faite des cotisations sociales obligatoires. 
 
 Lorsqu'en application des dispositions du premier alinéa le montant total de rémunération et d'indemnité de fonction d'un
-conseiller municipal fait l'objet d'un écrêtement, le reversement de la part écrêtée ne peut être effectué que sur
-délibération nominative du conseil municipal ou de l'organisme concerné.
+conseiller municipal fait l'objet d'un écrêtement, la part écrêtée est reversée au budget de la personne publique au sein de
+laquelle le conseiller municipal exerce le plus récemment un mandat ou une fonction.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
-municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
+conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
+51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
+conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1210 du 13 décembre 1958 - art. 1 (V)
+	  - Ordonnance n°58-1210 du 13 décembre 1958 - art. 1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
+	  - Loi n°2013-403 du 17 mai 2013 - art. 36
 
 
 ##### Section 4 : Régime de retraite des maires et adjoints
