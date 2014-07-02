@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-03
 
 # Partie législative
 
@@ -9939,6 +9939,25 @@ Sous réserve de dispositions contraires, l'article 8-1 et le premier alinéa de
 	**Créé par**:
 
 	  - Loi n°2013-1029 du 15 novembre 2013 - art. 6 (V)
+
+
+###### Article L381-10
+
+Les communes et leurs groupements peuvent créer, dans le cadre des compétences qui leur sont attribuées par la loi, des
+sociétés d'économie mixte à opération unique. 
+
+Sous réserve de dispositions contraires, les articles L. 1541-1 à L. 1541-3 du code général des collectivités territoriales
+sont applicables aux sociétés d'économie mixte à opération unique mentionnées au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-744 du 1er juillet 2014 - art. 4
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1541-3
 
 
 #### Chapitre II : Aide aux entreprises
