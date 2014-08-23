@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2014-07-03
+Version Consolidée au 2014-08-24
 
 # Partie législative
 
@@ -7827,6 +7827,55 @@ Constitution.
 
 	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
 	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+
+
+###### Article L236-7-1
+
+I.-Sous réserve des dispositions de l'article L. 236-5, les communes, leurs groupements et leurs établissements publics
+peuvent souscrire des emprunts auprès des établissements de crédit dans les limites et sous les réserves suivantes : 
+
+1° L'emprunt est libellé en francs CFP ou en devises étrangères. Dans ce dernier cas, afin d'assurer une couverture intégrale
+du risque de change, un contrat d'échange de devises contre francs CFP est conclu lors de la souscription de l'emprunt pour
+le montant total et la durée totale de l'emprunt ; 
+
+2° Le taux d'intérêt peut être fixe ou variable. Un décret en Conseil d'Etat détermine les indices et les écarts d'indices
+autorisés pour les clauses d'indexation des taux d'intérêt variables ; 
+
+3° La formule d'indexation des taux variables répond à des critères de simplicité ou de prévisibilité des charges financières
+des collectivités territoriales, de leurs groupements et leurs établissements publics. Les conditions d'application du
+présent 3° sont fixées par décret en Conseil d'Etat. 
+
+II.-Un contrat financier adossé à un emprunt auprès d'un établissement de crédit ne peut avoir pour conséquence de déroger au
+I. Les conditions d'application du présent II sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 8
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L236-5
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R236-9-1 (V)
+
+
+###### Article L236-7-2
+
+L'article L. 1611-3-2 du code général des collectivités territoriales est applicable aux communes et à leurs groupements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 8
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1611-3-2
 
 
 ##### Section 3 : Garanties d'emprunt
