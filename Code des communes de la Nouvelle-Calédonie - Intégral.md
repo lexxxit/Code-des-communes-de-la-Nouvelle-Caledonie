@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2015-06-25
+Version Consolidée au 2015-08-09
 
 # Partie législative
 
@@ -3801,6 +3801,30 @@ Constitution.
 	**Modifié par**:
 
 	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
+
+
+##### Section 3 : Transparence des données des communes
+
+###### Article L125-12
+
+Les communes de plus de 3 500 habitants ainsi que les établissements publics de coopération intercommunale à fiscalité propre
+auxquels elles appartiennent rendent accessibles en ligne les informations publiques mentionnées à l'article 10 de la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal, lorsque ces informations se rapportent à leur territoire et
+sont disponibles sous forme électronique. 
+
+Ces informations publiques sont offertes à la réutilisation dans les conditions prévues au chapitre II du titre Ier de la
+même loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 10 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 106 (V)
 
 
 #### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.
