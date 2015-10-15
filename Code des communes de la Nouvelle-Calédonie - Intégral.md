@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -1930,6 +1930,19 @@ l'effectif légal du conseil municipal.
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L122-2-1
+
+Dans les communes de 80 000 habitants et plus, la limite fixée à l'article L. 122-2 peut donner lieu à dépassement en vue de
+la création de postes d'adjoints chargés principalement d'un ou de plusieurs quartiers, sans toutefois que le nombre de ces
+adjoints puisse excéder 10 % de l'effectif légal du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 36
+
+
 ###### Article L122-3
 
 Lorsqu'un obstacle quelconque ou l'éloignement rend difficiles, dangereuses ou momentanément impossibles les communications
@@ -2506,9 +2519,8 @@ alinéa décédées dans l'exercice de leurs fonctions.
 ###### Article L122-18
 
 L'honorariat est conféré par le haut-commissaire aux anciens maires et adjoints qui ont exercé des fonctions municipales
-pendant au moins vingt-quatre ans, dans la même commune. Sont comptés pour une durée de six ans les mandats municipaux qui,
-par suite de dispositions législatives, ont une durée inférieure à six ans, à condition qu'elle ait été supérieure à cinq
-ans.
+pendant au moins dix-huit ans. Sont comptés pour une durée de six ans les mandats municipaux qui, par suite de dispositions
+législatives, ont une durée inférieure à six ans, à condition qu'elle ait été supérieure à cinq ans.
 
 L'honorariat ne peut être refusé ou retiré par le haut-commissaire que si l'intéressé a fait l'objet d'une condamnation
 entraînant l'inéligibilité.
@@ -2519,11 +2531,11 @@ L'honorariat des maires et adjoints n'est assorti d'aucun avantage financier, im
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 37
 
 	**Cité par**:
 
@@ -5986,6 +5998,24 @@ membres pour la représenter au sein de l'organe délibérant de cet établissem
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L169-2
+
+Lorsque l'établissement public de coopération intercommunale compte plus de 10 000 habitants et comprend au moins une commune
+de 3 500 habitants et plus, le rapport sur les orientations budgétaires prévu au II de l'article L. 212-1 comporte la
+présentation mentionnée au III du même article L. 212-1. Ce rapport est transmis aux communes membres de l'établissement
+public de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 35
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-1
+
+
 ## LIVRE II : FINANCES COMMUNALES
 
 ### TITRE Ier : BUDGET
@@ -6186,23 +6216,25 @@ Constitution.
 
 ###### Article L212-1
 
-Le budget de la commune est proposé par le maire et voté par le conseil municipal. Dans les communes de 3 500 habitants et
-plus, un débat a lieu au conseil municipal sur les orientations générales du budget de l'exercice ainsi que sur les
-engagements pluriannuels envisagés, dans un délai de deux mois précédant l'examen de celui-ci, dans les conditions fixées par
-le règlement intérieur prévu à l'article L. 121-10-1.
+I.-Le budget de la commune est proposé par le maire et voté par le conseil municipal. 
 
-**Nota:**
+II.-Dans les communes de 3 500 habitants et plus, le maire présente au conseil municipal, dans un délai de deux mois
+précédant l'examen du budget, un rapport sur les orientations budgétaires, sur les engagements pluriannuels envisagés ainsi
+que sur la structure et la gestion de la dette. Ce rapport donne lieu à un débat au conseil municipal, dans les conditions
+fixées par le règlement intérieur prévu à l'article L. 121-10-1. Ce débat fait l'objet d'une délibération spécifique. 
 
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
+III.-Dans les communes de plus de 10 000 habitants, le rapport mentionné au II du présent article comporte, en outre, une
+présentation de la structure et de l'évolution des dépenses et des effectifs. Ce rapport précise notamment l'évolution
+prévisionnelle et l'exécution des dépenses de personnel ainsi que l'évolution des rémunérations, des avantages en nature et
+du temps de travail. Il est transmis au représentant de l'Etat en Nouvelle-Calédonie et au président de l'établissement
+public de coopération intercommunale dont la commune est membre ; il fait l'objet d'une publication. Le contenu du rapport
+ainsi que les modalités de sa transmission et de sa publication sont fixés par décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 26
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 35
 
 	**Cité par**:
 
@@ -6214,7 +6246,7 @@ Constitution.
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-10-1 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-10-1
 
 
 ###### Article L212-2
@@ -6315,24 +6347,26 @@ publication locale diffusée dans la commune.
 Pour l'ensemble des communes, les documents budgétaires sont assortis d'états portant sur la situation patrimoniale et
 financière de la collectivité ainsi que sur ses différents engagements. 
 
+Une présentation synthétique retraçant les informations financières essentielles est jointe au budget primitif et au compte
+administratif afin de permettre aux citoyens d'en saisir les enjeux. 
+
+La présentation prévue au dix-neuvième alinéa ainsi que le rapport adressé au conseil municipal à l'occasion du débat sur les
+orientations budgétaires de l'exercice prévu à l'article L. 212-1, la note explicative de synthèse annexée au budget primitif
+et celle annexée au compte administratif sont mis en ligne sur le site internet de la commune, lorsqu'il existe, après
+l'adoption par le conseil municipal des délibérations auxquelles ils se rapportent et dans des conditions prévues par décret
+en Conseil d'Etat. 
+
 Un décret fixe les conditions d'application du présent article.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-597 du 7 juillet 1983 - art. 5 (Ab)
+	  - Loi n°83-597 du 7 juillet 1983 - art. 5
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 28
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 35
 
 	**Cité par**:
 
