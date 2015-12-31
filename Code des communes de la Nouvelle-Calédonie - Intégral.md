@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2015-11-29
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -377,6 +377,22 @@ Le corps municipal de chaque commune se compose du conseil municipal, du maire e
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L121-1-1
+
+Les membres des conseils municipaux exercent leur mandat dans le respect des principes déontologiques consacrés par la charte
+de l'élu local prévue à l'article L. 1111-1-1 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1111-1-1
+
+
 ##### Section 1 : Formation
 
 ###### Article L121-2
@@ -514,20 +530,29 @@ Les fonctions de la délégation spéciale expirent de plein droit dès que le c
 
 ###### Article L121-8
 
-Les conseils municipaux se réunissent au moins une fois par trimestre.
+Les conseils municipaux se réunissent au moins une fois par trimestre. 
 
 Lors du renouvellement général des conseils municipaux, la première réunion se tient de plein droit au plus tôt le vendredi
-et au plus tard le dimanche suivant le tour de scrutin à l'issue duquel le conseil a été élu au complet.
+et au plus tard le dimanche suivant le tour de scrutin à l'issue duquel le conseil a été élu au complet. 
+
+Lors de la première réunion du conseil municipal, immédiatement après l'élection du maire et des adjoints, le maire donne
+lecture de la charte de l'élu local prévue à l'article L. 1111-1-1 du code général des collectivités territoriales. Le maire
+remet aux conseillers municipaux une copie de la charte de l'élu local, des sections 5 à 7 du présent chapitre et des
+chapitres III et VII du présent titre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1111-1-1 (V)
 
 
 ###### Article L121-9
@@ -1270,38 +1295,41 @@ supérieur à une fois et demie la valeur horaire du salaire minimum garanti.
 
 ###### Article L121-30
 
-I. - Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 121-28, les
+I.-Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 121-28, les
 maires, les adjoints et, dans les villes de 3 500 habitants au moins, les conseillers municipaux ont droit à un crédit
 d'heures leur permettant de disposer du temps nécessaire à l'administration de la commune ou de l'organisme auprès duquel ils
-la représentent et à la préparation des réunions des instances où ils siègent.
+la représentent et à la préparation des réunions des instances où ils siègent. 
 
-II. - Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail.
+II.-Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail. 
 
-Il est égal :
+Il est égal : 
 
 1° A l'équivalent de quatre fois la durée hebdomadaire légale du travail pour les maires des communes d'au moins 10 000
-habitants et les adjoints au maire des communes d'au moins 30 000 habitants ;
+habitants et les adjoints au maire des communes d'au moins 30 000 habitants ; 
 
 2° A l'équivalent de trois fois la durée hebdomadaire légale du travail pour les maires des communes de moins de 10 000
-habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ;
+habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ; 
 
 3° A l'équivalent d'une fois et demie la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de
-100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ;
+100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ; 
 
-4° A l'équivalent d'une fois la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999
-habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les conseillers
-municipaux des communes de 3 500 à 9 999 habitants.
+4° A l'équivalent d'une fois la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 30 000 à
+99 999 habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les
+conseillers municipaux des communes de 3 500 à 9 999 habitants ; 
 
-Les heures non utilisées pendant un trimestre ne sont pas reportables.
+5° A l'équivalent de 20 % de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de moins de
+3 500 habitants. 
+
+Les heures non utilisées pendant un trimestre ne sont pas reportables. 
 
 Lorsqu'un adjoint ou un conseiller supplée le maire dans les conditions fixées par l'article L. 122-13, il bénéficie, pendant
-la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article.
+la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article. 
 
 Les conseillers municipaux qui bénéficient d'une délégation de fonction du maire ont droit au crédit d'heures prévu pour les
-adjoints au 1° ou au 2°.
+adjoints au 1° ou au 2°. 
 
-III. - En cas de travail à temps partiel, ce crédit d'heures est réduit proportionnellement à la réduction du temps de
-travail prévue pour l'emploi considéré.
+III.-En cas de travail à temps partiel, ce crédit d'heures est réduit proportionnellement à la réduction du temps de travail
+prévue pour l'emploi considéré. 
 
 L'employeur est tenu d'accorder aux élus concernés, sur demande de ceux-ci, l'autorisation d'utiliser le crédit d'heures
 prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
@@ -1310,16 +1338,16 @@ prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (M)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-13 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-28
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-13
 
 	**Cité par**:
 
@@ -1421,8 +1449,8 @@ municipal.
 
 ###### Article L121-33-1
 
-A l'issue de son mandat, tout maire ou, dans les communes de 20 000 habitants au moins, tout adjoint qui, pour l'exercice de
-son mandat, a cessé son activité professionnelle salariée, a droit sur sa demande à une formation professionnelle.
+A l'issue de son mandat, tout maire ou, dans les communes de 10 000 habitants au moins, tout adjoint qui, pour l'exercice de
+son mandat, a cessé son activité professionnelle salariée, a droit sur sa demande à une formation professionnelle. 
 
 Lorsque l'intéressé demande à bénéficier du congé de formation prévu par la législation et la réglementation applicable en
 Nouvelle-Calédonie, le temps passé au titre du mandat local est assimilé aux durées d'activité exigées pour l'accès à ces
@@ -1432,11 +1460,11 @@ congés.
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 6 () JORF 7 mai 2005
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 
 ##### Section 6 : Garanties accordées aux membres des conseils municipaux dans leur activité professionnelle
@@ -1499,37 +1527,40 @@ sociaux.
 
 ###### Article L121-36
 
-Les maires des communes de 3 500 habitants au moins, les adjoints au maire des communes de 20 000 habitants au moins qui,
-pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, des
-dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail relatives aux droits des salariés élus membres de
-l'Assemblée nationale et du Sénat.
+Les maires des communes de 3 500 habitants au moins, les adjoints au maire des communes de 10 000 habitants au moins qui,
+pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, d'une
+suspension de leur contrat de travail jusqu'à l'expiration de leur mandat. 
+
+Le droit à réintégration est maintenu aux élus mentionnés au premier alinéa du présent article jusqu'à l'expiration de deux
+mandats consécutifs. 
 
 A la fin de leur mandat, les élus bénéficient à leur demande d'un stage de remise à niveau organisé dans l'entreprise, compte
-tenu notamment de l'évolution de leur poste de travail ou de celle des techniques utilisées.
+tenu notamment de l'évolution de leur poste de travail ou de celle des techniques utilisées. 
 
-Les fonctionnaires sont placés, sur leur demande, en position de détachement.
+Les fonctionnaires sont placés, sur leur demande, en position de détachement pour exercer les mandats mentionnés au premier
+alinéa.
+
+Lorsqu'ils n'ont pas cessé d'exercer leur activité professionnelle, les élus mentionnés au premier alinéa du présent article
+sont considérés comme des salariés protégés au sens de la réglementation applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-	**Cite**:
-
-	  - Code du travail - art. L122-24-2 (M)
-	  - Code du travail - art. L122-24-3 (M)
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 
 ##### Section 7 : Droit à la formation
 
 ###### Article L121-37
 
-Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions.
+Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions. Dans les communes de 3 500 habitants
+et plus, une formation est obligatoirement organisée au cours de la première année de mandat pour les élus ayant reçu une
+délégation. 
 
 Dans les trois mois suivant son renouvellement, le conseil municipal délibère sur l'exercice du droit à la formation de ses
 membres. Il détermine les orientations et les crédits ouverts à ce titre.
@@ -1541,11 +1572,47 @@ donne lieu à un débat annuel sur la formation des membres du conseil municipal
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 8 () JORF 7 mai 2005
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+
+###### Article L121-37-1
+
+Les membres du conseil municipal bénéficient chaque année d'un droit individuel à la formation d'une durée de vingt heures,
+cumulable sur toute la durée du mandat et financé par une cotisation obligatoire, dont le taux ne peut être inférieur à 1 %,
+assise sur leurs indemnités et collectée par un organisme collecteur national.
+
+La mise en œuvre du droit individuel à la formation relève de l'initiative de chacun des élus et peut concerner des
+formations sans lien avec l'exercice du mandat. Ces formations peuvent notamment contribuer à l'acquisition des compétences
+nécessaires à la réinsertion professionnelle à l'issue du mandat.
+
+Un décret en Conseil d'Etat détermine les modalités de mise en œuvre du droit individuel à la formation, notamment les
+conditions de la collecte de la cotisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Loi n°2016-341 du 23 mars 2016 - art. 1
+	  - Décret n°2016-870 du 29 juin 2016 - art. 1
+	  - Décret n°2016-870 du 29 juin 2016 - art. 10 (V)
+	  - Décret n°2016-870 du 29 juin 2016 - art. 2
+	  - Décret n°2016-870 du 29 juin 2016 - art. 3
+	  - Décret n°2016-870 du 29 juin 2016 - art. 4
+	  - Décret n°2016-870 du 29 juin 2016 - art. 5
+	  - Décret n°2016-870 du 29 juin 2016 - art. 8
+	  - Décret n°2016-870 du 29 juin 2016 - art. 9 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-37-2 (V)
+	  - Code général des collectivités territoriales - art. L1621-3 (M)
+	  - Code général des collectivités territoriales - art. R2123-22-1-B (V)
+	  - Code général des collectivités territoriales - art. R7125-25-2 (V)
 
 
 ###### Article L121-38
@@ -1595,28 +1662,24 @@ Les pertes de revenu subies par l'élu du fait de l'exercice de son droit à la 
 compensées par la commune dans la limite de dix-huit jours par élu pour la durée du mandat et d'une fois et demie la valeur
 horaire du salaire minimum garanti par heure.
 
-Le montant des dépenses de formation ne peut excéder 20 % du montant total des indemnités de fonction qui peuvent être
-allouées aux élus de la commune.
+Le montant prévisionnel des dépenses de formation ne peut être inférieur à 2 % du montant total des indemnités de fonction
+qui peuvent être allouées aux membres du conseil municipal en application de la section 3 du chapitre III du présent titre.
+Le montant réel des dépenses de formation ne peut excéder 20 % du même montant. Les crédits relatifs aux dépenses de
+formation qui n'ont pas été consommés à la clôture de l'exercice au titre duquel ils ont été inscrits sont affectés en
+totalité au budget de l'exercice suivant. Ils ne peuvent être reportés au-delà de l'année au cours de laquelle intervient le
+renouvellement de l'assemblée délibérante.
 
 Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 	**Cité par**:
 
@@ -2890,7 +2953,7 @@ Les arrêtés, actes de publication et de notification sont inscrits par ordre d
 ###### Article L122-29
 
 A l'occasion du renouvellement général des membres du conseil municipal, tout maire d'une commune de 1 000 habitants au moins
-ou tout adjoint dans une commune de 20 000 habitants au moins ayant reçu délégation de fonction de celui-ci qui, pour
+ou tout adjoint dans une commune de 10 000 habitants au moins ayant reçu délégation de fonction de celui-ci qui, pour
 l'exercice de son mandat, avait cessé d'exercer son activité professionnelle perçoit, sur sa demande, une allocation
 différentielle de fin de mandat s'il se trouve dans l'une des conditions suivantes :
 
@@ -2898,35 +2961,33 @@ différentielle de fin de mandat s'il se trouve dans l'une des conditions suivan
 applicables en Nouvelle-Calédonie ;
 
 - avoir repris une activité professionnelle lui procurant des revenus inférieurs aux indemnités de fonction qu'il percevait
-au titre de sa dernière fonction élective.
+au titre de sa dernière fonction élective. 
 
 Le montant mensuel de l'allocation est au plus égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle
-que l'intéressé percevait pour l'exercice de ses fonctions, dans la limite des taux maximaux fixés à l'article L. 123-4, et
-l'ensemble des ressources qu'il perçoit à l'issue de son mandat.
+que l'intéressé percevait pour l'exercice de ses fonctions, dans les conditions fixées à l'article L. 123-4, et l'ensemble
+des ressources qu'il perçoit à l'issue de son mandat. 
 
-L'allocation est versée pendant une période de six mois au plus.
+L'allocation est versée pendant une période d'un an au plus. A compter du septième mois suivant le début du versement de
+l'allocation, le taux mentionné au quatrième alinéa est au plus égal à 40 %. 
 
-Le financement de cette allocation est assuré dans les conditions prévues à l'article L. 122-30.
+Le financement de cette allocation est assuré dans les conditions prévues à l'article L. 122-30. 
 
 Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 15
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-30 (V)
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-30
-	  - Code des communes de la Nouvelle-Calédonie - art. L123-4
+	  - Code des communes de la Nouvelle-Calédonie - art. L123-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L122-30
 
 
 ###### Article L122-30
@@ -3060,21 +3121,17 @@ Constitution.
 
 ###### Article L123-2-2
 
-Les conseillers municipaux qui ne perçoivent pas d'indemnités de fonction peuvent bénéficier d'un remboursement par la
-commune, sur présentation d'un état de frais et après délibération du conseil municipal, des frais de garde d'enfants ou
-d'assistance aux personnes âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont
-engagés en raison de leur participation aux réunions mentionnées à l'article L. 121-28. Ce remboursement ne peut excéder, par
-heure, le montant horaire du salaire minimum garanti.
+Les membres du conseil municipal peuvent bénéficier d'un remboursement par la commune, sur présentation d'un état de frais et
+après délibération du conseil municipal, des frais de garde d'enfants ou d'assistance aux personnes âgées, handicapées ou à
+celles qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont engagés en raison de leur participation aux réunions
+mentionnées à l'article L. 121-28. Ce remboursement ne peut excéder, par heure, le montant horaire du salaire minimum
+garanti.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-432 du 6 mai 2005 - art. 16 () JORF 7 mai 2005
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 	**Cite**:
 
@@ -3116,9 +3173,13 @@ Les conseils municipaux peuvent voter, sur les ressources ordinaires, des indemn
 
 ###### Article L123-4
 
-Les indemnités maximales pour l'exercice effectif des fonctions de maire et adjoint des communes, de président et membres des
-délégations spéciales faisant fonction d'adjoint, de membres de certains conseils municipaux, sont fixées par arrêté du haut-
-commissaire par référence aux indices des traitements de la fonction publique de la Nouvelle-Calédonie.
+Les indemnités allouées au titre de l'exercice des fonctions de maire et de président de délégation spéciale et les
+indemnités maximales pour l'exercice effectif des fonctions d'adjoint au maire des communes, de conseiller municipal des
+communes de 100 000 habitants et plus et de membre de délégations spéciales qui fait fonction d'adjoint sont fixées par
+arrêté du haut-commissaire par référence aux indices des traitements de la fonction publique de la Nouvelle-Calédonie. 
+
+Dans les communes de 1 000 habitants et plus, le conseil municipal peut, par délibération, fixer une indemnité de fonction
+inférieure au barème fixé par arrêté, à la demande du maire. 
 
 Les dispositions du présent article sont applicables de plein droit dans toutes les communes ; les indemnités ainsi prévues
 constituent pour celles-ci une dépense obligatoire.
@@ -3127,18 +3188,37 @@ constituent pour celles-ci une dépense obligatoire.
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 	**Cité par**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. D123-2 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L122-29 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L122-29 (VD)
 	  - Code des communes de la Nouvelle-Calédonie - art. L123-5 (VD)
 	  - Code des communes de la Nouvelle-Calédonie - art. L153-4 (V)
+
+
+###### Article L123-4-1
+
+Lorsque le conseil municipal est renouvelé, les indemnités de ses membres, à l'exception de l'indemnité du maire, sont fixées
+par délibération. Cette délibération intervient dans les trois mois suivant l'installation du conseil municipal.
+
+Sauf décision contraire de la délégation spéciale, ses membres qui font fonction d'adjoint perçoivent l'indemnité fixée par
+délibération du conseil municipal pour les adjoints.
+
+Toute délibération du conseil municipal concernant les indemnités de fonction d'un ou de plusieurs de ses membres, à
+l'exception du maire, est accompagnée d'un tableau annexe récapitulant l'ensemble des indemnités allouées aux autres membres
+du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 
 ###### Article L123-5
@@ -3152,14 +3232,14 @@ conseiller municipal, à condition que le montant total des indemnités maximale
 adjoints ne soit pas dépassé. Cette indemnité est, pour chaque strate considérée, au plus égale à 6 % du montant de
 l'indemnité maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier alinéa de l'article L. 123-4. 
 
-En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité maximale susceptible d'être allouée au
-maire de la commune en application de l'article L. 123-4.
+En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité             fixée à l'article L.
+123-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-970 du 3 août 2009 - art. 5 (V)
+	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 	**Cite**:
 
@@ -8908,13 +8988,16 @@ règlement intérieur.
 
 Dans les communes de 3 500 habitants et plus, les documents relatifs à l'exploitation des services publics délégués, qui
 doivent être remis à la commune en application de conventions de délégation de service public, à l'exception de ceux
-mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
-l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, sont mis à la disposition du
-public sur place à la mairie et, le cas échéant, à la mairie annexe, dans les quinze jours qui suivent leur réception. Le
-public est avisé par le maire de cette réception par voie d'affiche apposée en mairie et aux lieux habituels d'affichage
-pendant au moins un mois.
+mentionnés aux articles L. 311-5 à L. 311-8 du code des relations entre le public et l'administration, sont mis à la
+disposition du public sur place à la mairie et, le cas échéant, à la mairie annexe, dans les quinze jours qui suivent leur
+réception. Le public est avisé par le maire de cette réception par voie d'affiche apposée en mairie et aux lieux habituels
+d'affichage pendant au moins un mois.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 	**Cité par**:
 
@@ -8922,16 +9005,7 @@ pendant au moins un mois.
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie annexe
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2001-579 2001-06-29
-
-	**Créé par**:
-
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article L321-2
@@ -11469,26 +11543,39 @@ collectivités territoriales ainsi qu'aux agents contractuels de l'Etat, des col
 
 ###### Article R121-17
 
-La durée du crédit d'heures pour un trimestre est égale :
+I.-La durée du crédit d'heures pour un trimestre est égale : 
 
-1° A cent dix-sept heures pour les maires des villes d'au moins 10 000 habitants et les adjoints au maire des communes d'au
-moins 30 000 habitants ;
+" 1° A cent cinquante-six heures pour les maires des communes d'au moins 10 000 habitants et les adjoints au maire des
+communes d'au moins 30 000 habitants ; 
 
-2° A cinquante-huit heures trente pour les maires des communes de moins de 10 000 habitants et pour les adjoints au maire des
-communes de 10 000 à 29 999 habitants ;
+" 2° A cent dix-sept heures pour les maires des communes de moins de 10 000 habitants et les adjoints au maire des communes
+de 10 000 à 29 999 habitants ; 
 
-3° A vingt-trois heures trente pour les conseillers municipaux des villes d'au moins 100 000 habitants et les adjoints au
-maire des villes de moins de 10 000 habitants.
+" 3° A cinquante-huit heures trente pour les conseillers municipaux des communes d'au moins 100 000 habitants et les adjoints
+au maire des communes de moins de 10 000 habitants ; 
+
+" 4° A trente-neuf heures pour les conseillers municipaux des communes de 30 000 à 99 999 habitants, à vingt-trois heures
+pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et à onze heures pour les conseillers municipaux
+des communes de 3 500 à 9 999 habitants ; 
+
+5° A sept heures trente pour les conseillers municipaux des communes de moins de 3 500 habitants. 
+
+" II.-La durée du crédit d'heures de l'adjoint ou du conseiller municipal qui supplée le maire dans les conditions prévues
+par l'article L. 122-13 est, pendant la durée de la suppléance, celle prévue par le I du présent article pour le maire de la
+commune. 
+
+" III.-La durée du crédit d'heures du conseiller municipal qui bénéficie d'une délégation de fonction du maire est celle
+prévue par le I du présent article pour un adjoint au maire de la commune. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Décret n°2015-1352 du 26 octobre 2015 - art. 4
 
 
 ###### Article R121-18
@@ -12082,6 +12169,90 @@ L'inscription par ordre de date des arrêtés, actes de publication et de notifi
 	**Créé par**:
 
 	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+##### Section 4 : Garanties accordées à l'issue du mandat
+
+###### Article D122-11
+
+A l'issue de leur mandat, les personnes ayant exercé un des mandats électifs mentionnés à l'article L. 122-29 bénéficient de
+l'allocation différentielle de fin de mandat, sous réserve de remplir les conditions prévues à l'article précité. 
+
+Pour l'application des présentes dispositions, la condition de cessation de l'activité professionnelle s'apprécie à l'issue
+du mandat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-12
+
+La demande, accompagnée des pièces justificatives permettant de déterminer le montant de l'allocation susceptible d'être
+attribuée, doit être adressée à la Caisse des dépôts et consignations au plus tard cinq mois après l'issue du mandat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-13
+
+L'indemnité différentielle de fin de mandat est personnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-14
+
+Pendant les six premiers mois, son montant est égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle,
+avant retenue à la source de l'imposition, que l'intéressé percevait pour l'exercice de ses fonctions électives, et
+l'ensemble des ressources perçues au titre des revenus du travail, des revenus de substitution ou des indemnités liées à
+d'autres mandats électifs. 
+
+A compter du septième mois suivant le début de versement de l'allocation, le montant de l'allocation différentielle de fin de
+mandat est égal à 40 %.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-15
+
+L'indemnité mensuelle est versée pour une durée maximale d'un an. 
+
+L'indemnité est versée chaque mois dès lors que son montant mensuel est supérieur à 12 000 francs CFP. Dans le cas où le
+montant de l'allocation est inférieur à cette somme, le paiement est effectué en deux fois au cours des six premiers mois, et
+à compter du septième mois, en deux fois également.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-16
+
+Le bénéficiaire est tenu de faire connaître sans délai tout changement de situation au regard du montant des ressources qu'il
+perçoit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
 
 
 #### Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales
@@ -13353,49 +13524,55 @@ Etat de variation des immobilisations.
 ###### Article R212-1
 
 Dans les communes de 3.500 habitants et plus, les données synthétiques sur la situation financière de la commune, prévues au
-1 du troisième alinéa de l'article L. 212-3, comprennent les ratios suivants :
+1 du troisième alinéa de l'article L. 212-3, comprennent les ratios suivants : 
 
-1° Dépenses réelles de fonctionnement/population ;
+1° Dépenses réelles de fonctionnement/ population ; 
 
-2° Recettes réelles de fonctionnement/population ;
+2° Recettes réelles de fonctionnement/ population ; 
 
-3° Dépenses d'équipement brut/population ;
+3° Dépenses d'équipement brut/ population ; 
 
-4° Encours réel de la dette/population ; l'encours réel de la dette correspondant au cumul des remboursements en capital des
+4° Encours réel de la dette/ population ; l'encours réel de la dette correspondant au cumul des remboursements en capital des
 emprunts non échus et des dettes à long et moyen terme, à l'exclusion des remboursements couverts par des recettes de
-transfert reçues sous forme de dotations ou de participations ;
+transfert reçues sous forme de dotations ou de participations ; 
 
-5° Dotation globale de fonctionnement/population ;
+Lorsqu'une collectivité, ou l'un de ses établissements publics, doit acquitter une indemnité de remboursement anticipé
+d'emprunt, et dans le cas où elle bénéficie d'une aide octroyée par le fonds de soutien créé par l'article 92 de la loi n°
+2013-1278 du 29 décembre 2013 de finances pour 2014, cette collectivité peut déduire de cet encours de dette le montant de la
+créance restant à percevoir du fonds de soutien. 
 
-6° Dotation du fonds intercommunal de péréquation (fonctionnement)/population.
+5° Dotation globale de fonctionnement/ population ; 
 
-Dans les communes de 10 000 habitants et plus, ces données comprennent en outre les ratios suivants :
+6° Dotation du fonds intercommunal de péréquation (fonctionnement)/ population. 
 
-7° Dépenses de personnel/dépenses réelles de fonctionnement ;
+Dans les communes de 10 000 habitants et plus, ces données comprennent en outre les ratios suivants : 
 
-8° Dépenses réelles de fonctionnement et remboursement annuel de la dette en capital/recettes réelles de fonctionnement ;
+7° Dépenses de personnel/ dépenses réelles de fonctionnement ; 
 
-9° Dépenses d'équipement brut/recettes réelles de fonctionnement ;
+8° Dépenses réelles de fonctionnement et remboursement annuel de la dette en capital/ recettes réelles de fonctionnement ; 
 
-10° Encours réel de la dette/recettes réelles de fonctionnement.
+9° Dépenses d'équipement brut/ recettes réelles de fonctionnement ; 
+
+10° Encours réel de la dette/ recettes réelles de fonctionnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-579 2001-06-29
+	  - Décret n°2001-579 du 29 juin 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 92
+	  - Code des communes de la Nouvelle-Calédonie - art. L212-3
+
+	**Modifié par**:
+
+	  - Décret n°2015-1893 du 29 décembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code des communes de la Nouvelle-Calédonie - art. D212-2 (VD)
-
-	**Cite**:
-
-	  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
 
 
 ###### Article R212-3
