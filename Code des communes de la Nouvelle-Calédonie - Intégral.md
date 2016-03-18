@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -3900,9 +3900,8 @@ Constitution.
 ###### Article L125-12
 
 Les communes de plus de 3 500 habitants ainsi que les établissements publics de coopération intercommunale à fiscalité propre
-auxquels elles appartiennent rendent accessibles en ligne les informations publiques mentionnées à l'article 10 de la loi n°
-78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
-diverses dispositions d'ordre administratif, social et fiscal, lorsque ces informations se rapportent à leur territoire et
+auxquels elles appartiennent rendent accessibles en ligne les informations publiques mentionnées aux articles L. 321-1 et L.
+321-2 du code des relations entre le public et l'administration, lorsque ces informations se rapportent à leur territoire et
 sont disponibles sous forme électronique. 
 
 Ces informations publiques sont offertes à la réutilisation dans les conditions prévues au chapitre II du titre Ier de la
@@ -3910,13 +3909,18 @@ même loi.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
+
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 10 (V)
-
-	**Créé par**:
-
-	  - Loi n°2015-991 du 7 août 2015 - art. 106 (V)
+	  - Code des relations entre le public et l'administration - art. L321-1
+	  - Code des relations entre le public et l'administration - art. L321-2
 
 
 #### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.
