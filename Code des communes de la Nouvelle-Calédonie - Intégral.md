@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-03-25
+Version Consolidée au 2016-04-11
 
 # Partie législative
 
@@ -14456,9 +14456,9 @@ revenu des valeurs mobilières et les droits d'enregistrement.
 
 Une fraction des crédits de la quote-part prévue à l'article L. 2334-34 du code général des collectivités territoriales,
 calculée par application au montant de cette quote-part du rapport existant entre la population de l'ensemble des communes de
-plus de 20 000 habitants de la Polynésie française, de la Nouvelle-Calédonie, de Wallis-et-Futuna et de Mayotte et la
-population totale des communes de ces territoires, est répartie entre les communes de plus de 20 000 habitants
-proportionnellement à leur population, sous forme d'une dotation annuelle versée au cours du premier trimestre de l'année. 
+plus de 20 000 habitants de la Polynésie française, de la Nouvelle-Calédonie et de Wallis-et-Futuna et la population totale
+des communes de ces territoires, est répartie entre les communes de plus de 20 000 habitants proportionnellement à leur
+population, sous forme d'une dotation annuelle versée au cours du premier trimestre de l'année. 
 
 Cette dotation est inscrite à la section d'investissement ou de fonctionnement du budget de la commune, selon la nature du
 projet. La commune affecte la subvention au financement des projets de son choix.
@@ -14471,7 +14471,7 @@ projet. La commune affecte la subvention au financement des projets de son choix
 
 	**Modifié par**:
 
-	  - Décret n°2011-514 du 10 mai 2011 - art. 2
+	  - Décret n°2016-423 du 8 avril 2016 - art. 6
 
 	**Cite**:
 
@@ -14481,9 +14481,8 @@ projet. La commune affecte la subvention au financement des projets de son choix
 ###### Article R234-6
 
 Les crédits restants de la quote-part mentionnée à l'article L. 2334-34 du code général des collectivités territoriales sont
-délégués aux représentants de l'Etat en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et à Mayotte,
-proportionnellement à la population des communes et des circonscriptions territoriales dont la population n'excède pas 20 000
-habitants. 
+délégués aux représentants de l'Etat en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, proportionnellement
+à la population des communes et des circonscriptions territoriales dont la population n'excède pas 20 000 habitants. 
 
 Le représentant de l'Etat attribue ces crédits aux communes mentionnées ci-dessus dans les conditions prévues à l'article R.
 234-7. 
@@ -14499,7 +14498,7 @@ des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Décret n°2011-514 du 10 mai 2011 - art. 2
+	  - Décret n°2016-423 du 8 avril 2016 - art. 6
 
 	**Cité par**:
 
