@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-06-27
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -11189,6 +11189,61 @@ sur support papier.
 	  - Code des communes de la Nouvelle-Calédonie - art. D121-36
 
 
+###### Article D121-38
+
+L'assiette de la cotisation annuelle obligatoire due par les membres du conseil municipal au titre du droit individuel à la
+formation, mentionné à l'article L. 121-37-1, est déterminée sur la base du montant brut annuel des indemnités de fonction
+perçues par les membres du conseil municipal.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2016-871 du 29 juin 2016, les cotisations dues au titre de l'année 2016 sont
+exigibles, à titre dérogatoire, au 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-871 du 29 juin 2016 - art. 2
+
+
+###### Article D121-39
+
+Le taux de la cotisation obligatoire due par les membres du conseil municipal pour le financement du droit individuel à la
+formation des élus locaux est fixé à 1 % du montant mentionné à l'article D. 121-38. La cotisation est versée au plus tard le
+31 décembre de l'année au titre de laquelle elle est due.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2016-871 du 29 juin 2016, les cotisations dues au titre de l'année 2016 sont
+exigibles, à titre dérogatoire, au 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-871 du 29 juin 2016 - art. 2
+
+
+###### Article D121-40
+
+Les communes précomptent et reversent la cotisation due par les membres du conseil municipal sur leurs indemnités de fonction
+au gestionnaire du fonds mentionné à l'article L. 1621-3 du code général des collectivités territoriales. Elles transmettent
+chaque année à la Caisse des dépôts et consignations un état retraçant l'assiette ainsi que le montant de la cotisation à la
+charge des élus
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2016-871 du 29 juin 2016, les cotisations dues au titre de l'année 2016 sont
+exigibles, à titre dérogatoire, au 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-871 du 29 juin 2016 - art. 2
+
+
 ###### Article R121-1
 
 Après le maire, les adjoints prennent rang dans l'ordre de leur nomination et les conseillers municipaux dans l'ordre du
@@ -11974,6 +12029,96 @@ territoriales et de leurs établissements publics.
 	**Cite**:
 
 	  - Code des communes de la Nouvelle-Calédonie R121-30 à R121-32
+
+
+##### Sous-Section 4 -   Droit individuel à la formation  
+
+###### Article R121-34
+
+Les formations éligibles au titre du droit individuel sont les formations relatives à l'exercice du mandat du membre du
+conseil municipal et les formations contribuant à l'acquisition des compétences nécessaires, le cas échéant, à sa réinsertion
+professionnelle à l'issue du mandat.
+
+Les formations relatives à l'exercice du mandat sont les formations dispensées par un organisme agréé par le ministre de
+l'intérieur dans les conditions définies par le décret n° 92-1207 du 16 novembre 1992 fixant les conditions de délivrance
+d'un agrément aux organismes dispensant de la formation destinée aux élus locaux, en tant qu'il demeure applicable en
+Nouvelle-Calédonie.
+
+Les formations contribuant à la réinsertion professionnelle du membre du conseil municipal sont les formations qui entrent
+dans le champ d'application des dispositions prévues par le code du travail de Nouvelle-Calédonie relatives à la formation
+professionnelle continue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-870 du 29 juin 2016 - art. 6
+
+
+###### Article R121-35
+
+Le droit individuel à la formation est comptabilisé en heures. Le membre du conseil municipal acquiert vingt heures par année
+complète de mandat au titre du droit individuel à la formation des élus locaux. Quel que soit le nombre de mandats exercés
+par l'élu local, le nombre d'heures acquises au titre des articles L. 2123-12-1, L. 3123-10-1, L. 4135-10-1, L. 7125-12-1 et
+L. 7227-12-1 du code général des collectivités territoriales ne peut dépasser vingt heures par année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-870 du 29 juin 2016 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2123-12-1
+	  - Code général des collectivités territoriales - art. L3123-10-1
+	  - Code général des collectivités territoriales - art. L4135-10-1
+	  - Code général des collectivités territoriales - art. L7125-12-1
+	  - Code général des collectivités territoriales - art. L7227-12-1
+
+
+###### Article R121-36
+
+Le membre du conseil municipal qui souhaite mobiliser son droit individuel à la formation adresse une demande au gestionnaire
+du fonds de financement et de gestion du droit individuel à la formation des élus locaux mentionné à l'article L. 1621-3 du
+code général des collectivités territoriales, par courrier ou par voie dématérialisée.
+
+La demande permettant la mise en œuvre du droit individuel à la formation comporte obligatoirement une copie du formulaire
+d'inscription auprès de l'organisme dispensateur de la formation éligible dûment complété et doit être adressée au
+gestionnaire du fonds mentionné à l'article L. 1621-3 du code général des collectivités territoriales au plus tard dans les
+six mois qui suivent l'expiration du mandat de membre du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-870 du 29 juin 2016 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1621-3
+
+
+###### Article R121-37
+
+Le membre du conseil municipal qui a engagé des frais de déplacement et de séjour pour suivre une formation dans le cadre du
+droit individuel à la formation transmet au gestionnaire du fonds mentionné à l'article L. 1621-3 du code général des
+collectivités territoriales un état de frais aux fins de remboursement.
+
+Les frais de déplacement et de séjour sont remboursés au membre du conseil municipal dans les conditions définies par le
+décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les
+déplacements temporaires des personnels civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-781 du 3 juillet 2006
+	  - Code général des collectivités territoriales - art. L1621-3
+
+	**Créé par**:
+
+	  - Décret n°2016-870 du 29 juin 2016 - art. 6
 
 
 #### Chapitre II : Maires et adjoints
