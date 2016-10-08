@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -3913,34 +3913,6 @@ Constitution.
 	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
-##### Section 3 : Transparence des données des communes
-
-###### Article L125-12
-
-Les communes de plus de 3 500 habitants ainsi que les établissements publics de coopération intercommunale à fiscalité propre
-auxquels elles appartiennent rendent accessibles en ligne les informations publiques mentionnées aux articles L. 321-1 et L.
-321-2 du code des relations entre le public et l'administration, lorsque ces informations se rapportent à leur territoire et
-sont disponibles sous forme électronique. 
-
-Ces informations publiques sont offertes à la réutilisation dans les conditions prévues au chapitre II du titre Ier de la
-même loi.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2016-307 du 17 mars 2016 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 6 (V)
-
-	**Cite**:
-
-	  - Code des relations entre le public et l'administration - art. L321-1
-	  - Code des relations entre le public et l'administration - art. L321-2
-
-
 #### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.
 
 ###### Article L126-1
@@ -6498,7 +6470,7 @@ certifiés des organismes non dotés d'un comptable public et pour lesquels la c
 2° Ou a garanti un emprunt ; 
 
 3° Ou a versé une subvention supérieure à neuf millions de francs CFP ou représentant plus de 50 % du produit figurant au
-compte de résultat de l'organisme et dépassant le seuil prévu par le troisième alinéa de l'article 10 de la loi n° 2000-321
+compte de résultat de l'organisme et dépassant le seuil prévu par le quatrième  alinéa de l'article 10 de la loi n° 2000-321
 du 12 avril 2000.
 
 **Nota:**
@@ -6512,18 +6484,18 @@ Constitution.
 
 	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 10 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-19 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-22 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-538 du 14 mai 2009 - art. 29
+	  - Loi n°2000-321 du 12 avril 2000 - art. 10
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-19
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-22
 
 	**Cité par**:
 
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 18
 	  - Code des communes de la Nouvelle-Calédonie - art. R212-6 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 18
 
 
 ### TITRE II : DÉPENSES
