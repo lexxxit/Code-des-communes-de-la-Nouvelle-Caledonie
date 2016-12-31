@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -1583,20 +1583,16 @@ donne lieu à un débat annuel sur la formation des membres du conseil municipal
 
 Les membres du conseil municipal bénéficient chaque année d'un droit individuel à la formation d'une durée de vingt heures,
 cumulable sur toute la durée du mandat et financé par une cotisation obligatoire, dont le taux ne peut être inférieur à 1 %,
-assise sur leurs indemnités et collectée par un organisme collecteur national.
+assise sur leurs indemnités, dans les conditions prévues à l'article L. 1621-3 du code général des collectivités
+territoriales. 
 
 La mise en œuvre du droit individuel à la formation relève de l'initiative de chacun des élus et peut concerner des
 formations sans lien avec l'exercice du mandat. Ces formations peuvent notamment contribuer à l'acquisition des compétences
-nécessaires à la réinsertion professionnelle à l'issue du mandat.
+nécessaires à la réinsertion professionnelle à l'issue du mandat. 
 
-Un décret en Conseil d'Etat détermine les modalités de mise en œuvre du droit individuel à la formation, notamment les
-conditions de la collecte de la cotisation.
+Un décret en Conseil d'Etat détermine les modalités de mise en œuvre du droit individuel à la formation.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 	**Cité par**:
 
@@ -1610,9 +1606,13 @@ conditions de la collecte de la cotisation.
 	  - Décret n°2016-870 du 29 juin 2016 - art. 8
 	  - Décret n°2016-870 du 29 juin 2016 - art. 9 (V)
 	  - Code des communes de la Nouvelle-Calédonie - art. L121-37-2 (V)
-	  - Code général des collectivités territoriales - art. L1621-3 (M)
+	  - Code général des collectivités territoriales - art. L1621-3 (V)
 	  - Code général des collectivités territoriales - art. R2123-22-1-B (V)
 	  - Code général des collectivités territoriales - art. R7125-25-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 140
 
 
 ###### Article L121-37-2
